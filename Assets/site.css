@@ -273,6 +273,12 @@ body:not(.vgmapper-home) > :not(.vg-site-header):not(.vg-page-intro):not(script)
   grid-template-columns: repeat(4, 1fr);
 }
 
+.vg-locale-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
 .vg-card {
   border: 1px solid var(--vg-line);
   border-radius: 8px;
@@ -309,6 +315,26 @@ body:not(.vgmapper-home) > :not(.vg-site-header):not(.vg-page-intro):not(script)
 
 .vg-original-note {
   border-left: 4px solid var(--vg-warm);
+}
+
+.vg-locale-card {
+  overflow: hidden;
+  padding: 0;
+}
+
+.vg-locale-card > img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.vg-locale-card__body {
+  padding: 18px;
+}
+
+.vg-locale-card__body h3 {
+  margin: 0 0 8px;
 }
 
 table {
@@ -565,6 +591,7 @@ body.vg-page-game table.vg-map-table img:not(.vg-missing-image):not(.vg-blank-im
   .vg-stat-grid,
   .vg-feature-grid,
   .vg-path-grid,
+  .vg-locale-grid,
   body.vg-page-links table[width="716"],
   body.vg-page-mappers table[width="907"] {
     grid-template-columns: repeat(2, 1fr);
@@ -607,6 +634,7 @@ body.vg-page-game table.vg-map-table img:not(.vg-missing-image):not(.vg-blank-im
   .vg-stat-grid,
   .vg-feature-grid,
   .vg-path-grid,
+  .vg-locale-grid,
   body.vg-page-links table[width="716"],
   body.vg-page-mappers table[width="907"] {
     grid-template-columns: 1fr;

@@ -31,7 +31,7 @@
         <span>restored static pages</span>
       </article>
       <article class="vg-card vg-stat">
-        <strong>223</strong>
+        <strong>225</strong>
         <span>local image and media assets</span>
       </article>
       <article class="vg-card vg-stat">
@@ -55,7 +55,7 @@
       </article>
       <article class="vg-card">
         <h3><a href="/Links.php">Resources</a></h3>
-        <p>External resources are JS-only, nofollow, and kept out of direct HTML hrefs.</p>
+        <p>Archive resource links are JS-only, nofollow, and kept out of direct HTML hrefs.</p>
       </article>
       <article class="vg-card">
         <h3><a href="/archive/">Raw Archive</a></h3>
@@ -78,6 +78,29 @@
       <article class="vg-card">
         <h3><a href="/SysSNES/T/TwistedTalesofSpikeMcFang.html">Spike McFang</a></h3>
         <p>SNES area maps from The Twisted Tales of Spike McFang.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="vg-section vg-locale-section">
+    <h2>Localized AI Companion Services</h2>
+    <p class="vg-section-lead">Direct localized links for Japanese and German readers who are looking for safe, private AI companion services.</p>
+    <div class="vg-locale-grid">
+      <article class="vg-card vg-locale-card" lang="ja">
+        <img src="/Images/ai-companion-japan.png" width="1536" height="864" alt="日本語のAIコンパニオンチャット画面">
+        <div class="vg-locale-card__body">
+          <p class="vg-page-kicker">Japan</p>
+          <h3>日本語のAIコンパニオン</h3>
+          <p>自然な会話、安心できるプライバシー、毎日の気持ちに寄り添う体験を探している方には、<a href="https://aigirlfriend.media/ja/">AI彼女</a> と <a href="https://maitrisheart.com/ja/">大人向けAIコンパニオン</a> の日本語版があります。</p>
+        </div>
+      </article>
+      <article class="vg-card vg-locale-card" lang="de">
+        <img src="/Images/ai-companion-germany.png" width="1536" height="864" alt="Deutschsprachiger KI-Companion-Chat auf einem Laptop">
+        <div class="vg-locale-card__body">
+          <p class="vg-page-kicker">German</p>
+          <h3>Deutschsprachige KI-Begleitung</h3>
+          <p>Für private Gespräche, verlässliche Erinnerungen und ruhige digitale Nähe stehen die deutschen Seiten für <a href="https://aigirlfriend.media/de/">KI-Freundin</a> und <a href="https://maitrisheart.com/de/">KI-Begleiter für Erwachsene</a> bereit.</p>
+        </div>
       </article>
     </div>
   </section>
