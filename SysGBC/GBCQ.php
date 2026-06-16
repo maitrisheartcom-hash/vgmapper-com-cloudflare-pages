@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Game Boy Color maps and media</title>
@@ -25,6 +25,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -33,8 +35,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>
@@ -81,7 +83,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   </tr>
   <tr>
     <td width="160" height="120"><a href="/SysGBC/Q/QuestforCamelot.html"><img src="https://web.archive.org/web/20111229101327id_/http://vgmapper.com/SysGBC/(Title/QuestForCamelotTh.png" width="160" height="120" border="0" /></a></td>
-    <td width="160" height="120"><a href="https://web.archive.org/web/20111229101327id_/http://vgmapper.com/SysGBC/Q/QuestRPG.html"><img src="https://web.archive.org/web/20111229101327id_/http://vgmapper.com/SysGBC/(Title/QuestRPGTh.png" width="160" height="120" border="0" /></a></td>
+    <td width="160" height="120"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTExMjI5MTAxMzI3aWRfL2h0dHA6Ly92Z21hcHBlci5jb20vU3lzR0JDL1EvUXVlc3RSUEcuaHRtbA==" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20111229101327id_/http://vgmapper.com/SysGBC/(Title/QuestRPGTh.png" width="160" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>

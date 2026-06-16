@@ -1,6 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Sega Master System maps and media</title>
@@ -19,6 +19,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -36,7 +38,7 @@
 
 <form name="display_map_list" method=post >
 
- <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/B/BonanzaBros.html>BonanzaBros</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/B/BubbleBobble.html>BubbleBobble</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/G/GoldenAxeWarrior.html>GoldenAxeWarrior</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/P/PhantasyStar.html>PhantasyStar</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/S/Shinobi.html>Shinobi</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysSMS/V/Vampire.html>Vampire</a><TD><font color=#000000><TD></TABLE><br>
+ <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/B/BonanzaBros.html">BonanzaBros</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/B/BubbleBobble.html">BubbleBobble</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/G/GoldenAxeWarrior.html">GoldenAxeWarrior</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/P/PhantasyStar.html">PhantasyStar</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/S/Shinobi.html">Shinobi</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysSMS/V/Vampire.html">Vampire</a><TD><font color=#000000><TD></TABLE><br>
 
 
 </form>

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
@@ -13,7 +13,9 @@
 .style3 {font-family: Tahoma}
 .style4 {font-family: Tahoma; font-weight: bold; }
 -->
-</style></head>
+</style><link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
+</head>
 
 <body>
 <p><strong><span class="style3">Videos</span></strong></p>
@@ -26,10 +28,10 @@
     <td width="216" class="style2">&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/WWexample.mpg"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/WWexampleTh.png" width="120" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/MPexample.mpg"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/MPexampleTh.png" width="120" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/TPexample.mpg"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/TPexampleTh.png" width="120" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/CamDemo.avi"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/CamDemoTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMDkwMTA1MjMzNTE4aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9XV2V4YW1wbGUubXBn" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/WWexampleTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMDkwMTA1MjMzNTE4aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9NUGV4YW1wbGUubXBn" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/MPexampleTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMDkwMTA1MjMzNTE4aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9UUGV4YW1wbGUubXBn" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/TPexampleTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMDkwMTA1MjMzNTE4aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9DYW1EZW1vLmF2aQ==" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20090105233518id_/http://www.vgmapper.com/Lab/CamDemoTh.png" width="120" height="120" border="0" /></a></td>
     <td><img width="120" height="120" border="0" /></td>
   </tr>
 </table>

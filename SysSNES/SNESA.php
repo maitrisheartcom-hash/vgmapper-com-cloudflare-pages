@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>SNES maps and media</title>
@@ -17,6 +17,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -25,8 +27,8 @@
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>
@@ -76,7 +78,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td width="160" height="120"><a href="/SysSNES/A/Actraiser.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/ActRaiserTh.png" width="160" height="120" border="0" /></a></td>
     <td><a href="/SysSNES/A/Actraiser2.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/ActRaiser2Th.png" width="160" height="120" border="0" /></a></td>
     <td><a href="/SysSNES/A/AddamsFamily.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/AddamsFamilyTh.png" width="160" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/A/AdventuresofBatman&amp;amp;Robin.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/AdventuresofB&amp;amp;RTh.png" width="160" height="120" border="0" /></a></td>
+    <td><a href="/SysSNES/A/AdventuresofBatman&amp;Robin.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/AdventuresofB&amp;amp;RTh.png" width="160" height="120" border="0" /></a></td>
   </tr>
 </table>
 <table width="822" border="0">
@@ -120,7 +122,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/A/Asterix&amp;amp;Obelix.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/AsterixObelixTh.png" width="160" height="120" border="0" /></a></td>
+    <td><a href="/SysSNES/A/Asterix&amp;Obelix.html"><img src="https://web.archive.org/web/20121202125559id_/http://vgmapper.com/SysSNES/(Title/AsterixObelixTh.png" width="160" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>

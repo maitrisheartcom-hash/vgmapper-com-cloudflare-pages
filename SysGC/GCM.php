@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Game Cube maps and media</title>
@@ -21,6 +21,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 .style3 {font-family: Tahoma; font-weight: bold; font-size: 9px; }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -29,8 +31,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>
@@ -76,7 +78,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td width="29">&nbsp;</td>
   </tr>
   <tr>
-    <td width="160" height="120"><a href="https://web.archive.org/web/20120601223600id_/http://vgmapper.com/SysGC/M/MarioKartDoubleDash.html"><img src="https://web.archive.org/web/20120601223600id_/http://vgmapper.com/SysGC/(Title/MarioKartDoubleDashTh.png" width="160" height="121" border="0" /></a></td>
+    <td width="160" height="120"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIwNjAxMjIzNjAwaWRfL2h0dHA6Ly92Z21hcHBlci5jb20vU3lzR0MvTS9NYXJpb0thcnREb3VibGVEYXNoLmh0bWw=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20120601223600id_/http://vgmapper.com/SysGC/(Title/MarioKartDoubleDashTh.png" width="160" height="121" border="0" /></a></td>
     <td width="160" height="120"><a href="/SysGC/M/MetroidPrime.html"><img src="https://web.archive.org/web/20120601223600id_/http://vgmapper.com/SysGC/(Title/MetroidPrimeTh.png" width="160" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>

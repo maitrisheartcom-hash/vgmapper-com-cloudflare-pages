@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Flying Armor's maps</title>
@@ -17,6 +17,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -54,7 +56,7 @@
 <h4 class="style1"> Map Listing Display</h4>
 <form name="display_map_list" method=post >
 
- <TABLE bgcolor=#FFFFFF width='500'> </TABLE> <TABLE  background='../../images/GrayBar.png' width='500' height='34'> <TR> <TH><font face='Tahoma' color=#000000>SNES<TH><font face='Tahoma' color=#000000 > <TH><font color=#000000><TH><font color=#000000 ></TH> </TABLE> <TABLE bgcolor=#FFFFFF width='900'><TR><TH><font color=#000000><TD><font face='Tahoma' color=#000000>WallyWoSagase<TD><font face='Tahoma' color=#000000><a href=http://www.vgmapper.com/SysSNES/W/WallyWoSagaseLevel6Solution_11.png>WallyWoSagaseLevel6Solution_11.png</a><TD><font color=#000000></TABLE><br>
+ <TABLE bgcolor=#FFFFFF width='500'> </TABLE> <TABLE  background='../../images/GrayBar.png' width='500' height='34'> <TR> <TH><font face='Tahoma' color=#000000>SNES<TH><font face='Tahoma' color=#000000 > <TH><font color=#000000><TH><font color=#000000 ></TH> </TABLE> <TABLE bgcolor=#FFFFFF width='900'><TR><TH><font color=#000000><TD><font face='Tahoma' color=#000000>WallyWoSagase<TD><font face='Tahoma' color=#000000><a href="/SysSNES/W/WallyWoSagaseLevel6Solution_11.png">WallyWoSagaseLevel6Solution_11.png</a><TD><font color=#000000></TABLE><br>
 
 
 </form>

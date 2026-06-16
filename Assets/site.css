@@ -1,0 +1,185 @@
+:root {
+  color-scheme: light;
+  --vg-bg: #f3f6f8;
+  --vg-ink: #17202a;
+  --vg-muted: #647181;
+  --vg-panel: #ffffff;
+  --vg-line: #dbe3eb;
+  --vg-link: #126078;
+  --vg-link-hover: #8b4b00;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--vg-bg);
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 24px 16px 44px;
+  overflow-x: auto;
+  color: var(--vg-ink);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(243, 246, 248, 0.96)),
+    var(--vg-bg);
+  font-family: Tahoma, Verdana, Geneva, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+body.vgmapper-home::before {
+  content: "";
+  display: block;
+  width: min(1080px, calc(100vw - 32px));
+  height: clamp(170px, 30vw, 360px);
+  margin: 0 auto 18px;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 8px;
+  background:
+    linear-gradient(90deg, rgba(12, 20, 29, 0.72), rgba(12, 20, 29, 0.18)),
+    url("/Images/vgmapper-archive-hero.png") center / cover no-repeat;
+  box-shadow: 0 18px 44px rgba(18, 33, 47, 0.18);
+}
+
+body > table,
+body > div,
+body > p,
+body > pre {
+  max-width: min(1080px, calc(100vw - 32px));
+  margin-right: auto;
+  margin-left: auto;
+}
+
+table {
+  max-width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+td,
+th {
+  vertical-align: top;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--vg-link);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--vg-link-hover);
+}
+
+a img {
+  transition: transform 0.16s ease, filter 0.16s ease;
+}
+
+a:hover img,
+a:focus-visible img {
+  filter: saturate(1.08) contrast(1.04);
+  transform: translateY(-1px);
+}
+
+a[data-vg-external] {
+  cursor: pointer;
+}
+
+a[data-vg-external]::after {
+  content: " ext";
+  color: var(--vg-muted);
+  font-size: 0.72em;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+a[data-vg-external]:has(img)::after {
+  content: "";
+}
+
+pre {
+  padding: 16px;
+  overflow-x: auto;
+  border: 1px solid var(--vg-line);
+  border-radius: 8px;
+  background: var(--vg-panel);
+}
+
+body > table:first-of-type img[src*="MainTitle"] {
+  display: block;
+  width: min(398px, calc(100vw - 32px));
+  max-width: none;
+}
+
+body > table:first-of-type:has(img[src*="MainTitle"]) {
+  width: min(398px, calc(100vw - 32px)) !important;
+}
+
+body > table:first-of-type:has(img[src*="MainTitle"]) td {
+  text-align: center;
+}
+
+img.vg-missing-image {
+  display: none !important;
+}
+
+body > table:not(:first-of-type) {
+  margin-top: 10px;
+}
+
+table[bgcolor="#FFFFFF"],
+table[bgcolor="#ffffff"] {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+@media (max-width: 760px) {
+  body {
+    padding: 14px 10px 32px;
+    font-size: 13px;
+  }
+
+  body.vgmapper-home::before {
+    width: calc(100vw - 20px);
+    height: 180px;
+    margin-bottom: 14px;
+  }
+
+  body > table,
+  body > div,
+  body > p,
+  body > pre {
+    max-width: calc(100vw - 20px);
+  }
+
+  table {
+    width: 100% !important;
+  }
+
+  table[width="716"] tr,
+  table[width="585"] tr,
+  table[width="584"] tr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  table[width="716"] td,
+  table[width="585"] td,
+  table[width="585"] th,
+  table[width="584"] td {
+    display: block;
+    width: auto !important;
+    flex: 1 1 150px;
+  }
+}

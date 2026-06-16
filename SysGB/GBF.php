@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Game Boy maps and media</title>
@@ -25,6 +25,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 .style4 {font-family: Tahoma; font-size: 9px; font-weight: bold; }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -33,8 +35,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>
@@ -81,8 +83,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   </tr>
   <tr>
     <td width="160" height="120"><a href="/SysGB/F/FinalFantasyAdventure.html"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FinalFantasyAdventureTh.png" width="160" height="120" border="0" /></a></td>
-    <td width="160" height="120"><a href="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/F/FinalFantasyLegend.html"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FinalFantasyLegendTh.png" width="160" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/F/FinalFantasyLegend2.html"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FinalFantasyLegend2Th.png" width="160" height="120" border="0" /></a></td>
+    <td width="160" height="120"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIwMTMwMDU0NTU3aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL1N5c0dCL0YvRmluYWxGYW50YXN5TGVnZW5kLmh0bWw=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FinalFantasyLegendTh.png" width="160" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIwMTMwMDU0NTU3aWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL1N5c0dCL0YvRmluYWxGYW50YXN5TGVnZW5kMi5odG1s" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FinalFantasyLegend2Th.png" width="160" height="120" border="0" /></a></td>
     <td><a href="/SysGB/F/FortifiedZone.html"><img src="https://web.archive.org/web/20120130054557id_/http://www.vgmapper.com/SysGB/(Title/FortifiedZoneTh.png" width="160" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
   </tr>

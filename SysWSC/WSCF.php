@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Wonder Swan Color maps and media</title>
@@ -25,6 +25,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -33,8 +35,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>

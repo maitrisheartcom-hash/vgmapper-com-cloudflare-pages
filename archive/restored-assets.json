@@ -1890,16 +1890,6 @@
     "outputPath": "Images/LinkPixelWarehouse.png"
   },
   {
-    "timestamp": "20111014225706",
-    "original": "http://vgmapper.com/Images/LinkPlayAsia.png",
-    "statuscode": "200",
-    "mimetype": "image/png",
-    "length": 4812,
-    "digest": "W2XIYECH5KCEL2YN6RZIWVWM723UQ56F",
-    "path": "/Images/LinkPlayAsia.png",
-    "outputPath": "Images/LinkPlayAsia.png"
-  },
-  {
     "timestamp": "20111014233831",
     "original": "http://vgmapper.com/Images/LinkPSFMirror.png",
     "statuscode": "200",

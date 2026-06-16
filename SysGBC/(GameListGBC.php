@@ -1,6 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Game Boy Color maps and media</title>
@@ -19,6 +19,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -36,7 +38,7 @@
 
 <form name="display_map_list" method=post >
 
- <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/B/BionicCommandoEliteForces.html>BionicCommandoEliteForces</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/D/DragonWarrior3.html>DragonWarrior3</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/L/LegendofZelda4DX.html>LegendofZelda4DX</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/L/LegendofZelda7OracleofSeasons.html>LegendofZelda7OracleofSeasons</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/L/LegendofZelda8OracleofAges.html>LegendofZelda8OracleofAges</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/M/MetalGearSolid.html>MetalGearSolid</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/P/PokemonCrystal.html>PokemonCrystal</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/P/PokemonSilverGold.html>PokemonSilverGold</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/Q/QuestforCamelot.html>QuestforCamelot</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/R/ResidentEvilGaiden.html>ResidentEvilGaiden</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysGBC/R/Revelations.html>Revelations</a><TD><font color=#000000><TD></TABLE><br>
+ <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/B/BionicCommandoEliteForces.html">BionicCommandoEliteForces</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/D/DragonWarrior3.html">DragonWarrior3</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/L/LegendofZelda4DX.html">LegendofZelda4DX</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/L/LegendofZelda7OracleofSeasons.html">LegendofZelda7OracleofSeasons</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/L/LegendofZelda8OracleofAges.html">LegendofZelda8OracleofAges</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/M/MetalGearSolid.html">MetalGearSolid</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/P/PokemonCrystal.html">PokemonCrystal</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/P/PokemonSilverGold.html">PokemonSilverGold</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/Q/QuestforCamelot.html">QuestforCamelot</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/R/ResidentEvilGaiden.html">ResidentEvilGaiden</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysGBC/R/Revelations.html">Revelations</a><TD><font color=#000000><TD></TABLE><br>
 
 
 </form>

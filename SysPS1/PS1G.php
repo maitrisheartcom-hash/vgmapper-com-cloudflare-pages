@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Playstation maps and media</title>
@@ -21,6 +21,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 .style3 {font-family: Tahoma; font-weight: bold; font-size: 9px; }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -29,8 +31,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td><a href="/Index.php"><img src="/Images/MainTitle.png" width="398" height="106" border="0" /></a></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Navigation</title>
@@ -66,7 +68,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   </table>
 </body>
 <p class="style1">Play Station </p>
-<p><img src="/Images/AlphaNumNull.png" width="21" height="28" /><a href="/SysPS1/PS1A.php"><img src="/Images/AlphaA.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1B.php"><img src="/Images/AlphaB.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1C.php"><img src="/Images/AlphaC.png" width="19" height="28" border="0" /></a><img src="/Images/AlphaDNull.png" width="20" height="28" /><img src="/Images/AlphaENull.png" width="18" height="28" /><a href="/SysPS1/PS1F.php"><img src="/Images/AlphaF.png" width="18" height="28" border="0" /></a><a href="/SysPS1/PS1G.php"><img src="/Images/AlphaG.png" width="20" height="28" border="0" /></a><img src="/Images/AlphaHNull.png" width="20" height="28" /><img src="/Images/AlphaINull.png" width="16" height="28" /><img src="/Images/AlphaJNull.png" width="16" height="28" /><a href="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/PS1K.php"><img src="/Images/AlphaK.png" width="20" height="28" border="0" /></a><a href="/SysPS1/PS1L.php"><img src="/Images/AlphaL.png" width="17" height="28" border="0" /></a><a href="/SysPS1/PS1M.php"><img src="/Images/AlphaM.png" width="22" height="28" border="0" /></a><img src="/Images/AlphaNNull.png" width="20" height="28" /><a href="/SysPS1/PS1O.php"><img src="/Images/AlphaO.png" width="21" height="28" border="0" /></a><a href="/SysPS1/PS1P.php"><img src="/Images/AlphaP.png" width="18" height="28" border="0" /></a><img src="/Images/AlphaQNull.png" width="21" height="28" /><a href="/SysPS1/PS1R.php"><img src="/Images/AlphaR.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1S.php"><img src="/Images/AlphaS.png" width="18" height="28" border="0" /></a><a href="/SysPS1/PS1T.php"><img src="/Images/AlphaT.png" width="19" height="28" border="0" /></a><img src="/Images/AlphaUNull.png" width="19" height="28" /><a href="/SysPS1/PS1V.php"><img src="/Images/AlphaV.png" width="20" height="28" border="0" /></a><a href="/SysPS1/PS1W.php"><img src="/Images/AlphaW.png" width="23" height="28" border="0" /></a><img src="/Images/AlphaXNull.png" width="20" height="28" /><img src="/Images/AlphaYNull.png" width="18" height="28" /><img src="/Images/AlphaZNull.png" width="20" height="28" /></p>
+<p><img src="/Images/AlphaNumNull.png" width="21" height="28" /><a href="/SysPS1/PS1A.php"><img src="/Images/AlphaA.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1B.php"><img src="/Images/AlphaB.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1C.php"><img src="/Images/AlphaC.png" width="19" height="28" border="0" /></a><img src="/Images/AlphaDNull.png" width="20" height="28" /><img src="/Images/AlphaENull.png" width="18" height="28" /><a href="/SysPS1/PS1F.php"><img src="/Images/AlphaF.png" width="18" height="28" border="0" /></a><a href="/SysPS1/PS1G.php"><img src="/Images/AlphaG.png" width="20" height="28" border="0" /></a><img src="/Images/AlphaHNull.png" width="20" height="28" /><img src="/Images/AlphaINull.png" width="16" height="28" /><img src="/Images/AlphaJNull.png" width="16" height="28" /><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTExMjI5MDQ0OTUxaWRfL2h0dHA6Ly92Z21hcHBlci5jb20vU3lzUFMxL1BTMUsucGhw" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="/Images/AlphaK.png" width="20" height="28" border="0" /></a><a href="/SysPS1/PS1L.php"><img src="/Images/AlphaL.png" width="17" height="28" border="0" /></a><a href="/SysPS1/PS1M.php"><img src="/Images/AlphaM.png" width="22" height="28" border="0" /></a><img src="/Images/AlphaNNull.png" width="20" height="28" /><a href="/SysPS1/PS1O.php"><img src="/Images/AlphaO.png" width="21" height="28" border="0" /></a><a href="/SysPS1/PS1P.php"><img src="/Images/AlphaP.png" width="18" height="28" border="0" /></a><img src="/Images/AlphaQNull.png" width="21" height="28" /><a href="/SysPS1/PS1R.php"><img src="/Images/AlphaR.png" width="19" height="28" border="0" /></a><a href="/SysPS1/PS1S.php"><img src="/Images/AlphaS.png" width="18" height="28" border="0" /></a><a href="/SysPS1/PS1T.php"><img src="/Images/AlphaT.png" width="19" height="28" border="0" /></a><img src="/Images/AlphaUNull.png" width="19" height="28" /><a href="/SysPS1/PS1V.php"><img src="/Images/AlphaV.png" width="20" height="28" border="0" /></a><a href="/SysPS1/PS1W.php"><img src="/Images/AlphaW.png" width="23" height="28" border="0" /></a><img src="/Images/AlphaXNull.png" width="20" height="28" /><img src="/Images/AlphaYNull.png" width="18" height="28" /><img src="/Images/AlphaZNull.png" width="20" height="28" /></p>
 <table width="691" border="0">
   <tr>
     <td width="160" class="style3">Gauntlet Legends</td>
@@ -76,9 +78,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td width="29">&nbsp;</td>
   </tr>
   <tr>
-    <td width="160" height="120"><a href="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/G/GauntletLegends.html"><img src="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/(Title/GauntletLegendsTh.png" width="160" height="120" border="0" /></a></td>
+    <td width="160" height="120"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTExMjI5MDQ0OTUxaWRfL2h0dHA6Ly92Z21hcHBlci5jb20vU3lzUFMxL0cvR2F1bnRsZXRMZWdlbmRzLmh0bWw=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/(Title/GauntletLegendsTh.png" width="160" height="120" border="0" /></a></td>
     <td width="160" height="120"><a href="/SysPS1/G/Gex.html"><img src="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/(Title/GexTh.png" width="160" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/G/Grandia.html"><img src="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/(Title/GrandiaTh.png" width="160" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTExMjI5MDQ0OTUxaWRfL2h0dHA6Ly92Z21hcHBlci5jb20vU3lzUFMxL0cvR3JhbmRpYS5odG1s" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20111229044951id_/http://vgmapper.com/SysPS1/(Title/GrandiaTh.png" width="160" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
     <td><img src="/Images/BlankTitleSlot.png" width="160" height="120" /></td>
   </tr>

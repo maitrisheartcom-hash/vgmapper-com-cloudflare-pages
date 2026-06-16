@@ -1,8 +1,8 @@
 <title>Queue</title>
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
@@ -19,6 +19,8 @@
 -->
 </style>
 
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -30,7 +32,7 @@
 
 
 <form name="signupform" method=post  action="do_add_SignUp.php">
-<a href=http://www.vgmapper.com> return to main page</a><br>
+<a href="/"> return to main page</a><br>
 
 
 <table width="665" border="0">

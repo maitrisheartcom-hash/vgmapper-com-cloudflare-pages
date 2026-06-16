@@ -7,10 +7,10 @@ Generated: 2026-06-16
 - Domain: vgmapper.com
 - Capture range: 2007 through 20121231235959
 - Restored HTML pages: 802
-- Restored local assets: 224
+- Restored local assets: 223
 - Runtime: static files only
 
-The restore intentionally excludes post-2013 parking pages, Wayback query spam, executable form handlers, and bulk game-map PNG downloads. Non-local map/media links in restored HTML point to raw Wayback captures.
+The restore intentionally excludes post-2013 parking pages, Wayback query spam, executable form handlers, bulk game-map PNG downloads, and the former commercial affiliate banner. Non-local map/media links in restored HTML point to raw Wayback captures.
 
 ## Restored Sections
 

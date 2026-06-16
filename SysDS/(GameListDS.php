@@ -1,6 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Nintendo DS maps and media</title>
@@ -19,6 +19,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -35,7 +37,7 @@
 
 <form name="display_map_list" method=post >
 
- <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysDS/M/MarioVsDonkeyKong2.html>MarioVsDonkeyKong2</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysDS/N/NewSuperMarioBros.html>NewSuperMarioBros</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href=http://www.vgmapper.com/SysDS/S/SuperMario64DS.html>SuperMario64DS</a><TD><font color=#000000><TD></TABLE><br>
+ <TABLE bgcolor=#FFFFFF width='500'><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysDS/M/MarioVsDonkeyKong2.html">MarioVsDonkeyKong2</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysDS/N/NewSuperMarioBros.html">NewSuperMarioBros</a><TD><font color=#000000><TD><TR><TH><font color=#000000><TD><font color=#000000><a href="/SysDS/S/SuperMario64DS.html">SuperMario64DS</a><TD><font color=#000000><TD></TABLE><br>
 
 
 </form>

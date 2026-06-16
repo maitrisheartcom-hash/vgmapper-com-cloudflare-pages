@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Fantasy Anime Guy</title>
@@ -17,6 +17,8 @@
 }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -28,7 +30,7 @@
 </table>
 <table width="244" height="38" border="0">
   <tr>
-    <td width="46" height="34"><a href="http://www.fantasyanime.com/"><img src="/Images/ButtonSite.png" width="46" height="30" border="0" /></a></td>
+    <td width="46" height="34"><a data-vg-external="aHR0cDovL3d3dy5mYW50YXN5YW5pbWUuY29tLw==" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="/Images/ButtonSite.png" width="46" height="30" border="0" /></a></td>
     <td width="64"><a href="/Contributors/FantasyAnimeGuy/FantasyAnimeGuy_MapList.php" target="_blank"></a></td>
     <td width="39">&nbsp;</td>
     <td width="21">&nbsp;</td>

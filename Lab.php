@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>VGMapper Lab</title>
@@ -17,6 +17,8 @@
 .style5 {font-family: Tahoma; font-weight: bold; font-size: 14px; }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
@@ -31,12 +33,12 @@
     <td width="129"><div align="center"><img src="/Images/ButtonRequests.png" width="88" height="32" /></div></td>
     <td width="107"><div align="center"><img src="/Images/ButtonMappers.png" width="82" height="32" border="0" /></div></td>
     <td width="57"><div align="center"><a href="/Lab.php"><img src="/Images/ButtonLab.png" width="45" height="32" border="0" /></a></div></td>
-    <td width="51"><div align="center"><a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/VGMFAQ.txt" target="_blank"><img src="/Images/ButtonFAQ.png" width="51" height="32" border="0" /></a></div></td>
-    <td width="136"><div align="right"><a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/SysSNES/feed.xml"></a></div></td>
+    <td width="51"><div align="center"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL1ZHTUZBUS50eHQ=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="/Images/ButtonFAQ.png" width="51" height="32" border="0" /></a></div></td>
+    <td width="136"><div align="right"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL1N5c1NORVMvZmVlZC54bWw=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"></a></div></td>
   </tr>
 </table>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
@@ -125,7 +127,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   </tr>
 </table>
 <p class="style1">Music</p>
-<p class="style5"><a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/Swamp.mp3">Swamp</a> <a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/WaterfallCavern.mp3">Waterfall Cavern</a> <a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/TropicalMarket.mp3">Tropical Market</a> <a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/BeachCamp.mp3">Beach Camp</a></p>
+<p class="style5"><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9Td2FtcC5tcDM=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link">Swamp</a> <a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9XYXRlcmZhbGxDYXZlcm4ubXAz" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link">Waterfall Cavern</a> <a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9Ucm9waWNhbE1hcmtldC5tcDM=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link">Tropical Market</a> <a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9CZWFjaENhbXAubXAz" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link">Beach Camp</a></p>
 <p class="style1">Guides</p>
 <table width="538" border="0">
   <tr>
@@ -136,8 +138,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td width="216" class="style3">&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/RawMapGuide.png" target="_blank"><img src="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/RawMapGuideTh.png" width="120" height="120" border="0" /></a></td>
-    <td><a href="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/SpriteRipGuideBasic.png" target="_blank"><img src="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/SpriteRipGuideBasicTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9SYXdNYXBHdWlkZS5wbmc=" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/RawMapGuideTh.png" width="120" height="120" border="0" /></a></td>
+    <td><a data-vg-external="aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwMTE5MDA1NDEyaWRfL2h0dHA6Ly93d3cudmdtYXBwZXIuY29tL0xhYi9TcHJpdGVSaXBHdWlkZUJhc2ljLnBuZw==" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="https://web.archive.org/web/20110119005412id_/http://www.vgmapper.com/Lab/SpriteRipGuideBasicTh.png" width="120" height="120" border="0" /></a></td>
     <td><img src="/Images/BlankSlot.png" width="120" height="120" /></td>
     <td><img src="/Images/BlankSlot.png" width="120" height="120" /></td>
     <td><img src="/Images/BlankSlot.png" width="120" height="120" /></td>

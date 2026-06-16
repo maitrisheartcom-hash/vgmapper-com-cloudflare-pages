@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Kung Fu Furby's blog</title>
@@ -13,10 +13,12 @@
 .style7 {font-family: Tahoma; font-weight: bold; font-style: italic; }
 -->
 </style>
+<link rel="stylesheet" href="/Assets/site.css">
+<script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
-<p align="left" class="style7"><a href="http://snesmusic.org/v2/profile.php?profile=dumper&amp;amp;selected=143"><img src="/Images/ContribKungFuFurby.png" width="48" height="48" border="0" /></a></p>
+<p align="left" class="style7"><a data-vg-external="aHR0cDovL3NuZXNtdXNpYy5vcmcvdjIvcHJvZmlsZS5waHA/cHJvZmlsZT1kdW1wZXImc2VsZWN0ZWQ9MTQz" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="/Images/ContribKungFuFurby.png" width="48" height="48" border="0" /></a></p>
 <p align="left" class="style7">Works</p>
 <p align="left" class="style7">Stats</p>
 <p align="left"><span class="style3">Best at :</span> <span class="style6">Music (SPC dumping)</span></p>
