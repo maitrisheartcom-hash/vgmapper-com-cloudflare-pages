@@ -1,0 +1,803 @@
+path,outputPath,timestamp,original,title,length,digest
+/,index.html,20121206123408,http://vgmapper.com/,"VGMapper, video game maps and media made by request",2213,J4BARYJ2CPZODNKZOO6M64LLKPP27BKA
+/(GameList.php,(GameList.php,20101225051455,http://vgmapper.com/(GameList.php,System Index,957,HTCCALAWJPUALWOJDY7NFZY33MGKPW6G
+/Contributors/DarkWolf/DarkWolf_MapList.php,Contributors/DarkWolf/DarkWolf_MapList.php,20101225160346,http://vgmapper.com/Contributors/DarkWolf/DarkWolf_MapList.php,Dark Wolf's maps,5890,V6UIJ73LZ6MCEZLAK25T372QNQVQ37Y4
+/Contributors/DarkWolf/DarkWolf.php,Contributors/DarkWolf/DarkWolf.php,20111015002507,http://vgmapper.com/Contributors/DarkWolf/DarkWolf.php,Dark Wolf,959,M6QECL6CCFMK4VXO7IMVXYLWF7TUDML6
+/Contributors/Enhasa/Enhasa_MapList.php,Contributors/Enhasa/Enhasa_MapList.php,20101225155403,http://vgmapper.com/Contributors/Enhasa/Enhasa_MapList.php,Enhasa's Maps,972,FF5UEGJXK4EAPEKTMJBMGLSBOCWAKOTJ
+/Contributors/Enhasa/Enhasa.php,Contributors/Enhasa/Enhasa.php,20111015010153,http://vgmapper.com/Contributors/Enhasa/Enhasa.php,Enhasa,945,TDHXNB4TG4EGMULIHZ2NJ7WG4P526NCQ
+/Contributors/Esteban/Esteban_MapList.php,Contributors/Esteban/Esteban_MapList.php,20101225145504,http://vgmapper.com/Contributors/Esteban/Esteban_MapList.php,Reynaldo's Maps,1492,3UIBD5LLVHSB325DOAEWDFLVSNUZ5ANA
+/Contributors/Esteban/Esteban.php,Contributors/Esteban/Esteban.php,20111014213252,http://vgmapper.com/Contributors/Esteban/Esteban.php,Reynaldo,1005,MMWNMIIDGW7LAW3COYSU6YPBCI7PN7D3
+/Contributors/FantasyAnimeGuy/FantasyAnimeGuy_MapList.php,Contributors/FantasyAnimeGuy/FantasyAnimeGuy_MapList.php,20101225135646,http://vgmapper.com/Contributors/FantasyAnimeGuy/FantasyAnimeGuy_MapList.php,Fantasy Anime Guy's maps,986,ZNTAJMZM3N7LDNHKMGJUE7V6ZINEESZQ
+/Contributors/FantasyAnimeGuy/FantasyAnimeGuy.php,Contributors/FantasyAnimeGuy/FantasyAnimeGuy.php,20111014214111,http://vgmapper.com/Contributors/FantasyAnimeGuy/FantasyAnimeGuy.php,Fantasy Anime Guy,1003,HSZC4UUTIAIEXRRJF3PUI4VH2L3OVHU6
+/Contributors/FlyingArmor/FlyingArmor_MapList.php,Contributors/FlyingArmor/FlyingArmor_MapList.php,20101225064412,http://vgmapper.com/Contributors/FlyingArmor/FlyingArmor_MapList.php,Flying Armor's maps,1127,WGL7RP4UCAQWYA5ZJCZD6C5IV5TILHFF
+/Contributors/FlyingArmor/FlyingArmor.php,Contributors/FlyingArmor/FlyingArmor.php,20111014212155,http://vgmapper.com/Contributors/FlyingArmor/FlyingArmor.php,Flying Armor,968,GDKBLNYKBWE64AVXZA74VYATDMTR5V5U
+/Contributors/Furby/Furby_MapList.php,Contributors/Furby/Furby_MapList.php,20101225070747,http://vgmapper.com/Contributors/Furby/Furby_MapList.php,Kung Fu Furby's maps,1330,AFMD7UBNIRYRHVO7BYC33DAF34SEMLHT
+/Contributors/Furby/Furby.php,Contributors/Furby/Furby.php,20111014215218,http://vgmapper.com/Contributors/Furby/Furby.php,Kung Fu Furby,934,RH7FHBFJ4VYIIELYTZM6DANUQNYMO3CX
+/Contributors/Furby/FurbyBlog.php,Contributors/Furby/FurbyBlog.php,20101225070618,http://vgmapper.com/Contributors/Furby/FurbyBlog.php,Kung Fu Furby's blog,911,2DCHZXYIMA22GD7PXGLPAEY33QQ5U5OB
+/Contributors/Kinsuke/Kinsuke_MapList.php,Contributors/Kinsuke/Kinsuke_MapList.php,20101225065513,http://vgmapper.com/Contributors/Kinsuke/Kinsuke_MapList.php,Untitled Document,1761,IBRLWDMB7MTYGS3YGS6GWCNDTJ5GAUVB
+/Contributors/Kinsuke/Kinsuke.php,Contributors/Kinsuke/Kinsuke.php,20111014210404,http://vgmapper.com/Contributors/Kinsuke/Kinsuke.php,Kinsuke,925,YAZDZIX7EHHXFISNDMEGLV64SXPJKAKG
+/Contributors/Marsil/Marsil_MapList.php,Contributors/Marsil/Marsil_MapList.php,20101225075423,http://vgmapper.com/Contributors/Marsil/Marsil_MapList.php,Marsil's maps,1112,QZN2ZZEQIA2YS33NGGYBUSFKDWZYPWCU
+/Contributors/Marsil/Marsil.php,Contributors/Marsil/Marsil.php,20111014212835,http://vgmapper.com/Contributors/Marsil/Marsil.php,Marsil,905,I6OOWNT2AZQS3654CIY3RSIABEYDJ4OP
+/Contributors/Paco/Paco.php,Contributors/Paco/Paco.php,20111014205746,http://vgmapper.com/Contributors/Paco/Paco.php,Paco,910,GVXRDLA5UI2AWF4QATPWMRX2M5OQCSHS
+/Contributors/Peardian/Peardian_MapList.php,Contributors/Peardian/Peardian_MapList.php,20101225152206,http://vgmapper.com/Contributors/Peardian/Peardian_MapList.php,Peardian's maps,10435,Y5OY57NVF3L4FZRJZEHVXJX2GBPMZ2BG
+/Contributors/Peardian/Peardian.php,Contributors/Peardian/Peardian.php,20111015002430,http://vgmapper.com/Contributors/Peardian/Peardian.php,Peardian,909,AOSHAHMEYQMEAC5G63SZQS5NVGYLF2Z2
+/Contributors/Puronen/Puronen_MapList.php,Contributors/Puronen/Puronen_MapList.php,20101225152337,http://vgmapper.com/Contributors/Puronen/Puronen_MapList.php,Galen's maps,28654,DOR5KOL2GZOOWTG6RUFACODCVQCBJTUO
+/Contributors/Puronen/Puronen.php,Contributors/Puronen/Puronen.php,20111015001611,http://vgmapper.com/Contributors/Puronen/Puronen.php,Galen,945,KB6P5NFFVY5IGLDYTMZ7SSXGJRERBI5A
+/Contributors/Puronen/PuronenLibrary.html,Contributors/Puronen/PuronenLibrary.html,20101225064322,http://vgmapper.com/Contributors/Puronen/PuronenLibrary.html,Secret Library.,1592,Q3PP5WDETQ5JRMPUAQBB4XK7XSX3E6FZ
+/Contributors/StarFighters76/StarFighters76_MapList.php,Contributors/StarFighters76/StarFighters76_MapList.php,20101225145403,http://vgmapper.com/Contributors/StarFighters76/StarFighters76_MapList.php,Star Fighters' maps,11156,BQLM2RUI2BB6KKL4FRYC52BPCOH6KAA4
+/Contributors/StarFighters76/StarFighters76.php,Contributors/StarFighters76/StarFighters76.php,20111014212816,http://vgmapper.com/Contributors/StarFighters76/StarFighters76.php,Star Fighters,922,YXNFKX6DVCCP5EOF3DVYRC7MO4JNUIA6
+/Index.php,Index.php,20121008231339,http://vgmapper.com:80/Index.php,"VGMapper, video game maps and media made by request",1719,ILLJB3YDIMEYXWI5QMWAGEYXKJOASUWQ
+/Lab.php,Lab.php,20110119005412,http://www.vgmapper.com:80/Lab.php,VGMapper Lab,1814,VRIRGXUGNNDU2X34FY4BBEL6OLPF24Q7
+/Lab/Videolab.php,Lab/Videolab.php,20090105233518,http://www.vgmapper.com/Lab/Videolab.php,Untitled Document,872,7YO4AUZMYMN7FMA66O3RT6DMLER5QWBI
+/Links.php,Links.php,20121116225158,http://vgmapper.com:80/Links.php,Mapper Links,1283,BVDHIXSFOCCCZ3URSWJLF4TKU3UBBQDG
+/Mappers.php,Mappers.php,20121118060636,http://vgmapper.com:80/Mappers.php,Mappers,1236,MZIXCWUTXBF2QPIKSS7X53HWJS7HQKGO
+/RequestForms/Queue.php,RequestForms/Queue.php,20101225052639,http://vgmapper.com/RequestForms/Queue.php,Queue,3172,SZKBSHFQUW75YKNRBNKPJ5VCANG3LWTB
+/RequestForms/Request.php,RequestForms/Request.php,20101225050348,http://vgmapper.com/RequestForms/Request.php,Make a request,2891,V4G3YM742L57MHQ3UQESAGO5YVQJY7BK
+/SysArcade/(GameListArcade.php,SysArcade/(GameListArcade.php,20101225074830,http://vgmapper.com/SysArcade/(GameListArcade.php,Arcade maps and media,979,RIL5PEKMWJX4QGHWLL4HJF2G3P7F3FVT
+/SysArcade/ArcadeB.php,SysArcade/ArcadeB.php,20120831205400,http://vgmapper.com:80/SysArcade/ArcadeB.php,Arcade maps and media,1275,TDBIFO5JTRA7PWHLCDG6FUIXJMW7A5NP
+/SysArcade/ArcadeC.php,SysArcade/ArcadeC.php,20120831202913,http://vgmapper.com:80/SysArcade/ArcadeC.php,Arcade maps and media,1282,SXQCVI6ZZ4DAPZBFVKS2RCKETVTMC55V
+/SysArcade/ArcadeF.php,SysArcade/ArcadeF.php,20120831202311,http://vgmapper.com:80/SysArcade/ArcadeF.php,Arcade maps and media,1269,LZGWG5KDMDVINQDUEM655WXFKMUJKEGB
+/SysArcade/ArcadeM.php,SysArcade/ArcadeM.php,20120801004733,http://vgmapper.com:80/SysArcade/ArcadeM.php,Arcade maps and media,1282,OKF6RJDRZ3F4NB7PIJTWIE4HBT53EWFA
+/SysArcade/ArcadeS.php,SysArcade/ArcadeS.php,20120601221150,http://vgmapper.com:80/SysArcade/ArcadeS.php,Arcade maps and media,1273,YGCFFKI2MO7YIK5XWZI3QKE5JGNXQDTR
+/SysArcade/ArcadeT.php,SysArcade/ArcadeT.php,20120808232142,http://vgmapper.com:80/SysArcade/ArcadeT.php,Arcade maps and media,1281,VLXGMDBHEFGU5PQVYS7GYTY5GEQ7GPD5
+/SysArcade/ArcadeV.php,SysArcade/ArcadeV.php,20120601221155,http://vgmapper.com:80/SysArcade/ArcadeV.php,Arcade maps and media,1286,GR25574UQ6ED5TIZDZLPITGOCCWYSCHF
+/SysArcade/B/BonanzaBros.html,SysArcade/B/BonanzaBros.html,20120601221200,http://vgmapper.com:80/SysArcade/B/BonanzaBros.html,Bonanza Bros maps and media,1168,QL3LYV74O4NF6YJQPHPDKCFVGCYUUKRE
+/SysArcade/C/CongoBongo.html,SysArcade/C/CongoBongo.html,20120601221205,http://vgmapper.com:80/SysArcade/C/CongoBongo.html,Congo Bongo maps and media,850,FNE3UEMVEIXGBAMYQGVDD7OB3WCFVVCO
+/SysArcade/C/CrackDown.html,SysArcade/C/CrackDown.html,20120601221210,http://vgmapper.com:80/SysArcade/C/CrackDown.html,Crack Down maps and media,1109,I2EAM6CHV4M4JNAKPZCJJ422U5Q6PDG7
+/SysArcade/F/Flicky.html,SysArcade/F/Flicky.html,20120605013044,http://vgmapper.com:80/SysArcade/F/Flicky.html,Flicky maps and media,852,4VJVDYBMXGRZQ6FQ53EKII7ZFXRBJQJU
+/SysArcade/M/Momoko120Percent.html,SysArcade/M/Momoko120Percent.html,20120602010156,http://vgmapper.com:80/SysArcade/M/Momoko120Percent.html,Momoko 120 % maps and media,924,OQKW5G4HD4UI52TXSIPQZVZLFO3ODO45
+/SysArcade/S/StreetSmart.html,SysArcade/S/StreetSmart.html,20100806213635,http://www.vgmapper.com:80/SysArcade/S/StreetSmart.html,Street Smart maps and media,931,4YSUNYYDRB73K6HCMIFCXDOFAOLPAWHR
+/SysArcade/T/ThunderForceAC.html,SysArcade/T/ThunderForceAC.html,20100806213641,http://www.vgmapper.com:80/SysArcade/T/ThunderForceAC.html,Thunder Force AC maps and media,856,YMGMXPOXNWQ75F6B4IBNUAZNXAOH2TZN
+/SysArcade/V/VsSuperMarioBros.html,SysArcade/V/VsSuperMarioBros.html,20100806005545,http://www.vgmapper.com:80/SysArcade/V/VsSuperMarioBros.html,Vs. Super Mario Bros maps and media,895,HSPILYLWIESUSD7YZMAYJF4F4JMP3QLB
+/SysDC/(GameListDC.php,SysDC/(GameListDC.php,20101225064944,http://vgmapper.com/SysDC/(GameListDC.php,Dream Cast maps and media,1042,UHVBEHDN6QMDU6NXCG3ADV24CAMC4UA4
+/SysDC/B/BlueSubmarineNo6.html,SysDC/B/BlueSubmarineNo6.html,20111229000433,http://vgmapper.com/SysDC/B/BlueSubmarineNo6.html,Blue Submarine No 6 maps and media,1078,2XUEDRIBG2NEVVVLWKF7AOR6KJ5KNRBM
+/SysDC/DCB.php,SysDC/DCB.php,20120808044502,http://vgmapper.com:80/SysDC/DCB.php,Dream Cast maps and media,1302,GM7OTLTAS2XXDO5N2KOJ5AJGU4LBTJCU
+/SysDC/DCF.php,SysDC/DCF.php,20111229012737,http://vgmapper.com/SysDC/DCF.php,Dream Cast maps and media,1474,OYB7QMQR5YLQC7PZDYP33MEINHHPW4PW
+/SysDC/DCS.php,SysDC/DCS.php,20111228225021,http://vgmapper.com/SysDC/DCS.php,Dream Cast maps and media,1525,BW2LPKZJH6OO3RI3GR7K5V4S6MM3TGIW
+/SysDC/DCT.php,SysDC/DCT.php,20111229000633,http://vgmapper.com/SysDC/DCT.php,Dream Cast maps and media,1422,E6NZOCKDP7YFPKC6WB5XD6TZRWROZLKA
+/SysDC/F/FushigiNoDungeonFuraiNoShirenGaidenJokenjiAsukaKenzan.html,SysDC/F/FushigiNoDungeonFuraiNoShirenGaidenJokenjiAsukaKenzan.html,20101225190429,http://vgmapper.com/SysDC/F/FushigiNoDungeonFuraiNoShirenGaidenJokenjiAsukaKenzan.html,Fushigi No Dungeon Furai No Shiren Gaiden Jokenji Asuka Kenzan maps and media,1212,EUJQYYEEVI5W2PUDZ7KY2JMRO4JQ3ONZ
+/SysDC/S/Segagaga.html,SysDC/S/Segagaga.html,20101225185939,http://vgmapper.com/SysDC/S/Segagaga.html,Segagaga maps and media,1049,GNQ6TUNPVT5N6F65LJO5VJWM5TQJMNAR
+/SysDC/S/ShinseikiEvangelionAyanamiReiIkuseiKeikaku.html,SysDC/S/ShinseikiEvangelionAyanamiReiIkuseiKeikaku.html,20101225185845,http://vgmapper.com/SysDC/S/ShinseikiEvangelionAyanamiReiIkuseiKeikaku.html,Shinseiki Evangelion Ayanami Rei Ikusei Keikaku maps and media,1079,L7UARVQMB3SLDSSCPEKXBGAFJEMUUZBE
+/SysDC/S/SonicAdventure.html,SysDC/S/SonicAdventure.html,20101225190145,http://vgmapper.com/SysDC/S/SonicAdventure.html,Sonic Adventure maps and media,1016,XFVNLP6FN45PECZPST3IPG2IXWWQOO7S
+/SysDC/T/TricoloreCrise.html,SysDC/T/TricoloreCrise.html,20101225190255,http://vgmapper.com/SysDC/T/TricoloreCrise.html,Tricolore Crise maps and media,1147,5E73BZVHCDYISPCGLW5ORZNRYSDMGGO2
+/SysDS/(GameListDS.php,SysDS/(GameListDS.php,20101225073854,http://vgmapper.com/SysDS/(GameListDS.php,Nintendo DS maps and media,946,3GOCGQHGQUXWDYIIWXWXAH4MQKJRLW2Q
+/SysDS/DSL.php,SysDS/DSL.php,20121203212218,http://vgmapper.com:80/SysDS/DSL.php,Nintendo DS maps and media,1441,MXNDDDR5KXGYVF2TRJYNQSVGM42YCHS5
+/SysDS/DSM.php,SysDS/DSM.php,20120831202958,http://vgmapper.com:80/SysDS/DSM.php,Nintendo DS maps and media,1274,PAJ2AXG2PSCUKLHAUZ4R3PTLYN25JY6I
+/SysDS/DSN.php,SysDS/DSN.php,20121104001355,http://vgmapper.com:80/SysDS/DSN.php,Nintendo DS maps and media,1272,2RABH74DXNAOOBYY75VMZZKGWLKFIQ6I
+/SysDS/DSP.php,SysDS/DSP.php,20121203212235,http://vgmapper.com:80/SysDS/DSP.php,Nintendo DS maps and media,1510,W35Z2IES77EF56JFQ5Q3R5YTGL3UTEAD
+/SysDS/DSR.php,SysDS/DSR.php,20121104001400,http://vgmapper.com:80/SysDS/DSR.php,Nintendo DS maps and media,1276,HGDLNCB7I3K4FLL76KNKB7QQOZBLVMAC
+/SysDS/DSS.php,SysDS/DSS.php,20121104001427,http://vgmapper.com:80/SysDS/DSS.php,Nintendo DS maps and media,1315,F3A7EDBT7KM4TLML7IAW32RJPIQT5TH4
+/SysDS/DST.php,SysDS/DST.php,20121104001510,http://vgmapper.com:80/SysDS/DST.php,Nintendo DS maps and media,1267,O3WDOWV73KP7GSL3IGBL4WPPUJPTEN6S
+/SysDS/L/LegacyofYs.html,SysDS/L/LegacyofYs.html,20120801002945,http://vgmapper.com:80/SysDS/L/LegacyofYs.html,Legacy of Ys maps and media,1286,UFPEXCUADJ5IUM3KU4U6UNHKQYKIAMW3
+/SysDS/M/MarioVsDonkeyKong2.html,SysDS/M/MarioVsDonkeyKong2.html,20120801003442,http://vgmapper.com:80/SysDS/M/MarioVsDonkeyKong2.html,Mario Vs Donkey Kong 2 maps and media,2307,DFU73T34RDRJ3GX4PNYERIAZBY6GSURE
+/SysDS/P/PokemonBlackWhite.html,SysDS/P/PokemonBlackWhite.html,20121208111526,http://vgmapper.com:80/SysDS/P/PokemonBlackWhite.html,Pokemon Black and White maps and media,1362,F2RYZUX7K5TBWS2UBBXXMNNKK3L2YZXP
+/SysDS/P/PokemonDiamondPearl.html,SysDS/P/PokemonDiamondPearl.html,20120920172857,http://vgmapper.com/SysDS/P/PokemonDiamondPearl.html,Pokemon Diamond and Pearl maps and media,1296,25N2BWK6BJ5DRLRY6ZYRPZ25CG4K7JUS
+/SysDS/P/PokemonPlatinum.html,SysDS/P/PokemonPlatinum.html,20120920172857,http://vgmapper.com/SysDS/P/PokemonPlatinum.html,Pokemon Platinum maps and media,1411,R7LFFOPAU2JPHJ3LASV76VJHCCTC7RWM
+/SysGB/(GameListGB.php,SysGB/(GameListGB.php,20101225074611,http://vgmapper.com/SysGB/(GameListGB.php,Game Boy maps and media,1052,KWFXCT76AWVNDVO7BUBWSTAHST5CE3Q6
+/SysGB/A/AlienvsPredator.html,SysGB/A/AlienvsPredator.html,20111228235830,http://vgmapper.com/SysGB/A/AlienvsPredator.html,Alien vs Predator The Last of His Clan maps and media,1019,K3A3YV4QR3RYZAQBFGNKNGY56KYNEWFW
+/SysGB/B/BionicCommando.html,SysGB/B/BionicCommando.html,20101102155754,http://www.vgmapper.com:80/SysGB/B/BionicCommando.html,Bionic Commando maps and media,992,KKA4MYEVAVGYWWWEHAFQPORWLT6QN6MV
+/SysGB/D/DuckTales.html,SysGB/D/DuckTales.html,20100825142943,http://www.vgmapper.com:80/SysGB/D/DuckTales.html,Duck Tales maps and media,990,UJW57YOBS5RYNTUCW4KJPY5FVO6AX75F
+/SysGB/D/DuckTales2.html,SysGB/D/DuckTales2.html,20100806213646,http://www.vgmapper.com:80/SysGB/D/DuckTales2.html,Duck Tales 2 maps and media,1025,HYID6DIHWXPWZTHZ43WBXBRRATLJJEDG
+/SysGB/F/FinalFantasyAdventure.html,SysGB/F/FinalFantasyAdventure.html,20120502182552,http://www.vgmapper.com:80/SysGB/F/FinalFantasyAdventure.html,Final Fantasy Adventure maps and media,1141,YO4NZ4WZAAKNGVIR46P6CJZZE5Z77MXY
+/SysGB/F/FortifiedZone.html,SysGB/F/FortifiedZone.html,20100606164356,http://www.vgmapper.com:80/SysGB/F/FortifiedZone.html,Fortified Zone maps and media,914,BWLSRSSKFK375TVCV3UZGOX7JIQCLWTA
+/SysGB/G/GreatGreed.html,SysGB/G/GreatGreed.html,20100806213416,http://www.vgmapper.com:80/SysGB/G/GreatGreed.html,Great Greed maps and media,1034,QGN6IY4QUFXGESOFZL25CEU5RASDPADO
+/SysGB/GBA.php,SysGB/GBA.php,20120601223555,http://vgmapper.com:80/SysGB/GBA.php,Game Boy maps and media,1331,JUSXLWJUU7X2KFSH4YMILHCDQSYLZH4Q
+/SysGB/GBB.php,SysGB/GBB.php,20111228234047,http://vgmapper.com/SysGB/GBB.php,Game Boy maps and media,1477,NNV4SYY6L34WNN26AOSGIS76MGSIOTWH
+/SysGB/GBD.php,SysGB/GBD.php,20111228232348,http://vgmapper.com/SysGB/GBD.php,Game Boy maps and media,1488,XOGY63HNENAJ5HF4PIL5LUCK7K37U4SK
+/SysGB/GBF.php,SysGB/GBF.php,20120130054557,http://www.vgmapper.com:80/SysGB/GBF.php,Game Boy maps and media,1358,SHZNLHEVRNXNNTCEZB4P4QO2TA7KJ46P
+/SysGB/GBG.php,SysGB/GBG.php,20111228225129,http://vgmapper.com/SysGB/GBG.php,Game Boy maps and media,1534,TEUR4NZK34TC55NGBBQROU3IAAQEDKVV
+/SysGB/GBJ.php,SysGB/GBJ.php,20111228233828,http://vgmapper.com/SysGB/GBJ.php,Game Boy maps and media,1476,IMGHE74NAO74YLXKRK62FHGITGR347ZZ
+/SysGB/GBQ.php,SysGB/GBQ.php,20111228224659,http://vgmapper.com/SysGB/GBQ.php,Game Boy maps and media,1470,QLRSERZ4NOBFPQRRRLQ3D4QZES5UKJXK
+/SysGB/GBS.php,SysGB/GBS.php,20111228231606,http://vgmapper.com/SysGB/GBS.php,Game Boy maps and media,1493,4BA6BSA4SKARIPEZKFTK2RDY2VLE5PPL
+/SysGB/J/JurassicPark.html,SysGB/J/JurassicPark.html,20100806213651,http://www.vgmapper.com:80/SysGB/J/JurassicPark.html,Jurassic Park maps and media,971,PPDJKTWCYJ72NQDP56HY5BOJCO44OUKK
+/SysGB/S/SuperMarioLand2.html,SysGB/S/SuperMarioLand2.html,20100806010052,http://www.vgmapper.com:80/SysGB/S/SuperMarioLand2.html,Super Mario Land 2 maps and media,899,UNF5RDKKYYLL6LNHZR4IBSCZ4XD4D3FC
+/SysGBA/(GameListGBA.php,SysGBA/(GameListGBA.php,20101225070031,http://vgmapper.com/SysGBA/(GameListGBA.php,Game Boy Advance maps and media,1150,CH7BVVYCQPP4S67WALZ25K7LX7SWEX2N
+/SysGBA/D/DensetsunoStafy.html,SysGBA/D/DensetsunoStafy.html,20120602045235,http://vgmapper.com:80/SysGBA/D/DensetsunoStafy.html,Densetsu no Stafy maps and media,857,UO7XIVNIFMNQ43FP2JOMEMUR6XLYSRVL
+/SysGBA/F/FinalFantasy1and2DawnofSouls.html,SysGBA/F/FinalFantasy1and2DawnofSouls.html,20121218003939,http://vgmapper.com:80/SysGBA/F/FinalFantasy1and2DawnofSouls.html,Final Fantasy 1 and 2 Dawn of Souls maps and media,1888,PO35KOMM3R6W7227O473RMEZ4N7C65OW
+/SysGBA/F/FinalFantasy4Advance.html,SysGBA/F/FinalFantasy4Advance.html,20120505074355,http://vgmapper.com:80/SysGBA/F/FinalFantasy4Advance.html,Final Fantasy 4 Advance maps and media,948,WBCGGVNSKJPGKX6GPLZWS3NAQFQ3PQIS
+/SysGBA/GBAD.php,SysGBA/GBAD.php,20120801004329,http://vgmapper.com:80/SysGBA/GBAD.php,Game Boy Advance maps and media,1292,PSVCASIC47CXVFQQDZKM4BSTQ7V4UOFW
+/SysGBA/GBAF.php,SysGBA/GBAF.php,20120502235714,http://vgmapper.com:80/SysGBA/GBAF.php,Game Boy Advance maps and media,1387,YMKNMDE7RREPXNRR4ZORLC76V2LHYQ5T
+/SysGBA/GBAG.php,SysGBA/GBAG.php,20120602045239,http://vgmapper.com:80/SysGBA/GBAG.php,Game Boy Advance maps and media,1284,76L4PXRGTLSM3TOJOKMT2DIUNRCJ2UTG
+/SysGBA/GBAM.php,SysGBA/GBAM.php,20120602045244,http://vgmapper.com:80/SysGBA/GBAM.php,Game Boy Advance maps and media,1406,DPZWI3SEHKD7RJKJ7S4ZEYQQ2M4ZWFPS
+/SysGBA/GBAP.php,SysGBA/GBAP.php,20121102062611,http://www.vgmapper.com:80/SysGBA/GBAP.php,Game Boy Advance maps and media,1425,RLBW35RQKJWA4YTDKXMHAHFQKNZEI4AJ
+/SysGBA/GBAS.php,SysGBA/GBAS.php,20120602045510,http://vgmapper.com:80/SysGBA/GBAS.php,Game Boy Advance maps and media,1398,6TK52RDTLPEAZH3KEVRIJBTNAT62XGN4
+/SysGBA/GBAW.php,SysGBA/GBAW.php,20120826220810,http://vgmapper.com:80/SysGBA/GBAW.php,Game Boy Advance maps and media,1319,4X47TZXF25OERCTBPPT2U7J6P6DQ3DS3
+/SysGBA/GBAY.php,SysGBA/GBAY.php,20120602045249,http://vgmapper.com:80/SysGBA/GBAY.php,Game Boy Advance maps and media,1324,7T7DSDCFZ2EVCFJRJEDCHSZPFERPFWYD
+/SysGBA/M/MarioandLuigiSuperstarSaga.html,SysGBA/M/MarioandLuigiSuperstarSaga.html,20100608130115,http://www.vgmapper.com:80/SysGBA/M/MarioandLuigiSuperstarSaga.html,Mario and Luigi Superstar Saga maps and media,1624,6LI5TYVIET2B3SDFFK6DP5FIY6R4OY6X
+/SysGBA/M/MarioPartyAdvance.html,SysGBA/M/MarioPartyAdvance.html,20100825151018,http://www.vgmapper.com:80/SysGBA/M/MarioPartyAdvance.html,Mario Party Advance maps and media,1213,SHQFHFCTCUS4U3UGV4CCLB5LXTUJAS3X
+/SysGBA/M/MarioVsDonkeyKong.html,SysGBA/M/MarioVsDonkeyKong.html,20100607023342,http://www.vgmapper.com:80/SysGBA/M/MarioVsDonkeyKong.html,Mario Vs. Donkey Kong maps and media,2688,MUY5OTGEXE452QUW5376I4X5OLZTVHE3
+/SysGBA/M/MetroidFusion.html,SysGBA/M/MetroidFusion.html,20111228231754,http://vgmapper.com/SysGBA/M/MetroidFusion.html,Metroid Fusion maps and media,994,ZGXTNRJEUNQQNK7OTAKGVXAR56WNLS54
+/SysGBA/P/PokemonLeafGreenFireRed.html,SysGBA/P/PokemonLeafGreenFireRed.html,20121202133129,http://www.vgmapper.com:80/SysGBA/P/PokemonLeafGreenFireRed.html,Pokemon Leaf Green and Fire Red maps and media,1114,QIBFRXW45MLGACGHSBOTOROV7BICRANF
+/SysGBA/P/PowerRangersDinoThunder.html,SysGBA/P/PowerRangersDinoThunder.html,20100608130154,http://www.vgmapper.com:80/SysGBA/P/PowerRangersDinoThunder.html,Power Rangers Dino Thunder maps and media,1104,X3L2FFXBFY4HXTMK557HAVMPOYOPZSLV
+/SysGBA/P/PowerRangersTimeForce.html,SysGBA/P/PowerRangersTimeForce.html,20100608130120,http://www.vgmapper.com:80/SysGBA/P/PowerRangersTimeForce.html,Power Rangers Time Force maps and media,945,TGKOZKAADQ7AB5RUEWUZEKUHHLFWA4XH
+/SysGBA/S/SuperMarioAdvance3YoshisIsland.html,SysGBA/S/SuperMarioAdvance3YoshisIsland.html,20120722223123,http://www.vgmapper.com/SysGBA/S/SuperMarioAdvance3YoshisIsland.html,Super Mario Advance 3 Yoshi's Island maps and media,1107,W3CZLCKPARKT2GGNJHAF3QQ7Z6VZSHV4
+/SysGBA/S/SuperMarioAdvance4.html,SysGBA/S/SuperMarioAdvance4.html,20100806011233,http://www.vgmapper.com:80/SysGBA/S/SuperMarioAdvance4.html,Super Mario Advance 4 maps and media,1654,UFFTZWO5FKKD23WWVCQEEX57GGURJS7E
+/SysGBA/W/WarioLand.html,SysGBA/W/WarioLand.html,20120831202316,http://vgmapper.com:80/SysGBA/W/WarioLand.html,Wario Land 4 maps and media,1467,V2IPCG45YRCMR544O45VJLUCNFRH6JZA
+/SysGBA/Y/YoshiTopsyTurvy.html,SysGBA/Y/YoshiTopsyTurvy.html,20101225193928,http://vgmapper.com/SysGBA/Y/YoshiTopsyTurvy.html,Yoshi Topsy Turvy maps and media,1786,4XLSRNABUEP5LVRPWT2LMRIH2AZFPFPT
+/SysGBC/(GameListGBC.php,SysGBC/(GameListGBC.php,20101225073521,http://vgmapper.com/SysGBC/(GameListGBC.php,Game Boy Color maps and media,1093,UHM7W73YJ4JZNS5S3LN463AQ5EZLZY5G
+/SysGBC/B/BionicCommandoEliteForces.html,SysGBC/B/BionicCommandoEliteForces.html,20111229103009,http://vgmapper.com/SysGBC/B/BionicCommandoEliteForces.html,Bionic Commando Elite Forces maps and media,1224,EWZX44IN6MTVS43YIBBHLQJU4FRGVC3Q
+/SysGBC/D/DragonWarrior3.html,SysGBC/D/DragonWarrior3.html,20120502084025,http://www.vgmapper.com:80/SysGBC/D/DragonWarrior3.html,Dragon Warrior 3 maps and media,1148,LEDTY42UBC4WQIJSAFS554Y3N5MZMAOZ
+/SysGBC/GBCB.php,SysGBC/GBCB.php,20120808232148,http://vgmapper.com:80/SysGBC/GBCB.php,Game Boy Color maps and media,1290,3ZRJB2JQHA2UXSYJMNEY6SDK4WYOSZ3K
+/SysGBC/GBCD.php,SysGBC/GBCD.php,20120116041655,http://www.vgmapper.com:80/SysGBC/GBCD.php,Game Boy Color maps and media,1281,3AIYFD6CO4QBPSQMMFRGEYGHYXSB3X2Q
+/SysGBC/GBCL.php,SysGBC/GBCL.php,20111229152036,http://vgmapper.com/SysGBC/GBCL.php,Game Boy Color maps and media,1508,47O3D4DDUJFGXSUJTWR7NY36C65NY5KK
+/SysGBC/GBCM.php,SysGBC/GBCM.php,20111229145126,http://vgmapper.com/SysGBC/GBCM.php,Game Boy Color maps and media,1432,DX7RZ6ABYIRV4JCU2FWI7NGZ4ADDHW63
+/SysGBC/GBCP.php,SysGBC/GBCP.php,20111229135730,http://vgmapper.com/SysGBC/GBCP.php,Game Boy Color maps and media,1463,SOYDIDZXSYKWQZPQ4LQYX4SNCL2HVYAU
+/SysGBC/GBCQ.php,SysGBC/GBCQ.php,20111229101327,http://vgmapper.com/SysGBC/GBCQ.php,Game Boy Color maps and media,1461,6CJLVONUBEKPIFKUNCWV3HFBYS55MJFD
+/SysGBC/GBCR.php,SysGBC/GBCR.php,20111229150203,http://vgmapper.com/SysGBC/GBCR.php,Game Boy Color maps and media,1464,EKYF6ZK65NRGCMIDQL5NOR25NPQCXNXI
+/SysGBC/L/LegendofZelda4DX.html,SysGBC/L/LegendofZelda4DX.html,20100409020439,http://www.vgmapper.com:80/SysGBC/L/LegendofZelda4DX.html,Legend of Zelda 4 DX Link's Awakening maps and media,1075,RQJJHHS5H4PGJNRDFK6GDPEBZB5XLH2A
+/SysGBC/L/LegendofZelda7OracleofSeasons.html,SysGBC/L/LegendofZelda7OracleofSeasons.html,20100806010747,http://www.vgmapper.com:80/SysGBC/L/LegendofZelda7OracleofSeasons.html,Legend of Zelda 7 Oracle of Seasons maps and media,1084,JEOIKEOTI5A4MMCKT4ZR3IOH4LTZGQU3
+/SysGBC/L/LegendofZelda8OracleofAges.html,SysGBC/L/LegendofZelda8OracleofAges.html,20100609155633,http://www.vgmapper.com:80/SysGBC/L/LegendofZelda8OracleofAges.html,Legend of Zelda 8 Oracle of Ages maps and media,1074,VSYPA3BXDG266ISY45VKLA6G7UUABSER
+/SysGBC/M/MetalGearSolid.html,SysGBC/M/MetalGearSolid.html,20100818041510,http://www.vgmapper.com:80/SysGBC/M/MetalGearSolid.html,Metal Gear Solid maps and media,1115,XGFL7SXT4HGRO4E5KMUIZAUOVMVGDBLZ
+/SysGBC/P/PokemonCrystal.html,SysGBC/P/PokemonCrystal.html,20100409020907,http://www.vgmapper.com:80/SysGBC/P/PokemonCrystal.html,Pokemon Crystal maps and media,1248,7GUBH4376LFACQ2ER2O4AJMKK74YUSUW
+/SysGBC/P/PokemonSilverGold.html,SysGBC/P/PokemonSilverGold.html,20100609155651,http://www.vgmapper.com:80/SysGBC/P/PokemonSilverGold.html,Pokemon Silver and Gold maps and media,1238,SJUECUOU6HUCDKB4IG4NGTAIN4SU6M6O
+/SysGBC/Q/QuestforCamelot.html,SysGBC/Q/QuestforCamelot.html,20100609154437,http://www.vgmapper.com:80/SysGBC/Q/QuestforCamelot.html,Quest for Camelot maps and media,1017,U55WSBQLRWGLDE47BUCIWCI6J4AKFV5R
+/SysGBC/R/ResidentEvilGaiden.html,SysGBC/R/ResidentEvilGaiden.html,20100409020922,http://www.vgmapper.com:80/SysGBC/R/ResidentEvilGaiden.html,Resident Evil Gaiden maps and media,914,XGCQKK7262S2W5MR6RSKLEPY5OLM3HBR
+/SysGBC/R/Revelations.html,SysGBC/R/Revelations.html,20100609154442,http://www.vgmapper.com:80/SysGBC/R/Revelations.html,Revelations the Demon Slayer maps and media,876,F6KJBKWWCMQ5GZM7WJBTQLTQCAAHUW4F
+/SysGC/(GameListGC.php,SysGC/(GameListGC.php,20101225055503,http://vgmapper.com/SysGC/(GameListGC.php,Game Cube maps and media,922,WH6AY7INL65PXL7MH6FJCSDM3DVRQ2K4
+/SysGC/GCM.php,SysGC/GCM.php,20120601223600,http://vgmapper.com:80/SysGC/GCM.php,Game Cube maps and media,1291,RUT77C5DT5XYF2HGOOUWQ2MGDPF5EH5E
+/SysGC/GCS.php,SysGC/GCS.php,20111228225403,http://vgmapper.com/SysGC/GCS.php,Game Cube maps and media,1410,HLD4YMFVQTREWGRY2PRO4WQTE4LMRKWQ
+/SysGC/L/LegendofZeldaTwilightPrincess.html,SysGC/L/LegendofZeldaTwilightPrincess.html,20121011005222,http://vgmapper.com/SysGC/L/LegendofZeldaTwilightPrincess.html,The Legend of Zelda Twilight Princess,1077,HWEFG4ECIBVQOOEUMSB3U7O7P2QIOZJ2
+/SysGC/M/MetroidPrime.html,SysGC/M/MetroidPrime.html,20111228233543,http://vgmapper.com/SysGC/M/MetroidPrime.html,Metroid Prime maps and media,1921,I4P445YXQJ7UTR2LY3KMS725OGAHHJXK
+/SysGC/S/SuperMarioSunShine.html,SysGC/S/SuperMarioSunShine.html,20100806004431,http://www.vgmapper.com:80/SysGC/S/SuperMarioSunShine.html,Super Mario Sun Shine maps and media,872,J4G4VZAUTJ4I7MSBDTUI7XRIYB625CWK
+/SysGG/(GameListGG.php,SysGG/(GameListGG.php,20101225074119,http://vgmapper.com/SysGG/(GameListGG.php,Game Gear maps and media,918,MIS6ZEQHLYXKFYEWTRWJDVF75OWVLUJP
+/SysGG/C/Choplifter3.html,SysGG/C/Choplifter3.html,20111228230328,http://vgmapper.com/SysGG/C/Choplifter3.html,Choplifter 3 maps and media,1208,CKC2YSNRO2TEHWRKXRQZIUAY73U36TKU
+/SysGG/GGC.php,SysGG/GGC.php,20120601223605,http://vgmapper.com:80/SysGG/GGC.php,Game Gear maps and media,1256,4M2MJINTW3B6EP6XPWMNEWCCYSXUQKB7
+/SysGG/GGD.php,SysGG/GGD.php,20111228225807,http://vgmapper.com/SysGG/GGD.php,Game Gear maps and media,1411,7WGIZIKCNRIRQ7TYDDZZ5WFJQWSANRIH
+/SysGG/GGP.php,SysGG/GGP.php,20111228231113,http://vgmapper.com/SysGG/GGP.php,Game Gear maps and media,1423,OYSNB7M7DIKB7COXH4RMCOCRGAD4B67X
+/SysGG/P/PhantasyStarGaiden.html,SysGG/P/PhantasyStarGaiden.html,20081208232746,http://www.vgmapper.com:80/SysGG/P/PhantasyStarGaiden.html,Phantasy Star Gaiden maps and media,1007,WSRN2PI5XZG4N3U537GXGJUUZ3ZCUDAV
+/SysMobile/(GameListMobile.php,SysMobile/(GameListMobile.php,20101225074339,http://vgmapper.com/SysMobile/(GameListMobile.php,Mobile Phone maps and media,972,IY4JKKFYKXXQLJPRHC4SFXJO3QKGYJM3
+/SysMobile/F/FantasyWarrior.html,SysMobile/F/FantasyWarrior.html,20120801002950,http://vgmapper.com:80/SysMobile/F/FantasyWarrior.html,Fantasy Warrior maps and media,843,LBQSHHMT5TLZS7UFDKWLQDPAO2F46RDS
+/SysMobile/F/FantasyWarrior2Evil.html,SysMobile/F/FantasyWarrior2Evil.html,20120801005242,http://vgmapper.com:80/SysMobile/F/FantasyWarrior2Evil.html,Fantasy Warrior 2 Evil maps and media,895,TOJ56YV762MABNBHINQRGHZBTXY6F3CG
+/SysMobile/F/FantasyWarrior2Good.html,SysMobile/F/FantasyWarrior2Good.html,20120801002955,http://vgmapper.com:80/SysMobile/F/FantasyWarrior2Good.html,Fantasy Warrior 2 Good maps and media,894,HGYO7OAKCQYN4DCKJXGU23DPXAHRH4QN
+/SysMobile/MobileF.php,SysMobile/MobileF.php,20120831204409,http://vgmapper.com:80/SysMobile/MobileF.php,Mobile Phone maps and media,1298,UYQPIY3PLAAM37BK5MVX5L7PSOMB6BLW
+/SysMobile/MobileP.php,SysMobile/MobileP.php,20120601223611,http://vgmapper.com:80/SysMobile/MobileP.php,Mobile Phone maps and media,1274,5XBNTMMRVREMKZCAUET4PWJP4DEPI2IM
+/SysMobile/MobileS.php,SysMobile/MobileS.php,20120811020343,http://vgmapper.com:80/SysMobile/MobileS.php,Mobile Phone maps and media,1265,UNDIN26574HONJINMNPUVKB5CEEACM44
+/SysMobile/P/PowerRangersMysticForce.html,SysMobile/P/PowerRangersMysticForce.html,20100606164426,http://www.vgmapper.com:80/SysMobile/P/PowerRangersMysticForce.html,Power Rangers Mystic Force maps and media,1002,KQPIPNVSSL4C7SWMNI42KXMA52RO7HZ5
+/SysMobile/S/SilentHillOrphan.html,SysMobile/S/SilentHillOrphan.html,20100806213421,http://www.vgmapper.com:80/SysMobile/S/SilentHillOrphan.html,Silent Hill Orphan maps and media,893,4I4SGVU3IGLKBLDYK655FRUL7VI2VV3T
+/SysN64/,SysN64/index.html,20121118061840,http://vgmapper.com:80/SysN64/,vgmapper.com - /SysN64/,975,KC4RPIBOH3NNNS54FXU5LOS7IUXOC4UD
+/SysN64/(GameListN64.php,SysN64/(GameListN64.php,20101225075154,http://vgmapper.com/SysN64/(GameListN64.php,Nintendo 64 maps and media,1270,ALBFVYGCERSLX56VV2PTRKZHSN3GUB4W
+/SysN64/A/AidynChronicles.html,SysN64/A/AidynChronicles.html,20121031155340,http://vgmapper.com:80/SysN64/A/AidynChronicles.html,Aidyn Chronicles maps and media,2132,BN5PAAMBTNI3AHQ5RCHLXRPYN6OY3EDX
+/SysN64/A/ArmyMenSargesHeros.html,SysN64/A/ArmyMenSargesHeros.html,20121118061856,http://vgmapper.com:80/SysN64/A/ArmyMenSargesHeros.html,Army Men Sarges Heros maps and media,873,QBRRKDOLCWYBONL4EVKT4NMUYMWGBGR3
+/SysN64/B/BugsLife.html,SysN64/B/BugsLife.html,20100606164431,http://www.vgmapper.com:80/SysN64/B/BugsLife.html,A Bug's Life maps and media,1283,ALZ4RSOEYAD3LYJCC734VOY6A3OONCRI
+/SysN64/D/DonkeyKong64.html,SysN64/D/DonkeyKong64.html,20100806004141,http://www.vgmapper.com:80/SysN64/D/DonkeyKong64.html,Donkey Kong 64 maps and media,871,DY6Z2VTDTMGP62S555J2PDFMA6ASYLMH
+/SysN64/D/Doom64.html,SysN64/D/Doom64.html,20100807072907,http://www.vgmapper.com:80/SysN64/D/Doom64.html,Doom 64 maps and media,901,NSWCIKYP7Z4SQ4LN7RXJGHQJQJTKTI5J
+/SysN64/D/DukeNukemZeroHour.html,SysN64/D/DukeNukemZeroHour.html,20100606164436,http://www.vgmapper.com:80/SysN64/D/DukeNukemZeroHour.html,Duke Nukem Zero Hour maps and media,981,UDWTSGEKGZR7U3FM57R4UNKHSYKOP2UN
+/SysN64/E/EarthwormJim3D.html,SysN64/E/EarthwormJim3D.html,20100606164441,http://www.vgmapper.com:80/SysN64/E/EarthwormJim3D.html,Earthworm Jim 3D maps and media,947,6CM2T6D5TTRSW2WN2XDD5JVG42NGDF5Z
+/SysN64/F/FushiginoDungeon2.html,SysN64/F/FushiginoDungeon2.html,20100807071348,http://www.vgmapper.com:80/SysN64/F/FushiginoDungeon2.html,Fushigi no Dungeon 2 maps and media,1151,QXYILQIAPIPX5PKHGMIBGEXX2JJ4LSBF
+/SysN64/G/Gex2.html,SysN64/G/Gex2.html,20100807074342,http://www.vgmapper.com:80/SysN64/G/Gex2.html,Gex 2 maps and media,852,XQ33R2YXVXD4GHW46CE2FPUP4RA5F5EO
+/SysN64/G/Gex3.html,SysN64/G/Gex3.html,20100807072915,http://www.vgmapper.com:80/SysN64/G/Gex3.html,Gex 3 maps and media,1132,PI4ELNMQGG4W6RVXB52JZ5PHJNPCHTA3
+/SysN64/H/Hexen.html,SysN64/H/Hexen.html,20100807071052,http://www.vgmapper.com:80/SysN64/H/Hexen.html,Hexen maps and media,1564,77UJ7YNEEMT5HZJKZ4ULQQZWDCHQR4ZC
+/SysN64/J/JetForceGemini.html,SysN64/J/JetForceGemini.html,20110117052609,http://www.vgmapper.com:80/SysN64/J/JetForceGemini.html,Jet Force Gemini maps and media,983,NG6WAQGY4GFHZ3EROBKLKFEWSM7P6TVG
+/SysN64/K/Kirby64.html,SysN64/K/Kirby64.html,20100807074402,http://www.vgmapper.com:80/SysN64/K/Kirby64.html,Kirby 64 maps and media,1080,QWPOOIRXJ4NGOH66V5TJVT42ED455MA3
+/SysN64/L/LegendofZeldaMajorasMask.html,SysN64/L/LegendofZeldaMajorasMask.html,20121118061347,http://vgmapper.com:80/SysN64/L/LegendofZeldaMajorasMask.html,The Legend of Zelda 6 Majora's Mask maps and media,1050,AKML7WW3RYE4QTOCWP2QS2RZCTTRNL3L
+/SysN64/L/LegendofZeldaOcarinaofTime.html,SysN64/L/LegendofZeldaOcarinaofTime.html,20121218115543,http://www.vgmapper.com:80/SysN64/L/LegendofZeldaOcarinaofTime.html,The Legend of Zelda 5 Ocarina of Time maps and media,7102,SKY2D6SWNTSWGHXCCGVWALRO44OTZHYA
+/SysN64/M/MarioKart64.html,SysN64/M/MarioKart64.html,20101125034047,http://www.vgmapper.com:80/SysN64/M/MarioKart64.html,Mario Kart 64 maps and media,1729,MK4ZUGW7J7NIJUPAXMB7WDVRIWRXCDHK
+/SysN64/M/MischiefMakers.html,SysN64/M/MischiefMakers.html,20120801005205,http://www.vgmapper.com:80/SysN64/M/MischiefMakers.html,Mischief Makers maps and media,1069,MGVLKSWSKUGSMYTQLUSHATLWJ6U76XYG
+/SysN64/N64A.php,SysN64/N64A.php,20121101063956,http://vgmapper.com:80/SysN64/N64A.php,Nintendo 64 maps and media,1366,CPCBJKI3MIFLS24GE72NF3HYWQNJI3I3
+/SysN64/N64B.php,SysN64/N64B.php,20121118054611,http://vgmapper.com:80/SysN64/N64B.php,Nintendo 64 maps and media,1501,QWRLURRLQCLWGM3NFUIBCVLEH2D5BXUG
+/SysN64/N64C.php,SysN64/N64C.php,20121118060725,http://vgmapper.com:80/SysN64/N64C.php,Nintendo 64 maps and media,1518,UB5EPQQZW6ITXFHSXEB5DXS2IHZGS24A
+/SysN64/N64D.php,SysN64/N64D.php,20121118054616,http://vgmapper.com:80/SysN64/N64D.php,Nintendo 64 maps and media,1554,YLQ36RPTBODF5HLI2QDH4KINHCDTEBCK
+/SysN64/N64E.php,SysN64/N64E.php,20121118060002,http://vgmapper.com:80/SysN64/N64E.php,Nintendo 64 maps and media,1502,JXYKCL7IHHVJXVX3JU4PJY2IIDR6BREO
+/SysN64/N64F.php,SysN64/N64F.php,20121118061723,http://vgmapper.com:80/SysN64/N64F.php,Nintendo 64 maps and media,1515,7JE6FTOR62GR2J3TQEYB6JQP2SHJ3XPJ
+/SysN64/N64G.php,SysN64/N64G.php,20121118061733,http://vgmapper.com:80/SysN64/N64G.php,Nintendo 64 maps and media,1503,3KVYDQKOZDS65HYSJQ2ZZELJLGUE46B6
+/SysN64/N64H.php,SysN64/N64H.php,20121118061353,http://vgmapper.com:80/SysN64/N64H.php,Nintendo 64 maps and media,1485,MTA2X7OTN6X4IZMEWJLNQ6ZQFADN5X3C
+/SysN64/N64J.php,SysN64/N64J.php,20121118060730,http://vgmapper.com:80/SysN64/N64J.php,Nintendo 64 maps and media,1490,Y7Z3AODLGPJFYZIZ2MZP7C4KW5UCGLMT
+/SysN64/N64K.php,SysN64/N64K.php,20121118060735,http://vgmapper.com:80/SysN64/N64K.php,Nintendo 64 maps and media,1489,HPY7N5U4QTI7RRZDE5RJ5LQYU74HUVXE
+/SysN64/N64L.php,SysN64/N64L.php,20121118054621,http://vgmapper.com:80/SysN64/N64L.php,Nintendo 64 maps and media,1551,M6YVDJHMCB46Q3PDPRZYEQIRTINY6RAQ
+/SysN64/N64M.php,SysN64/N64M.php,20121118061358,http://vgmapper.com:80/SysN64/N64M.php,Nintendo 64 maps and media,1524,IGZIWDXYZBDKSVTEZ37A2HZGTPD3NITT
+/SysN64/N64O.php,SysN64/N64O.php,20121118060012,http://vgmapper.com:80/SysN64/N64O.php,Nintendo 64 maps and media,1500,IYLZURXEW6KEEPQ6BRFLBSNUSBKMXTI5
+/SysN64/N64P.php,SysN64/N64P.php,20121118054627,http://vgmapper.com:80/SysN64/N64P.php,Nintendo 64 maps and media,1521,W23W4NJVBLYBL63KKWONPSKPU57UZDE4
+/sysn64/N64PM.html,sysn64/N64PM.html,20071018030843,http://www.vgmapper.com:80/sysn64/N64PM.html,Untitled Document,761,PSWY7UHBXI7XSWPYUG2I3XS3H6K33WVP
+/SysN64/N64Q.php,SysN64/N64Q.php,20121118061259,http://vgmapper.com:80/SysN64/N64Q.php,Nintendo 64 maps and media,1492,GO2Z2VAFVAGTW6UNIKLR5IPDGULFAIFP
+/SysN64/N64S.php,SysN64/N64S.php,20121118054129,http://vgmapper.com:80/SysN64/N64S.php,Nintendo 64 maps and media,1528,72XSHQ5LCTYNDABNDVFEZZP4ZGSEIHDW
+/SysN64/N64T.php,SysN64/N64T.php,20121118060037,http://vgmapper.com:80/SysN64/N64T.php,Nintendo 64 maps and media,1555,U7U6PP7YXEGRGJDOQG67LY7RUYW3JF4H
+/SysN64/O/OgreBattle64.html,SysN64/O/OgreBattle64.html,20121118061403,http://vgmapper.com:80/SysN64/O/OgreBattle64.html,Ogre Battle 64 maps and media,2626,5YHFLXUUEA4XSLGN5UF2IA7HUBLV3ZL3
+/SysN64/P/PaperMario.html,SysN64/P/PaperMario.html,20120707001910,http://vgmapper.com:80/SysN64/P/PaperMario.html,Paper Mario maps and media,2902,WUKVV7IJWURIET4LZHUO2CYLDGQFOXCH
+/SysN64/P/PuyoPuyoSun64.html,SysN64/P/PuyoPuyoSun64.html,20100606164545,http://www.vgmapper.com:80/SysN64/P/PuyoPuyoSun64.html,Puyo Puyo Sun 64 maps and media,1159,U3UKRHPUIDSJMH4CZ3CJXW3AIYBZTVVD
+/SysN64/Q/,SysN64/Q/index.html,20121118061741,http://vgmapper.com:80/SysN64/Q/,vgmapper.com - /SysN64/Q/,569,WYZS7SFR5ZVO6ZXTFIHPPFILWKLDU3BP
+/SysN64/Q/Quake.html,SysN64/Q/Quake.html,20121118061815,http://vgmapper.com:80/SysN64/Q/Quake.html,Quake maps and media,929,HXHM7YAK42QT5XGLP7MLOSHBRUNDQNC2
+/SysN64/S/SuperMario64.html,SysN64/S/SuperMario64.html,20100807074454,http://www.vgmapper.com:80/SysN64/S/SuperMario64.html,Super Mario 64 maps and media,1031,7U5GJXGQRYUQ6XOHUZWH46KGBEPR2UL5
+/SysN64/S/SuperSmashBros.html,SysN64/S/SuperSmashBros.html,20121025134520,http://vgmapper.com:80/SysN64/S/SuperSmashBros.html,Super Smash Bros maps and media,1983,LLASYN7JOTFQGH2MVWNOB23XCAHGW6NE
+/SysN64/T/,SysN64/T/index.html,20121118054647,http://vgmapper.com:80/SysN64/T/,vgmapper.com - /SysN64/T/,2892,2DK2O4Z3U7US7DHXZI4ITSBLAYNE2AJN
+/SysN64/T/Turok2.html,SysN64/T/Turok2.html,20121117204525,http://vgmapper.com:80/SysN64/T/Turok2.html,Turok 2 maps and media,877,I53CZZQOJDK3EVD4PZTMR572HIK2VVOQ
+/SysN64/T/Turok3.html,SysN64/T/Turok3.html,20100825151104,http://www.vgmapper.com:80/SysN64/T/Turok3.html,Turok 3 maps and media,854,O3SVFQNDOIL53TAU6YUG5Q5ZWHGAMGJW
+/SysNES/(GameListNES.php,SysNES/(GameListNES.php,20101225072004,http://vgmapper.com/SysNES/(GameListNES.php,NES maps and media,1342,WPES3KGNOSJ3OTNIFVMRPY3YFXKGTGN6
+/SysNES/A/AdventuresInTheMagicKingdom.html,SysNES/A/AdventuresInTheMagicKingdom.html,20120602045515,http://vgmapper.com:80/SysNES/A/AdventuresInTheMagicKingdom.html,Adventures In The Magic Kingdom maps and media,957,MB66BE6P3JPSFFHX7573D4QETNFSO3YS
+/SysNES/A/AirFortress.html,SysNES/A/AirFortress.html,20120602045521,http://vgmapper.com:80/SysNES/A/AirFortress.html,Air Fortress maps and media,992,XG5Z7FJMRFUDBYTQD7LDRN73X3NWASLD
+/SysNES/B/BattleofOlympus.html,SysNES/B/BattleofOlympus.html,20120414074630,http://vgmapper.com:80/SysNES/B/BattleofOlympus.html,Battle of Olympus maps and media,981,U32ZWFEGGVA5KMITNQ5ZRZWOJR3DVFHH
+/SysNES/B/BionicCommando.html,SysNES/B/BionicCommando.html,20120801004023,http://vgmapper.com:80/SysNES/B/BionicCommando.html,Bionic Commando maps and media,986,E2UJCFNYE5PSVIMXM6Y4A73CXTPSIF6E
+/SysNES/C/Castlevania2.html,SysNES/C/Castlevania2.html,20120602045525,http://vgmapper.com:80/SysNES/C/Castlevania2.html,Castlevania 2 Simon's Quest maps and media,917,EXUZYNST6FDV4KUWJEGXVMMBSSYT6KFU
+/SysNES/D/DayDreaminDavey.html,SysNES/D/DayDreaminDavey.html,20100807074459,http://www.vgmapper.com:80/SysNES/D/DayDreaminDavey.html,Day Dreamin' Davey maps and media,862,BGA4ECSU6X2NH6XIR42WK6VYPDMQMBMG
+/SysNES/D/DeadlyTowers.html,SysNES/D/DeadlyTowers.html,20100606164611,http://www.vgmapper.com:80/SysNES/D/DeadlyTowers.html,Deadly Towers maps and media,1199,LOLZJ2ZWYAE6FVE7FBOTNPUGG5S3VV2M
+/SysNES/D/DragonWarrior.html,SysNES/D/DragonWarrior.html,20100807072930,http://www.vgmapper.com:80/SysNES/D/DragonWarrior.html,Dragon Warrior maps and media,849,RTRHYJLAMHU35SLDJ4AMRGIZM7GWXQOK
+/SysNES/D/DragonWarrior2.html,SysNES/D/DragonWarrior2.html,20100606164615,http://www.vgmapper.com:80/SysNES/D/DragonWarrior2.html,Dragon Warrior 2 maps and media,1047,P7EGFHBJPVY7WU4GVG2RCIIDGP7SLSBF
+/SysNES/D/DragonWarrior3.html,SysNES/D/DragonWarrior3.html,20100807072935,http://www.vgmapper.com:80/SysNES/D/DragonWarrior3.html,Dragon Warrior 3 maps and media,1236,RYKU47AX5BZB2GFI7TBJJA33OSISKOPQ
+/SysNES/D/DragonWarrior4.html,SysNES/D/DragonWarrior4.html,20100606164620,http://www.vgmapper.com:80/SysNES/D/DragonWarrior4.html,Dragon Warrior 4 maps and media,1363,HZDHZKWK6BFJ6EXHOKZUT2VH2IGSGNC3
+/SysNES/D/DuckTales.html,SysNES/D/DuckTales.html,20100807071118,http://www.vgmapper.com:80/SysNES/D/DuckTales.html,Duck Tales maps and media,981,VCYIGTEVACALMZTHSU7NR4YPCTHNGUUR
+/SysNES/D/DuckTales2.html,SysNES/D/DuckTales2.html,20100606164626,http://www.vgmapper.com:80/SysNES/D/DuckTales2.html,Duck Tales 2 maps and media,1016,RASGTCHRGY6LOTGVEYKE4RYZNEE3EB4N
+/SysNES/F/Faxanadu.html,SysNES/F/Faxanadu.html,20100606164631,http://www.vgmapper.com:80/SysNES/F/Faxanadu.html,Faxanadu maps and media,1058,2XZAJZXPEJAIANQF643KNPJXFU4VBI4T
+/SysNES/F/FestersQuest.html,SysNES/F/FestersQuest.html,20100606164636,http://www.vgmapper.com:80/SysNES/F/FestersQuest.html,Fester's Quest maps and media,1000,QRGML5MBMLHWWOMQNDU4LUC6R5NLKG3M
+/SysNES/F/FinalFantasy.html,SysNES/F/FinalFantasy.html,20100807072940,http://www.vgmapper.com:80/SysNES/F/FinalFantasy.html,Final Fantasy maps and media,851,THCIFAUEFBPMQPV5Y34V6536DVMRMPNM
+/SysNES/G/Golgo13.html,SysNES/G/Golgo13.html,20100606164641,http://www.vgmapper.com:80/SysNES/G/Golgo13.html,Golgo 13 maps and media,906,2KVPAGPH5C7WKL2HZ5AXSWPOH3QWOTAZ
+/SysNES/H/Hydlide.html,SysNES/H/Hydlide.html,20101225195044,http://vgmapper.com/SysNES/H/Hydlide.html,Hydlide maps and media,1011,HYTYQ67JXFIBKSEOSJNWDSVS3PNB4XMY
+/SysNES/L/LegendofZelda.html,SysNES/L/LegendofZelda.html,20101225194559,http://vgmapper.com/SysNES/L/LegendofZelda.html,Legend of Zelda maps and media,1010,XYXLPBTCYMEIHMQ7QE3MU2PQM6JZ3HRQ
+/SysNES/M/MafatConspiracy.html,SysNES/M/MafatConspiracy.html,20101225194730,http://vgmapper.com/SysNES/M/MafatConspiracy.html,Mafat Conspiracy maps and media,1013,TNHAKXAHMTAG6Q7SOTPMN6UZ7NSCIMDS
+/SysNES/M/MickeyMouse.html,SysNES/M/MickeyMouse.html,20101225194644,http://vgmapper.com/SysNES/M/MickeyMouse.html,Mickey Mouse maps and media,1024,UUZQWUMJANJ36JZRLWONLKOSLTVE7U5F
+/SysNES/NESA.php,SysNES/NESA.php,20120802045755,http://vgmapper.com:80/SysNES/NESA.php,NES maps and media,1341,VNRO57GRE44YWXEF6PRVIOA2YJ5KGPUW
+/SysNES/NESB.php,SysNES/NESB.php,20120901184630,http://vgmapper.com:80/SysNES/NESB.php,NES maps and media,1328,7TBMYQTLX6OXSI7UTMRNX6TERXGZ5JOZ
+/SysNES/NESC.php,SysNES/NESC.php,20120801004028,http://vgmapper.com:80/SysNES/NESC.php,NES maps and media,1306,IZFJIACR2FSMJH7P35FVBTZMIMSICIBL
+/SysNES/NESD.php,SysNES/NESD.php,20120601223615,http://vgmapper.com:80/SysNES/NESD.php,NES maps and media,1426,67DSQ3NCB5GUB7EU4QK7QD6GUHQNAZGI
+/SysNES/NESF.php,SysNES/NESF.php,20120605013050,http://vgmapper.com:80/SysNES/NESF.php,NES maps and media,1355,VVXTW5YEFBVIPN36P5VRKLSFGWHBKPYV
+/SysNES/NESG.php,SysNES/NESG.php,20120605013055,http://vgmapper.com:80/SysNES/NESG.php,NES maps and media,1324,ZCGJVGJQ6PXQW6JK7UHVDWU52KTR2WAQ
+/SysNES/NESH.php,SysNES/NESH.php,20120601223620,http://vgmapper.com:80/SysNES/NESH.php,NES maps and media,1300,QCSWXK5RNGWOR7OW7HE7LBH2JFPXIDXB
+/SysNES/NESK.php,SysNES/NESK.php,20120605013100,http://vgmapper.com:80/SysNES/NESK.php,NES maps and media,1342,LSGGAWWSGEQU3EYH6LPEDS6T7KO5NEMI
+/SysNES/NESL.php,SysNES/NESL.php,20120605013105,http://vgmapper.com:80/SysNES/NESL.php,NES maps and media,1304,5VYXHDCV65647GPRTFFDSBXIMVNXNJPR
+/SysNES/NESM.php,SysNES/NESM.php,20120605013111,http://vgmapper.com:80/SysNES/NESM.php,NES maps and media,1362,6ZPVCWMNUIQHFY52RWGY65Z5IIWBHVP6
+/SysNES/NESR.php,SysNES/NESR.php,20120605013116,http://vgmapper.com:80/SysNES/NESR.php,NES maps and media,1345,FNLTKCNUMW65DW7CGXHV5B5K7SVPIU7X
+/SysNES/NESS.php,SysNES/NESS.php,20120601223625,http://vgmapper.com:80/SysNES/NESS.php,NES maps and media,1378,6L3Y7AJ4AY2CZSPAUE66HPMHSVOE353L
+/SysNES/NEST.php,SysNES/NEST.php,20120601223631,http://vgmapper.com:80/SysNES/NEST.php,NES maps and media,1311,YY6D4LWKCX2ML37ZDGNNVZBXWBMKDJP3
+/SysNES/NESU.php,SysNES/NESU.php,20120601223636,http://vgmapper.com:80/SysNES/NESU.php,NES maps and media,1312,23D6OT7R265M4DT63ZJZDLJHGNYNEIGL
+/SysNES/NESW.php,SysNES/NESW.php,20120605013122,http://vgmapper.com:80/SysNES/NESW.php,NES maps and media,1302,VMTXIPXJQGGUDKWDUFAV7CD5XQJW2FGO
+/SysNES/NESX.php,SysNES/NESX.php,20120605013127,http://vgmapper.com:80/SysNES/NESX.php,NES maps and media,1290,ZEKSG2YMFEPWJHO3LJCH4B3ZQUXJ6Z7O
+/SysNES/NESZ.php,SysNES/NESZ.php,20120605013131,http://vgmapper.com:80/SysNES/NESZ.php,NES maps and media,1317,JZNNOPOGDGJEAIP2EFMWAR4QXZNTNB2L
+/SysNES/R/Rygar.html,SysNES/R/Rygar.html,20100606170126,http://www.vgmapper.com:80/SysNES/R/Rygar.html,Rygar maps and media,1056,FXM5X2MPBTV5SS5X5XBULQNXFW3DIF2I
+/SysNES/S/SolomonsKey.html,SysNES/S/SolomonsKey.html,20100807071413,http://www.vgmapper.com:80/SysNES/S/SolomonsKey.html,Solomons Key maps and media,1172,63FROVU566RJMQGYQ7KGO7B5XR5IJ2XY
+/SysNES/S/StarTropics.html,SysNES/S/StarTropics.html,20100606170131,http://www.vgmapper.com:80/SysNES/S/StarTropics.html,Star Tropics maps and media,925,WIN2IL7ZBEBTLSQ7AFNRDN6Q424DWVKV
+/SysNES/S/StarTropics2.html,SysNES/S/StarTropics2.html,20100606170136,http://www.vgmapper.com:80/SysNES/S/StarTropics2.html,Star Tropics 2 maps and media,1050,YHHKRHAX52MSWG5RUPGHEYU63GVVJ4X7
+/SysNES/S/SuperMarioBros.html,SysNES/S/SuperMarioBros.html,20100807071123,http://www.vgmapper.com:80/SysNES/S/SuperMarioBros.html,Super Mario Bros maps and media,917,NYD6A5I7BTS6XO7OCCINEAYKPRUUSC2D
+/SysNES/S/SuperMarioBros3.html,SysNES/S/SuperMarioBros3.html,20100806003602,http://www.vgmapper.com:80/SysNES/S/SuperMarioBros3.html,Super Mario Bros 3 maps and media,891,2G3G5N4PB75XK7UXFFK2LJWBTQPSU2QJ
+/SysNES/T/TeenageMutantNinjaTurtles.html,SysNES/T/TeenageMutantNinjaTurtles.html,20100606170141,http://www.vgmapper.com:80/SysNES/T/TeenageMutantNinjaTurtles.html,Teenage Mutant Ninja Turtles maps and media,884,ZO3WTREUZG726VMJERXYUZTKLSBTUZQ7
+/SysNES/U/Ultima3Exodus.html,SysNES/U/Ultima3Exodus.html,20100807071418,http://www.vgmapper.com:80/SysNES/U/Ultima3Exodus.html,Ultima 3 Exodus maps and media,875,LGTTXWCFEWSPIZKRZBARLSGMLGLXAOG4
+/SysNES/X/Xexyz.html,SysNES/X/Xexyz.html,20101225200424,http://vgmapper.com/SysNES/X/Xexyz.html,Xexyz maps and media,1036,MCPIQBONEMUFV3B2Q53F275SHACVRJGF
+/SysNES/Z/Zelda2.html,SysNES/Z/Zelda2.html,20101225194849,http://vgmapper.com/SysNES/Z/Zelda2.html,Zelda 2 the Adventure of Link maps and media,1173,72WNUEUZJ545NXV4SLGISGXRIWFO2KMH
+/SysPC/(GameListPC.php,SysPC/(GameListPC.php,20101225075338,http://vgmapper.com/SysPC/(GameListPC.php,PC maps and media,1149,R6PFY6MMUIEEDMMJ2QN5AHOI5HVNBWZO
+/SysPC/A/AncientEmpires.html,SysPC/A/AncientEmpires.html,20120602010313,http://vgmapper.com:80/SysPC/A/AncientEmpires.html,Challenge of the Ancient Empires maps and media,869,HKE4A4MS3432G4W6SX5LVUOIAY4ADK6Z
+/SysPC/B/BlakeStoneAliensofGold.html,SysPC/B/BlakeStoneAliensofGold.html,20121202150506,http://www.vgmapper.com:80/SysPC/B/BlakeStoneAliensofGold.html,Blake Stone Aliens of Gold maps and media,1731,XIBWKM2IQTCSHQHRTJ6YQNHJKMQCZ5D6
+/SysPC/B/BlakeStonePlanetStrike.html,SysPC/B/BlakeStonePlanetStrike.html,20120602045254,http://vgmapper.com:80/SysPC/B/BlakeStonePlanetStrike.html,Blake Stone Planet Strike maps and media,1152,VVHLJBR4PBQOY3ZPGUZVVLXR22TDVLK7
+/SysPC/E/EarthwormJim.html,SysPC/E/EarthwormJim.html,20120628050642,http://www.vgmapper.com:80/SysPC/E/EarthwormJim.html,Earthworm Jim maps and media,930,FNZOBP7WTFTKPCQWSR5XHCKUWH773FFR
+/SysPC/E/EcoQuest1.html,SysPC/E/EcoQuest1.html,20100807004909,http://www.vgmapper.com:80/SysPC/E/EcoQuest1.html,Eco Quest 1 The Search for Cetus maps and media,932,HVN7BTGYOX2PA4FBDY6K7FSFYODCFS3U
+/SysPC/G/GodOfThunder.html,SysPC/G/GodOfThunder.html,20110513155510,http://www.vgmapper.com:80/SysPC/G/GodOfThunder.html,God of Thunder maps and media,854,4ONJ6CWEQAEJMCULHWJZ7WBD2UIQOE5A
+/SysPC/O/OperationNeptune.html,SysPC/O/OperationNeptune.html,20100807004312,http://www.vgmapper.com:80/SysPC/O/OperationNeptune.html,Operation Neptune maps and media,859,HJLKGDJT2WB3KOJMGXOGSGBBRJBEHVW3
+/SysPC/PCA.php,SysPC/PCA.php,20121101062912,http://vgmapper.com:80/SysPC/PCA.php,PC maps and media,1301,W3QOVKDR4CTLV43BPMH7XDNXM475TVKK
+/SysPC/PCB.php,SysPC/PCB.php,20121202132145,http://www.vgmapper.com:80/SysPC/PCB.php,PC maps and media,1521,PH627AA3BLT2NEPXFTXEVTWBZMJTBVQN
+/SysPC/PCC.php,SysPC/PCC.php,20121118055017,http://vgmapper.com:80/SysPC/PCC.php,PC maps and media,1480,LOO235Z6A7X6MSNQVRT3HOU223OBJNA2
+/SysPC/PCE.php,SysPC/PCE.php,20121118060042,http://vgmapper.com:80/SysPC/PCE.php,PC maps and media,1517,MMLXDNDILUNC6L67ENE5L7LSWDJDKTV4
+/SysPC/PCF.php,SysPC/PCF.php,20121118061412,http://vgmapper.com:80/SysPC/PCF.php,PC maps and media,1468,2NIAGFJQUAES7LHSKBPKIPXTEY3N3QNK
+/SysPC/PCG.php,SysPC/PCG.php,20121118061304,http://vgmapper.com:80/SysPC/PCG.php,PC maps and media,1481,FPTJMWDQHZONKCRTSOSNYU6IXEHU33DS
+/SysPC/PCO.php,SysPC/PCO.php,20121118061650,http://vgmapper.com:80/SysPC/PCO.php,PC maps and media,1480,LOWZATA6UJ5IOCR2F2CYQLWQ5YMJT4TJ
+/SysPC/PCS.php,SysPC/PCS.php,20121118061901,http://vgmapper.com:80/SysPC/PCS.php,PC maps and media,1600,QFDHZFOEHKFWAQVLBNQ3TDPYEXDZZGET
+/SysPC/PCT.php,SysPC/PCT.php,20121118054135,http://vgmapper.com:80/SysPC/PCT.php,PC maps and media,1477,7WDDTHFD6WNLGGVG7QZACBV7RFMYL5FZ
+/SysPC/PCW.php,SysPC/PCW.php,20121118060641,http://vgmapper.com:80/SysPC/PCW.php,PC maps and media,1502,GCGDLX6MD7LOIUXIJJJGC2V7JP5AHJRW
+/SysPC/S/SonicandKnucklesCollection.html,SysPC/S/SonicandKnucklesCollection.html,20100807004050,http://www.vgmapper.com:80/SysPC/S/SonicandKnucklesCollection.html,Sonic 3 and Knuckles Collection maps and media,877,6EHQGQL6EWFQ4WL4R6UJYMKI3WHMUC46
+/SysPC/S/SonicCD.html,SysPC/S/SonicCD.html,20100807004748,http://www.vgmapper.com:80/SysPC/S/SonicCD.html,Sonic CD maps and media,929,CSRQ3PFEQLFI4AEL2RTOCUKOMX4IZ4B2
+/SysPC/S/SpaceQuest3.html,SysPC/S/SpaceQuest3.html,20100807004317,http://www.vgmapper.com:80/SysPC/S/SpaceQuest3.html,Space Quest 3 maps and media,844,M43EH2T3GHER2YQ3A2AMGIJDMPM7LCJ6
+/SysPC/S/SpaceQuest4.html,SysPC/S/SpaceQuest4.html,20100606170157,http://www.vgmapper.com:80/SysPC/S/SpaceQuest4.html,Space Quest 4 maps and media,844,YNNFIYMQQDGVVD7SOYFLVUXPZQX53BIL
+/SysPC/S/SpearofDestiny.html,SysPC/S/SpearofDestiny.html,20100606170202,http://www.vgmapper.com:80/SysPC/S/SpearofDestiny.html,Spear of Destiny maps and media,1132,M3HTGFHVS26PGEG4XAGZVXMIVSJ33ZOM
+/SysPC/T/TurboScience.html,SysPC/T/TurboScience.html,20100807004353,http://www.vgmapper.com:80/SysPC/T/TurboScience.html,Turbo Science maps and media,846,YUB3YBYBU26O2DYNENU6SAXIHCAH5PV6
+/SysPC/W/Wizardry8.html,SysPC/W/Wizardry8.html,20120413070537,http://www.vgmapper.com:80/SysPC/W/Wizardry8.html,Wizardry 8 maps and media,1336,FDU2IPNOOI5TVWD2FKST637OKV57GYDH
+/SysPC/W/Wolfenstein3D.html,SysPC/W/Wolfenstein3D.html,20121124234832,http://vgmapper.com:80/SysPC/W/Wolfenstein3D.html,Wolfenstein 3D maps and media,1500,BAX5MAGDKOTVU3R4D2TTOEYNQ3YE25LE
+/SysPS1/(GameListPS1.php,SysPS1/(GameListPS1.php,20101225074431,http://vgmapper.com/SysPS1/(GameListPS1.php,Playstation maps and media,1257,YOUOFLGFPABD6EAFIWQN6HRCO6TVDHBO
+/SysPS1/A/Alundra/Alundra.html,SysPS1/A/Alundra/Alundra.html,20111229044629,http://vgmapper.com/SysPS1/A/Alundra/Alundra.html,Alundra maps and media,1564,P4M5F22ULYCHNBTADBUGDDP4B7UJDQFP
+/SysPS1/A/AzureDreams.html,SysPS1/A/AzureDreams.html,20111229050243,http://vgmapper.com/SysPS1/A/AzureDreams.html,Azure Dreams maps and media,1025,CONGH3A3NOZQYMK53B7VOT32JV6QGHO3
+/SysPS1/B/BreathofFire3.html,SysPS1/B/BreathofFire3.html,20100606170220,http://www.vgmapper.com:80/SysPS1/B/BreathofFire3.html,Breath of Fire 3 maps and media,858,JQQ7UVKRFUHEDI5RCG457SPA6NY3VDXT
+/SysPS1/B/BreathofFire4.html,SysPS1/B/BreathofFire4.html,20100606170225,http://www.vgmapper.com:80/SysPS1/B/BreathofFire4.html,Breath of Fire 4 maps and media,859,EFY6AITF7PZP3SCSO3Y76WGPF7KAYLRR
+/SysPS1/C/ChronoTrigger.html,SysPS1/C/ChronoTrigger.html,20100807071430,http://www.vgmapper.com:80/SysPS1/C/ChronoTrigger.html,Chrono Trigger maps and media,1312,IDWR3A3DQFZKFOUKBDFLRVSJNXWSIU5M
+/SysPS1/C/CommunityPom.html,SysPS1/C/CommunityPom.html,20100807071127,http://www.vgmapper.com:80/SysPS1/C/CommunityPom.html,Community Pom maps and media,853,PU77TRAXJ4K7KTY6P6P7E2FJY6PCI2TL
+/SysPS1/F/FinalFantasy.html,SysPS1/F/FinalFantasy.html,20100807072950,http://www.vgmapper.com:80/SysPS1/F/FinalFantasy.html,Final Fantasy maps and media,1187,WYFQBXF2HMYCDRXF22HS7I55EZTWA45N
+/SysPS1/F/FinalFantasy4.html,SysPS1/F/FinalFantasy4.html,20100807071132,http://www.vgmapper.com:80/SysPS1/F/FinalFantasy4.html,Final Fantasy 4 maps and media,1209,TJF4LJKYDR7KB5SENEN6JPYF7KB5UKLN
+/SysPS1/F/FinalFantasy5.html,SysPS1/F/FinalFantasy5.html,20121120070045,http://www.vgmapper.com:80/SysPS1/F/FinalFantasy5.html,Final Fantasy 5 maps and media,1349,2S5ZOTSRPRK3CKQ2WT25X2ELP3A5X4YF
+/SysPS1/G/Gex.html,SysPS1/G/Gex.html,20101226035622,http://vgmapper.com/SysPS1/G/Gex.html,Gex maps and media,1039,IJV3E44R7RIGRWNGXZGNO7SD5TQMS7VB
+/SysPS1/L/LegendofMana.html,SysPS1/L/LegendofMana.html,20100606170230,http://www.vgmapper.com:80/SysPS1/L/LegendofMana.html,Legend of Mana maps and media,893,FSPNXUCEULVTEOIQTSQNZ3G6FRSIQWX4
+/SysPS1/M/MediEvil.html,SysPS1/M/MediEvil.html,20100807071435,http://www.vgmapper.com:80/SysPS1/M/MediEvil.html,MediEvil maps and media,1375,2BO2YM4XJ3MMOLKWINH5NYGHVSMZBZVZ
+/SysPS1/M/MegamanLegends.html,SysPS1/M/MegamanLegends.html,20100606171152,http://www.vgmapper.com:80/SysPS1/M/MegamanLegends.html,Mega Man Legends maps and media,1041,D2YEXVK4LUHZZKYODDIROKGV7I2UPDHI
+/SysPS1/M/MegamanLegends2.html,SysPS1/M/MegamanLegends2.html,20100807074535,http://www.vgmapper.com:80/SysPS1/M/MegamanLegends2.html,Mega Man Legends 2 maps and media,1077,DTDL4XG7EMA225Y3RBGMHXGPFTRY4YVG
+/SysPS1/O/OddworldAbesOddysee.html,SysPS1/O/OddworldAbesOddysee.html,20100606171157,http://www.vgmapper.com:80/SysPS1/O/OddworldAbesOddysee.html,Oddworld Abe's Oddysee maps and media,861,UH36LMN3WX7NPZOW36GCYNOELLKQWGNL
+/SysPS1/P/ParasiteEve/ParasiteEve.html,SysPS1/P/ParasiteEve/ParasiteEve.html,20101226035932,http://vgmapper.com/SysPS1/P/ParasiteEve/ParasiteEve.html,Parasite Eve maps and media,1211,ITDFQWZLBNT4FN7HUIRGJTZ7NOLANCNQ
+/SysPS1/P/Persona2InnocentSin.html,SysPS1/P/Persona2InnocentSin.html,20100807071145,http://www.vgmapper.com:80/SysPS1/P/Persona2InnocentSin.html,Persona 2 Innocent Sin maps and media,909,G7H6PXK6GGSCBMOSJNZMNDJQHJS2J6TG
+/SysPS1/PS1A.php,SysPS1/PS1A.php,20120808044508,http://vgmapper.com:80/SysPS1/PS1A.php,Playstation maps and media,1335,5RJIYIMNKR5MXGGATCSMFYD2DVJSQ4XI
+/SysPS1/PS1B.php,SysPS1/PS1B.php,20111229055557,http://vgmapper.com/SysPS1/PS1B.php,Playstation maps and media,1485,OKLAXLF3NBP43USEL3P2QXOWDSTGBPX5
+/SysPS1/PS1C.php,SysPS1/PS1C.php,20111229063132,http://vgmapper.com/SysPS1/PS1C.php,Playstation maps and media,1494,KQ2KKKMPPS7ASDCD527O54GK3WCBO5K5
+/SysPS1/PS1F.php,SysPS1/PS1F.php,20120921043351,http://www.vgmapper.com:80/SysPS1/PS1F.php,Playstation maps and media,1353,OSRGIT7P3F6VSSTQKTP7HPUI2CDENECU
+/SysPS1/PS1G.php,SysPS1/PS1G.php,20111229044951,http://vgmapper.com/SysPS1/PS1G.php,Playstation maps and media,1506,IDSHOTZZI7TLUE3LCFRRXQUOQBBJE7RJ
+/SysPS1/PS1L.php,SysPS1/PS1L.php,20111229061709,http://vgmapper.com/SysPS1/PS1L.php,Playstation maps and media,1471,L7EA4OMJ5XHRJ5H3M25GFARPU6VW2WUY
+/SysPS1/PS1M.php,SysPS1/PS1M.php,20111229054504,http://vgmapper.com/SysPS1/PS1M.php,Playstation maps and media,1504,6QX7YIJCR4PCTMMJRHYGDY7G5DZEVJH5
+/SysPS1/PS1O.php,SysPS1/PS1O.php,20111229045125,http://vgmapper.com/SysPS1/PS1O.php,Playstation maps and media,1475,2OHYLJZAVJ2B7ZC3N4ATNTYM5K5EWXTE
+/SysPS1/PS1P.php,SysPS1/PS1P.php,20111229044625,http://vgmapper.com/SysPS1/PS1P.php,Playstation maps and media,1504,B55MI7MSARNPXQCDOBBRLJUPSMGBJYU7
+/SysPS1/PS1R.php,SysPS1/PS1R.php,20111229055205,http://vgmapper.com/SysPS1/PS1R.php,Playstation maps and media,1533,FODU4XQIQYYYSO6HY5STHPM4BPUFLNYY
+/SysPS1/PS1S.php,SysPS1/PS1S.php,20111229063408,http://vgmapper.com/SysPS1/PS1S.php,Playstation maps and media,1524,RMCVBX4V4YPKZWBOIXIDJONJHWSFSRRT
+/SysPS1/PS1T.php,SysPS1/PS1T.php,20111229061706,http://vgmapper.com/SysPS1/PS1T.php,Playstation maps and media,1499,MWYM5MAIKHGSFDGJNBIEDZKLJXOF75TA
+/SysPS1/PS1V.php,SysPS1/PS1V.php,20111229053143,http://vgmapper.com/SysPS1/PS1V.php,Playstation maps and media,1469,O4RUOHZU2LSTECMFKR2OLKGHZOYOVPOT
+/SysPS1/PS1W.php,SysPS1/PS1W.php,20111229044947,http://vgmapper.com/SysPS1/PS1W.php,Playstation maps and media,1455,3JDFOCGQBG24JTTVJPPGLVJERNR46UAA
+/SysPS1/R/ResidentEvil2.html,SysPS1/R/ResidentEvil2.html,20100606171202,http://www.vgmapper.com:80/SysPS1/R/ResidentEvil2.html,Resident Evil 2 maps and media,1192,BPBBLNNWGWYXTY5KVRLNOLSDRQM7BSS3
+/SysPS1/R/ResidentEvil3.html,SysPS1/R/ResidentEvil3.html,20100807071151,http://www.vgmapper.com:80/SysPS1/R/ResidentEvil3.html,Resident Evil 3 maps and media,990,K6LBYR5JVIO4IZ7YEGY6KN5H7B6S7PAA
+/SysPS1/R/ResidentEvilSurvivor.html,SysPS1/R/ResidentEvilSurvivor.html,20100807071200,http://www.vgmapper.com:80/SysPS1/R/ResidentEvilSurvivor.html,Resident Evil Survivor maps and media,1082,RNJP3HBWN7DDD3GTCXZXONELA2IO24PG
+/SysPS1/R/Rhapsody.html,SysPS1/R/Rhapsody.html,20100807074604,http://www.vgmapper.com:80/SysPS1/R/Rhapsody.html,Rahpsody maps and media,903,PCZJVTZUKISCLSOEAB4GKTJFDUVNABJZ
+/SysPS1/S/SaiyukiJourneyWest.html,SysPS1/S/SaiyukiJourneyWest.html,20100807071439,http://www.vgmapper.com:80/SysPS1/S/SaiyukiJourneyWest.html,Saiyuki the Journey West maps and media,867,H2HDCWW637BGZZ77WX5W4GRKOKMKCRIK
+/SysPS1/S/SilentHill.html,SysPS1/S/SilentHill.html,20100606171207,http://www.vgmapper.com:80/SysPS1/S/SilentHill.html,Silent Hill maps and media,1075,33LJVOCKF2I42STRRQKLD5KYFCD7NV5T
+/SysPS1/S/SilhouetteMirage.html,SysPS1/S/SilhouetteMirage.html,20100807071204,http://www.vgmapper.com:80/SysPS1/S/SilhouetteMirage.html,Silhouette Mirage maps and media,854,B53MD2HAG3RATXS2LZZQQVCKP3DB7EJR
+/SysPS1/T/TalesofDestiny.html,SysPS1/T/TalesofDestiny.html,20100606171212,http://www.vgmapper.com:80/SysPS1/T/TalesofDestiny.html,Tales of Destiny maps and media,875,75Y7WWXI7AIDXVS3CGGJTN5YWNXMWNZE
+/SysPS1/T/ThousandArms.html,SysPS1/T/ThousandArms.html,20100807071222,http://www.vgmapper.com:80/SysPS1/T/ThousandArms.html,Thousand Arms maps and media,2859,S3AMMTXVMKOCXEYD7F54PLF5RO3OZ2ED
+/SysPS1/V/ValkyrieProfile.html,SysPS1/V/ValkyrieProfile.html,20100807072956,http://www.vgmapper.com:80/SysPS1/V/ValkyrieProfile.html,Valkyrie Profile maps and media,938,EGI72OPDS5BOUHTDCYXKR4PBCZ6TJ6WS
+/SysPS1/W/WildArms.html,SysPS1/W/WildArms.html,20100807073000,http://www.vgmapper.com:80/SysPS1/W/WildArms.html,Wild Arms maps and media,940,M5P3UCIYMTUEZMRBAFUO3CMTEJACVL4G
+/SysPS2/(GameListPS2.php,SysPS2/(GameListPS2.php,20101225075053,http://vgmapper.com/SysPS2/(GameListPS2.php,PS2 maps and media,923,JXI4SOGSUA6ZR7HE6W5BSXUY7PMYQKYO
+/SysPS2/PS2S.php,SysPS2/PS2S.php,20120831202343,http://vgmapper.com:80/SysPS2/PS2S.php,PS2 maps and media,1278,5PZUUQFTCFX6M7BEK3CDN3RXTEVD46J6
+/SysPS2/S/SilentHill2.html,SysPS2/S/SilentHill2.html,20120601223708,http://vgmapper.com:80/SysPS2/S/SilentHill2.html,Silent Hill 2 maps and media,1165,ZRVZYKDIOX2PTEBBGEF5FT572CDBMCHK
+/SysPS2/S/SilentHill3.html,SysPS2/S/SilentHill3.html,20120920233158,http://vgmapper.com:80/SysPS2/S/SilentHill3.html,Silent Hill 3 maps and media,1187,INS7CSHCOIISJ2BNQUNHOEYCH63G3WYV
+/SysPS2/S/SilentHill4.html,SysPS2/S/SilentHill4.html,20120801003020,http://vgmapper.com:80/SysPS2/S/SilentHill4.html,Silent Hill 4 maps and media,1043,2GOYUUDUIZC3BNMTWBAFBTHLMEXCW6ER
+/SysPS2/S/SilentHillOrigins.html,SysPS2/S/SilentHillOrigins.html,20120801003452,http://vgmapper.com:80/SysPS2/S/SilentHillOrigins.html,Silent Hill Origins maps and media,1016,57GF7OYVAYEZNYMDVIKFBJQTE7GZ6XFF
+/SysSGenesis/(GameListSGenesis.php,SysSGenesis/(GameListSGenesis.php,20101225150800,http://vgmapper.com/SysSGenesis/(GameListSGenesis.php,Sega Master System maps and media,1197,T7ODXSMIPIODJRLR2DO2GUX4MAG2R7HD
+/SysSGenesis/A/AfterBurner2.html,SysSGenesis/A/AfterBurner2.html,20111228203527,http://vgmapper.com/SysSGenesis/A/AfterBurner2.html,After Burner 2 maps and media,999,5DTX2A5DGTQBOT22PGI3ZYGLDJU3B7TD
+/SysSGenesis/A/AlexKiddInTheEnchantedCastle.html,SysSGenesis/A/AlexKiddInTheEnchantedCastle.html,20111228211557,http://vgmapper.com/SysSGenesis/A/AlexKiddInTheEnchantedCastle.html,Alex Kidd In The Enchanted Castle maps and media,1222,BAMNZ6BSUXUVLDF6EMCNQJTOF5F7XAJE
+/SysSGenesis/K/KingsBounty.html,SysSGenesis/K/KingsBounty.html,20110424071914,http://www.vgmapper.com:80/SysSGenesis/K/KingsBounty.html,King's Bounty maps and media,900,PUJQNV6VZ4CC6UICDAJZWZPICO62QB6N
+/SysSGenesis/SGA.php,SysSGenesis/SGA.php,20120808044518,http://vgmapper.com:80/SysSGenesis/SGA.php,Sega Genesis maps and media,1354,KY3PXQYAHRX3YBG5U5ZUNC34EJ2CCSD2
+/SysSGenesis/SGB.php,SysSGenesis/SGB.php,20111228212332,http://vgmapper.com/SysSGenesis/SGB.php,Sega Genesis maps and media,1456,OEPUTS6KLNVWCZDYNYYYZHQ237KFBCG7
+/SysSGenesis/SGD.php,SysSGenesis/SGD.php,20111228210239,http://vgmapper.com/SysSGenesis/SGD.php,Sega Genesis maps and media,1455,M3NZ34TGFZIR2FTV7TZH5ELSCSHG2556
+/SysSGenesis/SGE.php,SysSGenesis/SGE.php,20111228211435,http://vgmapper.com/SysSGenesis/SGE.php,Sega Genesis maps and media,1452,WCKHT5ONVP2B7VW2PCNZK7NJ2YY3FV4O
+/SysSGenesis/SGG.php,SysSGenesis/SGG.php,20111228205458,http://vgmapper.com/SysSGenesis/SGG.php,Sega Genesis maps and media,1464,H4UT5VYAMHP465OGG34KYHKPQA3MYX4W
+/SysSGenesis/SGH.php,SysSGenesis/SGH.php,20111228204314,http://vgmapper.com/SysSGenesis/SGH.php,Sega Genesis maps and media,1449,RBANLNGAP6K2GBWM3K3CZLCKGJBWJKNR
+/SysSGenesis/SGJ.php,SysSGenesis/SGJ.php,20111228212339,http://vgmapper.com/SysSGenesis/SGJ.php,Sega Genesis maps and media,1466,67NLPVRVOJISAKEJUVDGH5RQWATCF3Q4
+/SysSGenesis/SGK.php,SysSGenesis/SGK.php,20111228210744,http://vgmapper.com/SysSGenesis/SGK.php,Sega Genesis maps and media,1456,IGDEDH22IRAA35ZLKONOCSD2C5HLEBBF
+/SysSGenesis/SGM.php,SysSGenesis/SGM.php,20111228211442,http://vgmapper.com/SysSGenesis/SGM.php,Sega Genesis maps and media,1493,MWTB4BM6UNSO77KHEGJZOUVPZDMU6LIX
+/SysSGenesis/SGP.php,SysSGenesis/SGP.php,20111228204116,http://vgmapper.com/SysSGenesis/SGP.php,Sega Genesis maps and media,1458,3GP2CLZ6U2MGHBZB7TYKPFZKGKX5VPOR
+/SysSGenesis/SGR.php,SysSGenesis/SGR.php,20111228212342,http://vgmapper.com/SysSGenesis/SGR.php,Sega Genesis maps and media,1470,ZOXDPXELJ4BW756URYMDEUXLERRDE3NL
+/SysSGenesis/SGS.php,SysSGenesis/SGS.php,20111228210601,http://vgmapper.com/SysSGenesis/SGS.php,Sega Genesis maps and media,1493,4F2FM4FR6MT3WM6OV6EREPM33Z5H7JJE
+/SysSGenesis/SGT.php,SysSGenesis/SGT.php,20111228210431,http://vgmapper.com/SysSGenesis/SGT.php,Sega Genesis maps and media,1501,XS6JNRFUNH4IVAR6JC5O6EKUFPSYR62S
+/SysSGenesis/SGW.php,SysSGenesis/SGW.php,20111228205502,http://vgmapper.com/SysSGenesis/SGW.php,Sega Genesis maps and media,1452,6VSQOJ6ZIILNVFJEGMCBFOVLYEZ4KDAY
+/SysSGenesis/T/ThunderForce4.html,SysSGenesis/T/ThunderForce4.html,20101226033634,http://vgmapper.com/SysSGenesis/T/ThunderForce4.html,Thunder Force 4 maps and media,991,T7TDP3IJYVTL573HVWJDJ2TAUDHFHPTZ
+/SysSGenesis/T/ToejamAndEarl.html,SysSGenesis/T/ToejamAndEarl.html,20101226033735,http://vgmapper.com/SysSGenesis/T/ToejamAndEarl.html,Toejam and Earl maps and media,1299,G4IBNAL3X4W23Y6LXSMAM7AC44Q4RD63
+/SysSMS/(GameListSMS.php,SysSMS/(GameListSMS.php,20101225073440,http://vgmapper.com/SysSMS/(GameListSMS.php,Sega Master System maps and media,985,L4KC7PGM7N6G4IS4UNBZIVTBAAYX4AJL
+/SysSMS/B/BonanzaBros.html,SysSMS/B/BonanzaBros.html,20111228122622,http://vgmapper.com/SysSMS/B/BonanzaBros.html,Bonanza Bros maps and media,1235,6LCGHTYATT2UIHOG2JYXELMYAC6M4U4D
+/SysSMS/B/BubbleBobble.html,SysSMS/B/BubbleBobble.html,20111228122036,http://vgmapper.com/SysSMS/B/BubbleBobble.html,Bubble Bobble maps and media,989,E2S4PCNMYUV25RAA3LB36THBZ65MONFB
+/SysSMS/G/GoldenAxeWarrior.html,SysSMS/G/GoldenAxeWarrior.html,20101225145935,http://vgmapper.com/SysSMS/G/GoldenAxeWarrior.html,Golden Axe Warrior maps and media,1292,DSFNB7LNI6PPFE3FC4PVTMUWPUWBNZ7B
+/SysSMS/P/PhantasyStar.html,SysSMS/P/PhantasyStar.html,20100806213706,http://www.vgmapper.com:80/SysSMS/P/PhantasyStar.html,Phantasy Star maps and media,1416,NXYY4C6LIULN4TZ5EV2LSULTIH5LT6LN
+/SysSMS/S/Shinobi.html,SysSMS/S/Shinobi.html,20100916092120,http://www.vgmapper.com:80/SysSMS/S/Shinobi.html,Shinobi maps and media,1079,YNGIBQM7XWDEELFGZR3UBEEIPYJGZPJN
+/SysSMS/SMSB.php,SysSMS/SMSB.php,20120808044534,http://vgmapper.com:80/SysSMS/SMSB.php,Sega Master System maps and media,1305,PTYGQICJXZ7PETGOQUL54JQRZJ5YF4WL
+/SysSMS/SMSG.php,SysSMS/SMSG.php,20111228120753,http://vgmapper.com/SysSMS/SMSG.php,Sega Master System maps and media,1436,XMT5LOE7MZ5CC7OXK2MV6OFCTI6CLH3E
+/SysSMS/SMSP.php,SysSMS/SMSP.php,20111228115407,http://vgmapper.com/SysSMS/SMSP.php,Sega Master System maps and media,1430,4RVWHRIEL5ZTT75LQODEPOR6VVGNBER2
+/SysSMS/SMSS.php,SysSMS/SMSS.php,20111228133506,http://vgmapper.com/SysSMS/SMSS.php,Sega Master System maps and media,1424,IOCGVHEOTIVDOJG2NUXWDHBQA6BUJY7N
+/SysSMS/SMSV.php,SysSMS/SMSV.php,20111228123017,http://vgmapper.com/SysSMS/SMSV.php,Sega Master System maps and media,1417,MT34Z7FVHPWO56FRENNEWQGC4OGIPIKY
+/SysSMS/V/Vampire.html,SysSMS/V/Vampire.html,20100806213432,http://www.vgmapper.com:80/SysSMS/V/Vampire.html,Vampire maps and media,1116,LKFHANAL4UXJELLQSYJLBQVCCOCFBJYO
+/syssnes/,syssnes/index.html,20121127010201,http://vgmapper.com:80/syssnes/,vgmapper.com - /syssnes/,1275,5DZEACGZTIEFPITU65B4NIGFCXOWQB67
+/SysSNES/,SysSNES/index.html,20101203202702,http://www.vgmapper.com:80/SysSNES/,www.vgmapper.com - /SysSNES/,1219,2LAGWCJFGS5OLHX2NBYGADHDMMWKKZHW
+/SysSNES/(GameListSNES.php,SysSNES/(GameListSNES.php,20101225073313,http://vgmapper.com/SysSNES/(GameListSNES.php,SNES maps and media,3988,OTLCHVJUAGBPGMGCY5NNFVMG7R55TV5Z
+/syssnes/(Num/,syssnes/(Num/index.html,20120828191054,http://www.vgmapper.com:80/syssnes/(Num/,www.vgmapper.com - /syssnes/(Num/,492,2H73AZ2XASSTLJQKPT2KDRUXJ24TBYO7
+/SysSNES/(Num/,SysSNES/(Num/index.html,20101208090422,http://www.vgmapper.com:80/SysSNES/(Num/,www.vgmapper.com - /SysSNES/(Num/,490,R7V3MF2R5722KDO7RFQCTX2YBPZF5H6H
+/SysSNES/(Num/7thSaga.html,SysSNES/(Num/7thSaga.html,20100425062712,http://www.vgmapper.com:80/SysSNES/(Num/7thSaga.html,The 7th Saga maps and media,875,ESRRHE7DWLWAYN6275T6M36CPG6QHKCF
+/syssnes/(Title/,syssnes/(Title/index.html,20120828190705,http://www.vgmapper.com:80/syssnes/(Title/,www.vgmapper.com - /syssnes/(Title/,9060,TURQENSJOV6T5SIRIOBWLQX26JU3NABW
+/SysSNES/(Title/,SysSNES/(Title/index.html,20101203202708,http://www.vgmapper.com:80/SysSNES/(Title/,www.vgmapper.com - /SysSNES/(Title/,8172,3EMSWKP5N6TFTFY2VQXBEHCBYR2PYS2X
+/syssnes/A/,syssnes/A/index.html,20120828191059,http://www.vgmapper.com:80/syssnes/A/,www.vgmapper.com - /syssnes/A/,4590,FTKGNYPDIS2JO3X4T6DAYZHA4E5MDIM2
+/SysSNES/A/,SysSNES/A/index.html,20101205203240,http://www.vgmapper.com:80/SysSNES/A/,www.vgmapper.com - /SysSNES/A/,3602,XMIAZ4U363XJGWKDJZYPZTPRY675WQBH
+/SysSNES/A/AAAHH!!!RealMonsters.html,SysSNES/A/AAAHH!!!RealMonsters.html,20120602045259,http://vgmapper.com:80/SysSNES/A/AAAHH!!!RealMonsters.html,AAAHH!!! Real Monsters maps and media,899,EXI7G7KWUJYAEUJYLHHMCMIMVIVTSZRE
+/SysSNES/A/Actraiser.html,SysSNES/A/Actraiser.html,20120602045535,http://vgmapper.com:80/SysSNES/A/Actraiser.html,Act Raiser maps and media,983,RCZDYBOWFAC5ONFNDEM6QK3LWHOQAFEO
+/SysSNES/A/Actraiser2.html,SysSNES/A/Actraiser2.html,20111229001634,http://vgmapper.com/SysSNES/A/Actraiser2.html,Act Raiser 2 maps and media,1495,JC5PSJKEI2BBBBV5TBMUOAKEM4XS62GU
+/SysSNES/A/AddamsFamily.html,SysSNES/A/AddamsFamily.html,20120602045540,http://vgmapper.com:80/SysSNES/A/AddamsFamily.html,Addams Family maps and media,881,3LHQDH6HNM6GZARVTHYI5VDCIZCZJ2GW
+/SysSNES/A/AdventuresofBatman&Robin.html,SysSNES/A/AdventuresofBatman&Robin.html,20120602045545,http://vgmapper.com:80/SysSNES/A/AdventuresofBatman&Robin.html,Adventures of Batman and Robin maps and media,882,BL6BCGWQEHMD326DR4UOFXQBUSYHPPHZ
+/SysSNES/A/AerotheAcrobat.html,SysSNES/A/AerotheAcrobat.html,20120602045553,http://vgmapper.com:80/SysSNES/A/AerotheAcrobat.html,Aero the Acrobat maps and media,887,RG5PVX2GVWPXWU6AH6BT773A4RQR3V5Q
+/SysSNES/A/AerotheAcrobat2.html,SysSNES/A/AerotheAcrobat2.html,20120602045558,http://vgmapper.com:80/SysSNES/A/AerotheAcrobat2.html,Aero the Acrobat 2 maps and media,940,XVVVBB7QQI44OFARU55WP6Q2BXFNHTLN
+/SysSNES/A/Aladdin.html,SysSNES/A/Aladdin.html,20120602045603,http://vgmapper.com:80/SysSNES/A/Aladdin.html,Aladdin maps and media,920,2YHG7B6JTOEYU3PGBLGVOIGHBWZXAGRU
+/SysSNES/A/AlbertOdyssey.html,SysSNES/A/AlbertOdyssey.html,20120602045611,http://vgmapper.com:80/SysSNES/A/AlbertOdyssey.html,Albert Odyssey maps and media,928,ZSYAXRPXPI454M7I6IBDY5FYFQP77IB2
+/SysSNES/A/Alcahest.html,SysSNES/A/Alcahest.html,20120602045304,http://vgmapper.com:80/SysSNES/A/Alcahest.html,Alcahest maps and media,877,V52TJE2A7BC5JIAKEX7P2CAFWGMWGL7K
+/SysSNES/A/Animaniacs.html,SysSNES/A/Animaniacs.html,20120602045312,http://vgmapper.com:80/SysSNES/A/Animaniacs.html,Animaniacs maps and media,923,YIEXVYSFZAGJJ2RDD2BHKEETXBWVGEKE
+/SysSNES/A/Appleseed.html,SysSNES/A/Appleseed.html,20120602045615,http://vgmapper.com:80/SysSNES/A/Appleseed.html,Appleseed maps and media,863,365D4YFMPYLDSA45VNVKYV3AGACET3KS
+/SysSNES/A/Arcana.html,SysSNES/A/Arcana.html,20121116224044,http://vgmapper.com:80/SysSNES/A/Arcana.html,Arcana maps and media,2396,K36OGL5WBEYTYXGI3L7XBAWG7PJ3JIQM
+/SysSNES/A/ArdyLightfoot/ArdyLightfoot.html,SysSNES/A/ArdyLightfoot/ArdyLightfoot.html,20120602045620,http://vgmapper.com:80/SysSNES/A/ArdyLightfoot/ArdyLightfoot.html,Ardy Lightfoot maps and media,1324,CGSOBMGKMKCF5DZV4BF2UC7RKWSVREEQ
+/SysSNES/A/Asterix.html,SysSNES/A/Asterix.html,20120602045321,http://vgmapper.com:80/SysSNES/A/Asterix.html,Asterix maps and media,871,MCEZNQJFIRFDUJGWV2UFK3JWSQOQOH7V
+/SysSNES/A/Asterix&Obelix.html,SysSNES/A/Asterix&Obelix.html,20120602045316,http://vgmapper.com:80/SysSNES/A/Asterix&Obelix.html,Asterix and Obelix maps and media,871,MLOX4AHT54OOZ2RK3O7B2M3OY27ZRBOJ
+/syssnes/B/,syssnes/B/index.html,20121208113327,http://vgmapper.com:80/syssnes/B/,vgmapper.com - /syssnes/B/,8564,GBNK7WBB7Q5SQ3MSA5EQWHOVQMKHZ22O
+/SysSNES/B/,SysSNES/B/index.html,20101208090429,http://www.vgmapper.com:80/SysSNES/B/,www.vgmapper.com - /SysSNES/B/,6383,2E4EIV2OMBTUV7HGSVLXEI2JRFB2DPAE
+/SysSNES/B/B.O.B.html,SysSNES/B/B.O.B.html,20120906191237,http://vgmapper.com:80/SysSNES/B/B.O.B.html,B.O.B. maps and media,873,JRILLF4YD2TKXIDBDNXZOT42JM2VAULL
+/SysSNES/B/BahamutLagoon.html,SysSNES/B/BahamutLagoon.html,20120906191247,http://vgmapper.com:80/SysSNES/B/BahamutLagoon.html,Bahamut Lagoon maps and media,881,S2T7BHNPQHCGACRD7XR4UKYBYMIPHPRS
+/SysSNES/B/BakutoDocher.html,SysSNES/B/BakutoDocher.html,20120906191252,http://vgmapper.com:80/SysSNES/B/BakutoDocher.html,Bakuto Dochers maps and media,858,BEHWMZDO7ODIGCF6OJ7CWYY6T44PNZVL
+/SysSNES/B/BatmanRevengeoftheJoker.html,SysSNES/B/BatmanRevengeoftheJoker.html,20120906191257,http://vgmapper.com:80/SysSNES/B/BatmanRevengeoftheJoker.html,Batman Revenge of the Joker maps and media,874,KMTYBJ36CMK72YZHLEDRNQIYQVOML5NQ
+/SysSNES/B/BattletoadsDoubleDragon.html,SysSNES/B/BattletoadsDoubleDragon.html,20120906191308,http://vgmapper.com:80/SysSNES/B/BattletoadsDoubleDragon.html,Battletoads Double Dragon maps and media,882,QLMCC4LDK5Q7BUYTT4E44GSCJ3AWDJCJ
+/SysSNES/B/BattleZequeDen.html,SysSNES/B/BattleZequeDen.html,20120906191302,http://vgmapper.com:80/SysSNES/B/BattleZequeDen.html,Battle Zeque Den maps and media,884,55FKHMU4XSEIRH4GNMKZLOHLSZS5GL5J
+/SysSNES/B/BebesKids.html,SysSNES/B/BebesKids.html,20120906191313,http://vgmapper.com:80/SysSNES/B/BebesKids.html,Bebe's Kids maps and media,991,PQR2KEZEG6DTA6L7VTQPWH4DAOPETSE4
+/SysSNES/B/BigSkyTrooper.html,SysSNES/B/BigSkyTrooper.html,20120906191317,http://vgmapper.com:80/SysSNES/B/BigSkyTrooper.html,Big Sky Trooper maps and media,996,GE7OED4FSMGEFTTVETXPIRNGRYYI6NTZ
+/SysSNES/B/BikerMiceFromMars.html,SysSNES/B/BikerMiceFromMars.html,20120906191323,http://vgmapper.com:80/SysSNES/B/BikerMiceFromMars.html,Biker Mice From Mars maps and media,875,VFFM5DCDKGLPJW7HCAKCETDLYABT6FAF
+/SysSNES/B/BishinDensetsuZoku.html,SysSNES/B/BishinDensetsuZoku.html,20120906191328,http://vgmapper.com:80/SysSNES/B/BishinDensetsuZoku.html,Bishin Densetsu Zoku maps and media,875,XLYB2GH5GQKY3LGH22AI6QRS6KAMT3IE
+/SysSNES/B/BishoujoSenshiSailorMoonSKurukkurin.html,SysSNES/B/BishoujoSenshiSailorMoonSKurukkurin.html,20120906191333,http://vgmapper.com:80/SysSNES/B/BishoujoSenshiSailorMoonSKurukkurin.html,Bishoujo Senshi Sailor Moon S Kurukkurin maps and media,886,RZ75JRHFMLDAEPCDQTNI57YFGDIOPQ3S
+/SysSNES/B/BlackThorne.html,SysSNES/B/BlackThorne.html,20120906191338,http://vgmapper.com:80/SysSNES/B/BlackThorne.html,Black Thorne maps and media,996,ZHUU2ZISPD4W7EJI5C6R7B2IMQG2MOVI
+/SysSNES/B/Boogerman.html,SysSNES/B/Boogerman.html,20120906191343,http://vgmapper.com:80/SysSNES/B/Boogerman.html,Boogerman maps and media,916,NIFFSAFL2RKOOKIZYYNUM7U7IFKBVTFX
+/SysSNES/B/Brainies.html,SysSNES/B/Brainies.html,20120906191353,http://vgmapper.com:80/SysSNES/B/Brainies.html,Brainies maps and media,911,7DPHERGD2PM6VHFE5JNH52MBPTN3RLIM
+/SysSNES/B/BrainLord.html,SysSNES/B/BrainLord.html,20120906191348,http://vgmapper.com:80/SysSNES/B/BrainLord.html,Brain Lord maps and media,1387,7PHX6IDYPQDENA46T5SXDCY2FE4HEQRO
+/SysSNES/B/Brandish.html,SysSNES/B/Brandish.html,20120906191358,http://vgmapper.com:80/SysSNES/B/Brandish.html,Brandish maps and media,872,7RKNJBT23RBQ2NJC5KOFP26ARAGN5GWY
+/SysSNES/B/Brandish2.html,SysSNES/B/Brandish2.html,20120906191403,http://vgmapper.com:80/SysSNES/B/Brandish2.html,Brandish 2 maps and media,872,MNWTHHEBNZ4AHBDHLVUMY4XMG5IAJQMK
+/syssnes/B/breathoffire.html,syssnes/B/breathoffire.html,20121105074457,http://vgmapper.com:80/syssnes/B/breathoffire.html,Breath of Fire maps and media,2994,5U7M2XUQUTFUT6AQ6FZJ4A7MYNBYNG5J
+/syssnes/B/BreathofFire.html,syssnes/B/BreathofFire.html,20120428235726,http://www.vgmapper.com:80/syssnes/B/BreathofFire.html,Breath of Fire maps and media,2987,5U7M2XUQUTFUT6AQ6FZJ4A7MYNBYNG5J
+/SysSNES/B/BreathofFire.html,SysSNES/B/BreathofFire.html,20120906191408,http://vgmapper.com:80/SysSNES/B/BreathofFire.html,Breath of Fire maps and media,2986,5U7M2XUQUTFUT6AQ6FZJ4A7MYNBYNG5J
+/syssnes/B/BreathofFire2.html,syssnes/B/BreathofFire2.html,20121105081022,http://vgmapper.com:80/syssnes/B/BreathofFire2.html,Breath of Fire 2 maps and media,1578,WEUF4GENAXFT23EK3ZVTKCWTXZGL76EC
+/SysSNES/B/BreathofFire2.html,SysSNES/B/BreathofFire2.html,20120906191415,http://vgmapper.com:80/SysSNES/B/BreathofFire2.html,Breath of Fire 2 maps and media,1579,WEUF4GENAXFT23EK3ZVTKCWTXZGL76EC
+/SysSNES/B/BrettHullHockey.html,SysSNES/B/BrettHullHockey.html,20120906191420,http://vgmapper.com:80/SysSNES/B/BrettHullHockey.html,Brett Hull Hockey maps and media,862,ETY7T7RPQ2GHI75KK45RWWVQTMN6FMR6
+/SysSNES/B/BrettHullHockey95.html,SysSNES/B/BrettHullHockey95.html,20120906191425,http://vgmapper.com:80/SysSNES/B/BrettHullHockey95.html,Brett Hull Hockey 95 maps and media,865,KD5XMRHVSAKMEK46I2EJ7A3E54DF3Q2T
+/syssnes/B/BSZelda.html,syssnes/B/BSZelda.html,20121105074431,http://vgmapper.com:80/syssnes/B/BSZelda.html,BS Zelda maps and media,1113,4J2YDQYGJLN6JNOXCQBKY4NX2ZH6TYOO
+/SysSNES/B/BSZelda.html,SysSNES/B/BSZelda.html,20120906191242,http://vgmapper.com:80/SysSNES/B/BSZelda.html,BS Zelda maps and media,1115,4J2YDQYGJLN6JNOXCQBKY4NX2ZH6TYOO
+/SysSNES/B/Busby2.html,SysSNES/B/Busby2.html,20120906191430,http://vgmapper.com:80/SysSNES/B/Busby2.html,Busby 2 maps and media,876,W3XF7CVXO3G3EWPENBGHDHFRVJRRDBOF
+/SysSNES/B/BushiSeiryuden.html,SysSNES/B/BushiSeiryuden.html,20120906191435,http://vgmapper.com:80/SysSNES/B/BushiSeiryuden.html,Bushi Seiryuden maps and media,877,USYBYVZA76UCUQZ4PYCE7PAVYTWOUQKJ
+/SysSNES/B/BustAMove.html,SysSNES/B/BustAMove.html,20120906191441,http://vgmapper.com:80/SysSNES/B/BustAMove.html,Bust A Move maps and media,885,ANMSO3VHNTWOPZ6WWQEHOQYXAGNXGBMV
+/syssnes/C/,syssnes/C/index.html,20120828190715,http://www.vgmapper.com:80/syssnes/C/,www.vgmapper.com - /syssnes/C/,2640,IU45BZVVUWNG322FLJ6DWOE5PGINAHLE
+/SysSNES/C/,SysSNES/C/index.html,20101209074528,http://www.vgmapper.com:80/SysSNES/C/,www.vgmapper.com - /SysSNES/C/,1815,SSMKMC6PKU37JUF5QFA25PFXLFQV5LPJ
+/SysSNES/C/Casper.html,SysSNES/C/Casper.html,20120907002828,http://vgmapper.com:80/SysSNES/C/Casper.html,Casper maps and media,868,Y4MPTDU6ONJEBGULUGISYV2NVQ3A5NFO
+/SysSNES/C/Castlevania4.html,SysSNES/C/Castlevania4.html,20121105080922,http://vgmapper.com:80/SysSNES/C/Castlevania4.html,Castlevania 4 maps and media,1160,CHCDS7HSRQ3DQO6HRDRUSHQBCU4MKLI2
+/SysSNES/C/Castlevania5.html,SysSNES/C/Castlevania5.html,20120907002833,http://vgmapper.com:80/SysSNES/C/Castlevania5.html,Castlevania 5 maps and media,918,CFNNHNRBKHUOXCTGD56R6ZT7JA6XO264
+/SysSNES/C/ChessMaster.html,SysSNES/C/ChessMaster.html,20121105074353,http://vgmapper.com:80/SysSNES/C/ChessMaster.html,The Chess Master maps and media,884,4WUONCQ5LU4ZMZFCW3R7HETXMBLRBHQA
+/SysSNES/C/ChesterCheetah.html,SysSNES/C/ChesterCheetah.html,20120907002839,http://vgmapper.com:80/SysSNES/C/ChesterCheetah.html,Chester Cheetah maps and media,878,ZEWT6VCONNJY4YGFTIJOSQUWQ3USIXT3
+/SysSNES/C/ChesterCheetah2.html,SysSNES/C/ChesterCheetah2.html,20120907002844,http://vgmapper.com:80/SysSNES/C/ChesterCheetah2.html,Chester Cheetah 2 maps and media,848,WVM2TLVAPNWJB5ITSQJ3KGASQIOJ7JXS
+/SysSNES/C/ChuckRock.html,SysSNES/C/ChuckRock.html,20120907002849,http://vgmapper.com:80/SysSNES/C/ChuckRock.html,Chuck Rock maps and media,877,FJ47CRVGEDCY2Z4FWUSGM65436GMTFHC
+/SysSNES/C/ClayFighter2.html,SysSNES/C/ClayFighter2.html,20120907002854,http://vgmapper.com:80/SysSNES/C/ClayFighter2.html,Clay Fighter 2 the Puzzle maps and media,903,CPIKI3QG7KJOVHLPBCSCVNFWGGGSKJ7B
+/SysSNES/C/Claymates.html,SysSNES/C/Claymates.html,20120427131911,http://www.vgmapper.com:80/SysSNES/C/Claymates.html,Claymates maps and media,1336,NVCDCMELTGW6Z6VU6TTJSWCZVYBJ7JBT
+/SysSNES/C/CongosCaper.html,SysSNES/C/CongosCaper.html,20120907002900,http://vgmapper.com:80/SysSNES/C/CongosCaper.html,Congo's Caper maps and media,853,FBQTSHC2AYMEH7O6MJCCPISBNZE5VZKD
+/SysSNES/C/Contra3.html,SysSNES/C/Contra3.html,20120907002906,http://vgmapper.com:80/SysSNES/C/Contra3.html,Contra 3 maps and media,841,2RICG73WK4YB3PW3DKF3FPTCDKD2FX7C
+/SysSNES/C/CoronLand.html,SysSNES/C/CoronLand.html,20120907002911,http://vgmapper.com:80/SysSNES/C/CoronLand.html,Coron Land maps and media,848,ETPDRHOHMCYWGEQT5HZW5JAWU3NKTXBU
+/SysSNES/C/CosmoGangthePuzzle.html,SysSNES/C/CosmoGangthePuzzle.html,20120907002916,http://vgmapper.com:80/SysSNES/C/CosmoGangthePuzzle.html,Cosmo Gang the Puzzle maps and media,871,E4NKXFP6OZFKGFW6FMQPLS35XVITKJEG
+/SysSNES/C/CyberKnight.html,SysSNES/C/CyberKnight.html,20120907002921,http://vgmapper.com:80/SysSNES/C/CyberKnight.html,Cyber Knight maps and media,963,4QVF5EA7SLUP7VKF22CWFRNYX5VLEXMV
+/syssnes/D/,syssnes/D/index.html,20120828191105,http://www.vgmapper.com:80/syssnes/D/,www.vgmapper.com - /syssnes/D/,5866,SMSCZAYCOFRJMFV4SMDX5KJ57T2G5BBJ
+/SysSNES/D/,SysSNES/D/index.html,20101203202722,http://www.vgmapper.com:80/SysSNES/D/,www.vgmapper.com - /SysSNES/D/,5586,WAZ5Z4XGPN6PTTCR6RQOZAADA47IYIFO
+/SysSNES/D/DariusTwin.html,SysSNES/D/DariusTwin.html,20120907002926,http://vgmapper.com:80/SysSNES/D/DariusTwin.html,Darius Twin maps and media,881,DPVGP265A24MGQ6W76XVUUB6TEXKJH26
+/SysSNES/D/DemonsCrest.html,SysSNES/D/DemonsCrest.html,20120907002931,http://vgmapper.com:80/SysSNES/D/DemonsCrest.html,Demon's Crest maps and media,964,SQAJ75LJKJRAMWTVRYE3GX34EQD6YFNX
+/SysSNES/D/DerLangrisser.html,SysSNES/D/DerLangrisser.html,20120907002938,http://vgmapper.com:80/SysSNES/D/DerLangrisser.html,Der Langrisser maps and media,932,75T2DJUAOFL6G2NP2TDO5XJXOXMBWULK
+/SysSNES/D/DharmaDojo.html,SysSNES/D/DharmaDojo.html,20120907002946,http://vgmapper.com:80/SysSNES/D/DharmaDojo.html,Dharma Dojo maps and media,864,JBEW2HPHI65TPU4F2NJ226BSBP5W2PR4
+/SysSNES/D/DonkeyKongCountry.html,SysSNES/D/DonkeyKongCountry.html,20120907002948,http://vgmapper.com:80/SysSNES/D/DonkeyKongCountry.html,Donkey Kong Country maps and media,949,ZTXGH6A4X3EEDA6R7OQWQQAEYNQCPPHM
+/SysSNES/D/DonkeyKongCountry2.html,SysSNES/D/DonkeyKongCountry2.html,20120907002952,http://vgmapper.com:80/SysSNES/D/DonkeyKongCountry2.html,Donkey Kong Country 2 maps and media,2641,4GGVNPFFED5DKDTOQ2WXCLQB3TGAN4EK
+/SysSNES/D/DonkeyKongCountry3.html,SysSNES/D/DonkeyKongCountry3.html,20120907002957,http://vgmapper.com:80/SysSNES/D/DonkeyKongCountry3.html,Donkey Kong Country 3 maps and media,1131,SVEBXJ5QPIJRHPPR34BW2X67RHGUZBXU
+/SysSNES/D/Doraemon4.html,SysSNES/D/Doraemon4.html,20120907003003,http://vgmapper.com:80/SysSNES/D/Doraemon4.html,Doraemon 4 maps and media,861,KWRVFEALAAN4IH6MTKSWJOSG3A4INCAT
+/SysSNES/D/DossunGansekiBattle.html,SysSNES/D/DossunGansekiBattle.html,20120907003007,http://vgmapper.com:80/SysSNES/D/DossunGansekiBattle.html,Dossun Ganseki Battle maps and media,896,ECLX5NPKVMYJGX4YUN5H7EYEH3OXZAE4
+/SysSNES/D/DowntheWorld.html,SysSNES/D/DowntheWorld.html,20120907003013,http://vgmapper.com:80/SysSNES/D/DowntheWorld.html,Down the World maps and media,872,OAGUUI5Q3RQB5VJYTE4I4DWWKT5MMX4H
+/SysSNES/D/DragonQuest1and2.html,SysSNES/D/DragonQuest1and2.html,20120907003021,http://vgmapper.com:80/SysSNES/D/DragonQuest1and2.html,Dragon Quest 1 and 2 maps and media,896,PKXDZ5IE6PQSC5Y6TUQGTYRBU63NOPMZ
+/SysSNES/D/DragonQuest5.html,SysSNES/D/DragonQuest5.html,20120907003025,http://vgmapper.com:80/SysSNES/D/DragonQuest5.html,Dragon Quest 5 maps and media,884,IT6GIOP4BTKTCKOAT27F7CGD33LAA7Z3
+/SysSNES/D/DragonQuest6.html,SysSNES/D/DragonQuest6.html,20120907003030,http://vgmapper.com:80/SysSNES/D/DragonQuest6.html,Dragon Quest 6 maps and media,881,R6IBBRM3LBHDR2EMYXZYMSBIRDO3WLDP
+/SysSNES/D/DragonsEarth.html,SysSNES/D/DragonsEarth.html,20120907003040,http://vgmapper.com:80/SysSNES/D/DragonsEarth.html,Dragon's Earth maps and media,921,JBGTH4PNFRX24ALMJU6ZTKIKHA6GABYL
+/SysSNES/D/DragonsLair.html,SysSNES/D/DragonsLair.html,20121105081045,http://vgmapper.com:80/SysSNES/D/DragonsLair.html,Dragon's Lair maps and media,1176,S2QYQKF6RQB22IHSET5M2JTWXNQXQ7UR
+/SysSNES/D/DragonView.html,SysSNES/D/DragonView.html,20120907003035,http://vgmapper.com:80/SysSNES/D/DragonView.html,Dragon View maps and media,1490,74U2OW3RGBS4ZCFR425Z6ABZUBP2WVGE
+/SysSNES/D/DualOrb2.html,SysSNES/D/DualOrb2.html,20120907003045,http://vgmapper.com:80/SysSNES/D/DualOrb2.html,Dual Orb 2 maps and media,1011,O6PIUMZQ6AXUR3IVI7GYIT5OXFF5YJUN
+/SysSNES/D/DunQuest.html,SysSNES/D/DunQuest.html,20120907003051,http://vgmapper.com:80/SysSNES/D/DunQuest.html,Dun Quest maps and media,878,INPHU3KQJ3SCN6VCI3HBPJ2BFXA4AZ4O
+/syssnes/E/,syssnes/E/index.html,20120902110520,http://www.vgmapper.com:80/syssnes/E/,www.vgmapper.com - /syssnes/E/,6688,TYRESVAX5XRQVPK7X5CHT7RYKDDIB2OU
+/SysSNES/E/,SysSNES/E/index.html,20101205191719,http://www.vgmapper.com:80/SysSNES/E/,www.vgmapper.com - /SysSNES/E/,4981,SRTVM3SAFVSWELAQLER2BSGTUUF3CTAA
+/syssnes/E/E.V.O.html,syssnes/E/E.V.O.html,20120506075744,http://www.vgmapper.com:80/syssnes/E/E.V.O.html,E.V.O. maps and media,3119,KRFBLAJBD2BTQ62QNPV6PRNU2S76KHS2
+/SysSNES/E/E.V.O.html,SysSNES/E/E.V.O.html,20120906191446,http://vgmapper.com:80/SysSNES/E/E.V.O.html,E.V.O. maps and media,3118,KRFBLAJBD2BTQ62QNPV6PRNU2S76KHS2
+/syssnes/E/Earthbound.html,syssnes/E/Earthbound.html,20120506075739,http://www.vgmapper.com:80/syssnes/E/Earthbound.html,Earthbound maps and media,1559,B24VCFSVL5GB7BZB5YZOOYOWKXGR73UL
+/SysSNES/E/Earthbound.html,SysSNES/E/Earthbound.html,20120906191451,http://vgmapper.com:80/SysSNES/E/Earthbound.html,Earthbound maps and media,1562,B24VCFSVL5GB7BZB5YZOOYOWKXGR73UL
+/syssnes/E/EarthwormJim.html,syssnes/E/EarthwormJim.html,20120628050551,http://www.vgmapper.com:80/syssnes/E/EarthwormJim.html,Earthworm Jim maps and media,921,4ZGH7HO3CBPLANPE65FKVIOOJOV4KJU3
+/SysSNES/E/EarthwormJim.html,SysSNES/E/EarthwormJim.html,20120906191456,http://vgmapper.com:80/SysSNES/E/EarthwormJim.html,Earthworm Jim maps and media,921,4ZGH7HO3CBPLANPE65FKVIOOJOV4KJU3
+/syssnes/E/EarthwormJim2.html,syssnes/E/EarthwormJim2.html,20120628044901,http://www.vgmapper.com:80/syssnes/E/EarthwormJim2.html,Earthworm Jim 2 maps and media,1178,4BYIXYQP4S6DIVO5M2ELNUAAIXEUTBV7
+/SysSNES/E/EarthwormJim2.html,SysSNES/E/EarthwormJim2.html,20120906191501,http://vgmapper.com:80/SysSNES/E/EarthwormJim2.html,Earthworm Jim 2 maps and media,1175,4BYIXYQP4S6DIVO5M2ELNUAAIXEUTBV7
+/syssnes/E/EektheCat.html,syssnes/E/EektheCat.html,20120506074906,http://www.vgmapper.com:80/syssnes/E/EektheCat.html,Eek the Cat maps and media,861,SA53EQO5555RL452RQWCCD6ZP5F6DIP5
+/SysSNES/E/EektheCat.html,SysSNES/E/EektheCat.html,20120906191506,http://vgmapper.com:80/SysSNES/E/EektheCat.html,Eek the Cat maps and media,865,SA53EQO5555RL452RQWCCD6ZP5F6DIP5
+/syssnes/E/EmeraldDragon.html,syssnes/E/EmeraldDragon.html,20120506075756,http://www.vgmapper.com:80/syssnes/E/EmeraldDragon.html,Emerald Dragon maps and media,854,26W6WPCEKQ3Y7U537DXQ5OCSHDOBB4RR
+/SysSNES/E/EmeraldDragon.html,SysSNES/E/EmeraldDragon.html,20120906191511,http://vgmapper.com:80/SysSNES/E/EmeraldDragon.html,Emerald Dragon maps and media,854,26W6WPCEKQ3Y7U537DXQ5OCSHDOBB4RR
+/syssnes/E/Equinox.html,syssnes/E/Equinox.html,20120506075844,http://www.vgmapper.com:80/syssnes/E/Equinox.html,Equinox maps and media,853,FK66A4GJBTAWMBYMWNPHIJCURYIAYYTB
+/SysSNES/E/Equinox.html,SysSNES/E/Equinox.html,20120906191516,http://vgmapper.com:80/SysSNES/E/Equinox.html,Equinox maps and media,856,FK66A4GJBTAWMBYMWNPHIJCURYIAYYTB
+/syssnes/F/,syssnes/F/index.html,20120828190720,http://www.vgmapper.com:80/syssnes/F/,www.vgmapper.com - /syssnes/F/,2999,P4LNHIMCDNUBHUMRABCWVS6UCJ2MPKZL
+/SysSNES/F/,SysSNES/F/index.html,20101205192714,http://www.vgmapper.com:80/SysSNES/F/,www.vgmapper.com - /SysSNES/F/,2999,OHMYA3SWRORP2UX2YGRICJVG3RVZJAUH
+/SysSNES/F/FinalFantasy4.html,SysSNES/F/FinalFantasy4.html,20121105080329,http://vgmapper.com:80/SysSNES/F/FinalFantasy4.html,Final Fantasy 4 maps and media,867,Y24B2ISNVA7ZOQQ24TXKHSQMMBEGP5JX
+/SysSNES/F/FinalFantasy5.html,SysSNES/F/FinalFantasy5.html,20121105072718,http://vgmapper.com:80/SysSNES/F/FinalFantasy5.html,Final Fantasy 5 maps and media,867,OEKP24MOFAO3RCAWO5NGMCQH3OWSEHJA
+/SysSNES/F/FinalFantasy6.html,SysSNES/F/FinalFantasy6.html,20121105080928,http://vgmapper.com:80/SysSNES/F/FinalFantasy6.html,Final Fantasy 6 maps and media,967,TD5W2G4SAKMLQDUWSEZJEWPQE7CH7KNW
+/syssnes/F/FinalFantasyMysticQuest.html,syssnes/F/FinalFantasyMysticQuest.html,20120504191631,http://www.vgmapper.com:80/syssnes/F/FinalFantasyMysticQuest.html,Final Fantasy Mystic Quest maps and media,1729,CAGS5EB6DZVORT3NED44F3VWR5CWXFEX
+/SysSNES/F/FinalFantasyMysticQuest.html,SysSNES/F/FinalFantasyMysticQuest.html,20121105072724,http://vgmapper.com:80/SysSNES/F/FinalFantasyMysticQuest.html,Final Fantasy Mystic Quest maps and media,1728,CAGS5EB6DZVORT3NED44F3VWR5CWXFEX
+/SysSNES/F/FireEmblemMonshounoNazo.html,SysSNES/F/FireEmblemMonshounoNazo.html,20120908010816,http://vgmapper.com:80/SysSNES/F/FireEmblemMonshounoNazo.html,Fire Emblem Monshou no Nazo maps and media,876,OLY2TB3CXINWXQPP2KBMU6BPQFFLPXLU
+/SysSNES/F/FireStriker.html,SysSNES/F/FireStriker.html,20121108062707,http://vgmapper.com:80/SysSNES/F/FireStriker.html,Fire Striker maps and media,865,AF4SUPBWJ5RVCLKXYM2E42VMQPKTA5HA
+/SysSNES/F/FirstQueen.html,SysSNES/F/FirstQueen.html,20121105080334,http://vgmapper.com:80/SysSNES/F/FirstQueen.html,First Queen maps and media,856,5XR2QNVQEBPLPX74G3FAH3JA7HI7BAGY
+/SysSNES/F/FlashBack.html,SysSNES/F/FlashBack.html,20120908010827,http://vgmapper.com:80/SysSNES/F/FlashBack.html,Flash Back maps and media,868,B4IZ2COKLOUVLHU4XVLCUSMSH7LVR4BX
+/SysSNES/F/FrontMission.html,SysSNES/F/FrontMission.html,20121108134959,http://vgmapper.com:80/SysSNES/F/FrontMission.html,Front Mission maps and media,863,DIGPVCKLX77GROWTHGXYHP6ZQNOI5YEU
+/SysSNES/F/FrontMissionGunHazard.html,SysSNES/F/FrontMissionGunHazard.html,20120908010839,http://vgmapper.com:80/SysSNES/F/FrontMissionGunHazard.html,Front Mission Gun Hazard maps and media,867,4SRMCI65HNXWLWZ5IZJIS7GJBRTB2VB2
+/SysSNES/F/FushiginoDungeon2FurainoShrien.html,SysSNES/F/FushiginoDungeon2FurainoShrien.html,20121108135050,http://vgmapper.com:80/SysSNES/F/FushiginoDungeon2FurainoShrien.html,Fushigi no Dungeon 2 Furai no Shrien maps and media,1288,5ASOYMZ2DHNLPD2AM35DABPQJS3XGEI7
+/syssnes/G/,syssnes/G/index.html,20120828191110,http://www.vgmapper.com:80/syssnes/G/,www.vgmapper.com - /syssnes/G/,1423,UC5CINN3HA6LKDI65BAW4RGWLJVAVCQW
+/SysSNES/G/,SysSNES/G/index.html,20101209074535,http://www.vgmapper.com:80/SysSNES/G/,www.vgmapper.com - /SysSNES/G/,1094,47HKGT6SQGQUZESLQRL3IEJPJQQB5VMB
+/SysSNES/G/GanGanGanChan.html,SysSNES/G/GanGanGanChan.html,20120906191521,http://vgmapper.com:80/SysSNES/G/GanGanGanChan.html,GanGan GanChan maps and media,856,MZUHWDCLL6HHLP5YCHRVHFFKCTEOOFCG
+/SysSNES/G/GegegenoKitarou.html,SysSNES/G/GegegenoKitarou.html,20120906191528,http://vgmapper.com:80/SysSNES/G/GegegenoKitarou.html,Gegege no Kitarou maps and media,879,VGLUG34Q4VQHIRG4D2O6JYEIYKRKOUGF
+/SysSNES/G/GhostSweeperMikami.html,SysSNES/G/GhostSweeperMikami.html,20120906191533,http://vgmapper.com:80/SysSNES/G/GhostSweeperMikami.html,Ghost Sweeper Mikami maps and media,917,DNLCOJHDBAH7Y5NBE7VFHEPEAQKMMIDE
+/SysSNES/G/GhoulPatrol.html,SysSNES/G/GhoulPatrol.html,20120906191538,http://vgmapper.com:80/SysSNES/G/GhoulPatrol.html,Ghoul Patrol maps and media,858,ZINCYYQBLPU5HAYOZATXRPDJAWK7XJO4
+/SysSNES/G/Gods.html,SysSNES/G/Gods.html,20120906191543,http://vgmapper.com:80/SysSNES/G/Gods.html,Gods maps and media,895,HNV46ZZVWWSHNP6W34Y5V5AUICAHPPRE
+/SysSNES/G/Gon.html,SysSNES/G/Gon.html,20120906191548,http://vgmapper.com:80/SysSNES/G/Gon.html,Gon maps and media,898,36XNBIUKJF5HHJSUCBRUBQBCBFMTWZK4
+/SysSNES/G/GoofTroop.html,SysSNES/G/GoofTroop.html,20120906191553,http://vgmapper.com:80/SysSNES/G/GoofTroop.html,Goof Troop maps and media,855,EK5PNUUVO42NBORSP7SNPRZPQW2ZH2RA
+/SysSNES/G/GreatBattle2LastFighterTwin.html,SysSNES/G/GreatBattle2LastFighterTwin.html,20120906191559,http://vgmapper.com:80/SysSNES/G/GreatBattle2LastFighterTwin.html,Great Battle 2 Last Fighter Twin maps and media,880,25FNYGATQJ5576NGJSWDIB6V5XJSOL7C
+/SysSNES/G/GreatBattle4.html,SysSNES/G/GreatBattle4.html,20120906191606,http://vgmapper.com:80/SysSNES/G/GreatBattle4.html,Great Battle 4 maps and media,860,MYXULM6A54JDPJOO32B2R3WSQAHWJRRV
+/SysSNES/G/GreatBattle5.html,SysSNES/G/GreatBattle5.html,20120906191611,http://vgmapper.com:80/SysSNES/G/GreatBattle5.html,Great Battle 5 maps and media,858,OZLE7YS2WJ2NMO2QYGPZZRQ6YMFFQFUQ
+/SysSNES/G/GreatCircusMystery.html,SysSNES/G/GreatCircusMystery.html,20120906191616,http://vgmapper.com:80/SysSNES/G/GreatCircusMystery.html,The Great Circus Mystery maps and media,863,IW2DDURY5IX2Q4SP5POAJROEEMO3HONH
+/SysSNES/G/GreatWaldoSearch.html,SysSNES/G/GreatWaldoSearch.html,20120906191621,http://vgmapper.com:80/SysSNES/G/GreatWaldoSearch.html,The Great Waldo Search maps and media,975,TSDZAN52K5IYTC67VGVW7ZOPV363JKFH
+/SysSNES/G/GulliverBoy.html,SysSNES/G/GulliverBoy.html,20120906191626,http://vgmapper.com:80/SysSNES/G/GulliverBoy.html,Gulliver Boy maps and media,865,PZ4IAFMA4GIN3M5DL3PJMTCTV6EH3QWB
+/syssnes/H/,syssnes/H/index.html,20120828190725,http://www.vgmapper.com:80/syssnes/H/,www.vgmapper.com - /syssnes/H/,718,CMCTT2ZF4SYYACLRJDJ4WDG3M4E6A3TJ
+/SysSNES/H/,SysSNES/H/index.html,20101205192719,http://www.vgmapper.com:80/SysSNES/H/,www.vgmapper.com - /SysSNES/H/,698,6JNGIQSGOIUZ74WCV5SAHA3U2PD2ZI4C
+/SysSNES/H/HamelinnoViolinTamaki.html,SysSNES/H/HamelinnoViolinTamaki.html,20120906191631,http://vgmapper.com:80/SysSNES/H/HamelinnoViolinTamaki.html,Hamelin no Violin Tamaki maps and media,882,IXMS3N6JMZZLCFYIILZIZHMZ6U6R2AUQ
+/SysSNES/H/HinoOujiYamatoTakeru.html,SysSNES/H/HinoOujiYamatoTakeru.html,20120906191636,http://vgmapper.com:80/SysSNES/H/HinoOujiYamatoTakeru.html,Hi no Ouji Yamato Takeru maps and media,906,4WBHSWWCKUPR2KE3BVEV77OMPQONX3UR
+/SysSNES/H/HyperIria.html,SysSNES/H/HyperIria.html,20120906191641,http://vgmapper.com:80/SysSNES/H/HyperIria.html,Hyper Iria maps and media,900,X7I4O6UQHOHI6Q3VKHFIAVNMVLJ6XRFP
+/syssnes/I/,syssnes/I/index.html,20120828190731,http://www.vgmapper.com:80/syssnes/I/,www.vgmapper.com - /syssnes/I/,2970,46W2XQ6CY7MUJ2CVRIE6DEMPBNYZAWNJ
+/SysSNES/I/,SysSNES/I/index.html,20101208090439,http://www.vgmapper.com:80/SysSNES/I/,www.vgmapper.com - /SysSNES/I/,2462,K2OPRTN4HEV7QFACQ673SGYPRE66N2AD
+/SysSNES/I/IllusionofGaia.html,SysSNES/I/IllusionofGaia.html,20121105080657,http://vgmapper.com:80/SysSNES/I/IllusionofGaia.html,Illusion of Gaia maps and media,2008,MOHFEWXELOJE7BYMVTJ6NKQNIQ2LN7HW
+/SysSNES/I/Incantation.html,SysSNES/I/Incantation.html,20121105075216,http://vgmapper.com:80/SysSNES/I/Incantation.html,Incantation maps and media,877,O3R5SYH5UB52BAQ5CZ3FP47BUT3RUVIY
+/SysSNES/I/IncredibleCrashDummies.html,SysSNES/I/IncredibleCrashDummies.html,20120908010757,http://vgmapper.com:80/SysSNES/I/IncredibleCrashDummies.html,The Incredible Crash Dummies maps and media,1150,U23AYFVBJOGVEAEO7RFIZFWBTY2XZGPP
+/SysSNES/I/IndianaJones.html,SysSNES/I/IndianaJones.html,20121105080751,http://vgmapper.com:80/SysSNES/I/IndianaJones.html,Indiana Jones maps and media,902,NHSZOHKNREY32OD4ZJK7TLVTWD676MAX
+/SysSNES/I/Inindo.html,SysSNES/I/Inindo.html,20120908010801,http://vgmapper.com:80/SysSNES/I/Inindo.html,Inindo maps and media,875,5A4RDIKNVOR4FPXOP4FFJXRRPNPBEZLA
+/syssnes/J/,syssnes/J/index.html,20120828191115,http://www.vgmapper.com:80/syssnes/J/,www.vgmapper.com - /syssnes/J/,1625,7X2RVIIMJIARIKEV3LFEDDU4GKHHJXWG
+/SysSNES/J/,SysSNES/J/index.html,20101208091117,http://www.vgmapper.com:80/SysSNES/J/,www.vgmapper.com - /SysSNES/J/,1076,NGSFDXWBSCL3BKYRPOIF6C5EOGYL65MU
+/SysSNES/J/JamesBondJr.html,SysSNES/J/JamesBondJr.html,20120906191646,http://vgmapper.com:80/SysSNES/J/JamesBondJr.html,James Bond Jr maps and media,1103,Z7MW5UC6BLHKINKB3JJI5JEW5YGYC7NW
+/SysSNES/J/JellyBoy.html,SysSNES/J/JellyBoy.html,20120906191651,http://vgmapper.com:80/SysSNES/J/JellyBoy.html,Jelly Boy maps and media,910,TNJFJS3454QO7X45CGA3HNOR6FM37Q45
+/SysSNES/J/JimPowerTheLostDimensionin3D.html,SysSNES/J/JimPowerTheLostDimensionin3D.html,20120906191656,http://vgmapper.com:80/SysSNES/J/JimPowerTheLostDimensionin3D.html,Jim Power The Lost Dimension in 3D maps and media,999,LFIAWPLG3BENSWXXBIQJCVUVMR3A3TLP
+/SysSNES/J/JoeandMac.html,SysSNES/J/JoeandMac.html,20120906191701,http://vgmapper.com:80/SysSNES/J/JoeandMac.html,Joe and Mac maps and media,885,EA272FO67FYVRA47MPM6AL5XR2FNA4VT
+/SysSNES/J/JoeandMac2.html,SysSNES/J/JoeandMac2.html,20120906191706,http://vgmapper.com:80/SysSNES/J/JoeandMac2.html,Joe and Mac 2 maps and media,880,BXCMUBHYMRWZXPDIG4AGQAPXSVXWGSHI
+/SysSNES/J/JohnMaddenFootball93.html,SysSNES/J/JohnMaddenFootball93.html,20120906191711,http://vgmapper.com:80/SysSNES/J/JohnMaddenFootball93.html,John Madden Football 93 maps and media,907,VB223MNLQ43A56VSPEZRTF4RHNRGRD6N
+/SysSNES/J/JurassicPark.html,SysSNES/J/JurassicPark.html,20120906191716,http://vgmapper.com:80/SysSNES/J/JurassicPark.html,Jurassic Park maps and media,1074,QLWIAXMWTC3UTTPASMGNVLJFKHQHTTBR
+/syssnes/K/,syssnes/K/index.html,20120828191120,http://www.vgmapper.com:80/syssnes/K/,www.vgmapper.com - /syssnes/K/,975,NLRDKRJI3REXVKEAJ7XF5B4LVLUDCQ2H
+/SysSNES/K/,SysSNES/K/index.html,20101205191754,http://www.vgmapper.com:80/SysSNES/K/,www.vgmapper.com - /SysSNES/K/,836,QFYANRBBIXR55IM2BMVAZOL2TMU6UTUS
+/SysSNES/K/Karuraou.html,SysSNES/K/Karuraou.html,20120906191721,http://vgmapper.com:80/SysSNES/K/Karuraou.html,Karuraou maps and media,860,XRUTW3Z7BRS52NAUKU53TOIPRP7XPZHC
+/SysSNES/K/KingofRally.html,SysSNES/K/KingofRally.html,20120906191728,http://vgmapper.com:80/SysSNES/K/KingofRally.html,King of Rally maps and media,899,3XJXDJ2DR36FZANCEU4PTBDCUS65747M
+/SysSNES/K/KingoftheDragons.html,SysSNES/K/KingoftheDragons.html,20120906191733,http://vgmapper.com:80/SysSNES/K/KingoftheDragons.html,King of the Dragons maps and media,884,M25ZD2A2HAPDLPQVLWUFJBFS3Z2TIONX
+/SysSNES/K/KirbysAvalanche.html,SysSNES/K/KirbysAvalanche.html,20120906191743,http://vgmapper.com:80/SysSNES/K/KirbysAvalanche.html,Kirby's Avalanche maps and media,884,DV5K7VQWFTJA2PHMC4MIH2OMPU5JV3CH
+/SysSNES/K/KirbysDreamland3.html,SysSNES/K/KirbysDreamland3.html,20120906191748,http://vgmapper.com:80/SysSNES/K/KirbysDreamland3.html,Kirby's Dream Land 3 maps and media,887,KS32ICASNY276V656XM7QXRZOVI5DFST
+/SysSNES/K/KirbySuperStar.html,SysSNES/K/KirbySuperStar.html,20120906191738,http://vgmapper.com:80/SysSNES/K/KirbySuperStar.html,Kirby Super Star maps and media,881,3SJNOIJAQPCPNWC4NUH363NYXCLNMLAE
+/SysSNES/K/KishinDoujiZenki2.html,SysSNES/K/KishinDoujiZenki2.html,20120906191753,http://vgmapper.com:80/SysSNES/K/KishinDoujiZenki2.html,Kishin Douji Zenki 2 maps and media,878,WNSZKEHMEAGDKEE4LT3ZCOBN5ZJXMTZ4
+/syssnes/L/,syssnes/L/index.html,20120828191125,http://www.vgmapper.com:80/syssnes/L/,www.vgmapper.com - /syssnes/L/,3658,CK5CTVFOV3JVZ5GAXNIFCTJMT6CMBD2F
+/SysSNES/L/,SysSNES/L/index.html,20101203202735,http://www.vgmapper.com:80/SysSNES/L/,www.vgmapper.com - /SysSNES/L/,2290,G6BHEPDWDCYTCFEKLKDN7SVRYO5OTD3Y
+/SysSNES/L/Lagoon.html,SysSNES/L/Lagoon.html,20120908010849,http://vgmapper.com:80/SysSNES/L/Lagoon.html,Lagoon maps and media,1131,FKAHSDVBPHXNE54DIANAMUUOCHP2YA3Z
+/SysSNES/L/LegendoftheMysticalNinja.html,SysSNES/L/LegendoftheMysticalNinja.html,20120908010856,http://vgmapper.com:80/SysSNES/L/LegendoftheMysticalNinja.html,Legend of the Mystical Ninja maps and media,897,UVTM5GKJKQ4RM2SACBNQ4WDWVYBGZHHL
+/SysSNES/L/LegendofZeldaALinktothePast.html,SysSNES/L/LegendofZeldaALinktothePast.html,20121105080757,http://vgmapper.com:80/SysSNES/L/LegendofZeldaALinktothePast.html,The Legend of Zelda 3 a Link to the Past maps and media,1120,N4MHMX2VHY4UTE5FVAVO36KYSRYQRWOI
+/SysSNES/L/LittleMagic.html,SysSNES/L/LittleMagic.html,20121105081050,http://vgmapper.com:80/SysSNES/L/LittleMagic.html,Little Magic maps and media,872,ZVNX5B27TEBY6XTZFF6DYEA453QOY5CT
+/SysSNES/L/LiveALive.html,SysSNES/L/LiveALive.html,20120908010807,http://vgmapper.com:80/SysSNES/L/LiveALive.html,Live A Live maps and media,908,XBECDLTAOCFZGMQ55CTSFMWMYBGP5XNZ
+/SysSNES/L/LogosPanicGoaisatu.html,SysSNES/L/LogosPanicGoaisatu.html,20121127171155,http://vgmapper.com:80/SysSNES/L/LogosPanicGoaisatu.html,Logos Panic maps and media,869,2YRJ4JXAGOX7NGTGLJXR4BHVTBWPARMC
+/SysSNES/L/LordoftheRings.html,SysSNES/L/LordoftheRings.html,20120908010906,http://vgmapper.com:80/SysSNES/L/LordoftheRings.html,Lord of the Rings maps and media,1754,PHFVR3LVNEV4XZ5H44IGAOJUVCY52KYK
+/SysSNES/L/LostVikings.html,SysSNES/L/LostVikings.html,20120908010811,http://vgmapper.com:80/SysSNES/L/LostVikings.html,The Lost Vikings maps and media,1146,6ZPL6GFRYETVNYFVZ5ZI4QDQVN3C25XE
+/SysSNES/L/LostVikings2.html,SysSNES/L/LostVikings2.html,20120908010911,http://vgmapper.com:80/SysSNES/L/LostVikings2.html,The Lost Vikings 2 maps and media,1096,ZBRTDIW62FCZUQIBXXV4FJG4TGYN5TYX
+/SysSNES/L/LuckyLuke.html,SysSNES/L/LuckyLuke.html,20120908010916,http://vgmapper.com:80/SysSNES/L/LuckyLuke.html,Lucky Luke maps and media,863,362S4U5MY72N4BQNPMVNKVMTYZA3U7PH
+/SysSNES/L/Lufia.html,SysSNES/L/Lufia.html,20121105081055,http://vgmapper.com:80/SysSNES/L/Lufia.html,Lufia maps and media,932,URE73326OOLGFSAFRP4MWZS5FACDSVTA
+/SysSNES/L/Lufia2.html,SysSNES/L/Lufia2.html,20121105080802,http://vgmapper.com:80/SysSNES/L/Lufia2.html,Lufia 2 maps and media,1010,KT26FU4IIS3YSP2SDJF75AY3POFMXJ73
+/syssnes/M/,syssnes/M/index.html,20120828190737,http://www.vgmapper.com:80/syssnes/M/,www.vgmapper.com - /syssnes/M/,7661,PH6KQ2RLEHP6A7FNYN3NOUYD36WUH6CN
+/SysSNES/M/,SysSNES/M/index.html,20101203202810,http://www.vgmapper.com:80/SysSNES/M/,www.vgmapper.com - /SysSNES/M/,3101,PSUWKEJZIIQID27U62MX5LPCNNERHJ4C
+/SysSNES/M/MagicalDrop2.html,SysSNES/M/MagicalDrop2.html,20120907003106,http://vgmapper.com:80/SysSNES/M/MagicalDrop2.html,Magical Drop 2 maps and media,866,LY4YP25ITSXBVTBNFTOQ5OVGVPR4KUD5
+/SysSNES/M/MagicKnightRayearth.html,SysSNES/M/MagicKnightRayearth.html,20120907003058,http://vgmapper.com:80/SysSNES/M/MagicKnightRayearth.html,Magic Knight Rayearth maps and media,871,HIP5XBXUDQH6OJLCL7NZDMUKX2GCX4ZL
+/SysSNES/M/MagicSword.html,SysSNES/M/MagicSword.html,20120907003101,http://vgmapper.com:80/SysSNES/M/MagicSword.html,Magic Sword maps and media,994,A4QEG7GJ63RDI4EWLNHS5USWDJJ4HXTE
+/SysSNES/M/MagnaBraban.html,SysSNES/M/MagnaBraban.html,20120907003111,http://vgmapper.com:80/SysSNES/M/MagnaBraban.html,Magna Braban maps and media,1626,2VQYIORH2ZNNQTE3IVZUJSHXXVWS2WRB
+/SysSNES/M/MahjongHishouden.html,SysSNES/M/MahjongHishouden.html,20120907003116,http://vgmapper.com:80/SysSNES/M/MahjongHishouden.html,Mahjong Hishouden maps and media,864,LB77MEYXBS4EJEG624YGTHAH3KV6XGSM
+/SysSNES/M/MariosEarlyYearsFunWithLetters.html,SysSNES/M/MariosEarlyYearsFunWithLetters.html,20121105074359,http://vgmapper.com:80/SysSNES/M/MariosEarlyYearsFunWithLetters.html,Mario's Early Years Fun With Letters maps and media,1039,GU3N22D6MKQVUNH3NJIM5YULRHLQ7M7F
+/SysSNES/M/MarkosMagicFootball.html,SysSNES/M/MarkosMagicFootball.html,20120907003122,http://vgmapper.com:80/SysSNES/M/MarkosMagicFootball.html,Marko's Magic Football maps and media,860,52M7JYOJXIQUV66J4WL4X73WIGTQ2MYQ
+/SysSNES/M/MauiMallard.html,SysSNES/M/MauiMallard.html,20120908010926,http://vgmapper.com:80/SysSNES/M/MauiMallard.html,Maui Mallard maps and media,954,UGQJVZN7A4JCBIBJ4TIUCKWEMBRIEDRB
+/SysSNES/M/MegaMan7.html,SysSNES/M/MegaMan7.html,20120907003130,http://vgmapper.com:80/SysSNES/M/MegaMan7.html,Mega Man 7 maps and media,924,LJGNOKSL6KJ2BN2YXUMD6IJ4ABWD6EID
+/syssnes/M/MegaManX.html,syssnes/M/MegaManX.html,20120505075512,http://www.vgmapper.com:80/syssnes/M/MegaManX.html,Mega Man X maps and media,1041,DLKJQA2JESWQLJRFXJEPXRDGCJV3YVUL
+/SysSNES/M/MegaManX.html,SysSNES/M/MegaManX.html,20121105074404,http://vgmapper.com:80/SysSNES/M/MegaManX.html,Mega Man X maps and media,1043,DLKJQA2JESWQLJRFXJEPXRDGCJV3YVUL
+/SysSNES/M/MegaManX2.html,SysSNES/M/MegaManX2.html,20120907003136,http://vgmapper.com:80/SysSNES/M/MegaManX2.html,Mega Man X2 maps and media,949,SS4REKMNIGBOFYSBB3LWMSBRCBEUZ7QE
+/SysSNES/M/MegaManX3.html,SysSNES/M/MegaManX3.html,20120907003139,http://vgmapper.com:80/SysSNES/M/MegaManX3.html,Mega Man X3 maps and media,970,KXWYMGKFQROYIF2YGSRMFQ3PJQIFWSTM
+/SysSNES/M/MickeysPlaytownAdventure.html,SysSNES/M/MickeysPlaytownAdventure.html,20120907003144,http://vgmapper.com:80/SysSNES/M/MickeysPlaytownAdventure.html,Mickey's Playtown Adventure maps and media,921,2KZQCPQH5E2WXUUISBICJGD2XKXWXXCT
+/SysSNES/M/Monstania.html,SysSNES/M/Monstania.html,20120907003149,http://vgmapper.com:80/SysSNES/M/Monstania.html,Monstania maps and media,941,2V4EX7JXFAT6YG4ZUMS27LK3L5LVC575
+/SysSNES/M/MortalKombat.html,SysSNES/M/MortalKombat.html,20120907003155,http://vgmapper.com:80/SysSNES/M/MortalKombat.html,Mortal Kombat maps and media,858,Y4VKNN5HSVT2SEI6T3HEAOQALY54VC2B
+/SysSNES/M/MrBloopy.html,SysSNES/M/MrBloopy.html,20120907003200,http://vgmapper.com:80/SysSNES/M/MrBloopy.html,Mr.Bloopy maps and media,1192,MOSM3FO2MIKWTMKN2CNHAWFI36W4BOMU
+/SysSNES/M/MysticArk.html,SysSNES/M/MysticArk.html,20120907003210,http://vgmapper.com:80/SysSNES/M/MysticArk.html,Mystic Ark maps and media,2896,YKOWRCQD4CKMRHTIM23DHBLCKYWBOKIF
+/syssnes/N/,syssnes/N/index.html,20120828190740,http://www.vgmapper.com:80/syssnes/N/,www.vgmapper.com - /syssnes/N/,967,C5LT5BWP2RH2H4VJVEURAPLRMIPEOEKL
+/SysSNES/N/,SysSNES/N/index.html,20101208091127,http://www.vgmapper.com:80/SysSNES/N/,www.vgmapper.com - /SysSNES/N/,370,6RWNAE6L3L5NMZ77FX4AI4EBUIVWIDME
+/SysSNES/N/NageLibre.html,SysSNES/N/NageLibre.html,20120906191804,http://vgmapper.com:80/SysSNES/N/NageLibre.html,Nage Libre maps and media,972,NGVS3LWMXMPYSOCFJJOGHDEO73KUZKRC
+/SysSNES/N/NBAShowdown.html,SysSNES/N/NBAShowdown.html,20120722221607,http://www.vgmapper.com/SysSNES/N/NBAShowdown.html,NBA Showdown maps and media,1089,72I7RKJGVJTOJJS5OASB6LOLDCE4FWEQ
+/SysSNES/N/NHL94.html,SysSNES/N/NHL94.html,20120906191759,http://vgmapper.com:80/SysSNES/N/NHL94.html,NHL '94 maps and media,898,LY7WWYTNTEUYMNA4BEFM53XCT6QEFZQQ
+/syssnes/O/,syssnes/O/index.html,20121029122735,http://www.vgmapper.com:80/syssnes/O/,www.vgmapper.com - /syssnes/O/,4500,KDVHXYX6UIO3ATOTD2M6XK4TS75TEXII
+/SysSNES/O/,SysSNES/O/index.html,20101208091144,http://www.vgmapper.com:80/SysSNES/O/,www.vgmapper.com - /SysSNES/O/,4497,IONMVFKS6QSCKX5AURX6M7KHSYE65SX7
+/syssnes/O/Obitus.html,syssnes/O/Obitus.html,20120829041918,http://www.vgmapper.com:80/syssnes/O/Obitus.html,Obitus maps and media,867,X3V4OU2M6XB66EWG3YDGKODNKL4UCFVD
+/SysSNES/O/Obitus.html,SysSNES/O/Obitus.html,20120828191016,http://www.vgmapper.com:80/SysSNES/O/Obitus.html,Obitus maps and media,865,X3V4OU2M6XB66EWG3YDGKODNKL4UCFVD
+/syssnes/O/OgreBattle.html,syssnes/O/OgreBattle.html,20121125053456,http://www.vgmapper.com:80/syssnes/O/OgreBattle.html,Ogre Battle maps and media,1542,2PSPDUD5BLAL4EL74FDCQIU3RVUTDSQ6
+/SysSNES/O/OgreBattle.html,SysSNES/O/OgreBattle.html,20121127010126,http://www.vgmapper.com:80/SysSNES/O/OgreBattle.html,Ogre Battle maps and media,1542,2PSPDUD5BLAL4EL74FDCQIU3RVUTDSQ6
+/syssnes/O/OliviasMystery.html,syssnes/O/OliviasMystery.html,20120829040830,http://www.vgmapper.com:80/syssnes/O/OliviasMystery.html,Olivia's Mystery maps and media,854,MEKD3ICAU66IGVEJXQYCIMSLA53XIPJ3
+/SysSNES/O/OliviasMystery.html,SysSNES/O/OliviasMystery.html,20120828190638,http://www.vgmapper.com:80/SysSNES/O/OliviasMystery.html,Olivia's Mystery maps and media,852,MEKD3ICAU66IGVEJXQYCIMSLA53XIPJ3
+/syssnes/O/OnTheBall.html,syssnes/O/OnTheBall.html,20120829041153,http://www.vgmapper.com:80/syssnes/O/OnTheBall.html,On the Ball maps and media,2935,NADJOPJ7MHIH534RAYYP53G564ZU47CZ
+/SysSNES/O/OnTheBall.html,SysSNES/O/OnTheBall.html,20120828191024,http://www.vgmapper.com:80/SysSNES/O/OnTheBall.html,On the Ball maps and media,2935,NADJOPJ7MHIH534RAYYP53G564ZU47CZ
+/syssnes/O/OtobokeNinjaColosseum.html,syssnes/O/OtobokeNinjaColosseum.html,20120829041258,http://www.vgmapper.com:80/syssnes/O/OtobokeNinjaColosseum.html,Otoboke Ninja Colosseum maps and media,942,SILYEYZEADL7KSL4FWV5W5QF5G52JGZ2
+/SysSNES/O/OtobokeNinjaColosseum.html,SysSNES/O/OtobokeNinjaColosseum.html,20120828191029,http://www.vgmapper.com:80/SysSNES/O/OtobokeNinjaColosseum.html,Otoboke Ninja Colosseum maps and media,942,SILYEYZEADL7KSL4FWV5W5QF5G52JGZ2
+/syssnes/P/,syssnes/P/index.html,20120828190745,http://www.vgmapper.com:80/syssnes/P/,www.vgmapper.com - /syssnes/P/,2300,7GYPGOGTCMXP7HGBUSQYWZU3VHHP46KW
+/SysSNES/P/,SysSNES/P/index.html,20101205191823,http://www.vgmapper.com:80/SysSNES/P/,www.vgmapper.com - /SysSNES/P/,2209,B3NLBQ2VRL5FSKDWT53WJCT4IRJZR2WO
+/SysSNES/P/Pagemaster.html,SysSNES/P/Pagemaster.html,20120907003215,http://vgmapper.com:80/SysSNES/P/Pagemaster.html,The Pagemaster maps and media,906,QXDDEHZUK2LZ5GQM322VXTZ25OPXSATA
+/SysSNES/P/PaladinsQuest.html,SysSNES/P/PaladinsQuest.html,20121105080710,http://vgmapper.com:80/SysSNES/P/PaladinsQuest.html,Paladin's Quest maps and media,867,7EMZDPHKMOY4GAFRHSD3O6Z2U76UXNIM
+/SysSNES/P/PanelDePon.html,SysSNES/P/PanelDePon.html,20120907003219,http://vgmapper.com:80/SysSNES/P/PanelDePon.html,Panel De Pon maps and media,940,5SRQSWFVQCEG67LWHPUXFO3BOXQW6ZZF
+/SysSNES/P/Parodius.html,SysSNES/P/Parodius.html,20120907003224,http://vgmapper.com:80/SysSNES/P/Parodius.html,Parodius maps and media,904,VJFCFOHDU2T4XVKS7DJHIG4TMOA4O3UO
+/SysSNES/P/Phalanx.html,SysSNES/P/Phalanx.html,20120907003229,http://vgmapper.com:80/SysSNES/P/Phalanx.html,Phalanx maps and media,856,SAGGHQPPRPXGM752L6DOZ5HHJIH34FLN
+/SysSNES/P/PiratesofDarkWater.html,SysSNES/P/PiratesofDarkWater.html,20120907003235,http://vgmapper.com:80/SysSNES/P/PiratesofDarkWater.html,Pirates of Dark Water maps and media,873,IGBB6ZF2UEZ4NPUQAGQOZAGVI7YPLLTZ
+/syssnes/P/Pitfall.html,syssnes/P/Pitfall.html,20120505080036,http://www.vgmapper.com:80/syssnes/P/Pitfall.html,Pitfall the Mayan Adventure maps and media,1532,TGJOA2MJDRHQLGZD7QSIZ4R6OHRY5JU2
+/SysSNES/P/Pitfall.html,SysSNES/P/Pitfall.html,20120907003240,http://vgmapper.com:80/SysSNES/P/Pitfall.html,Pitfall the Mayan Adventure maps and media,1536,TGJOA2MJDRHQLGZD7QSIZ4R6OHRY5JU2
+/SysSNES/P/PitFighter.html,SysSNES/P/PitFighter.html,20120427131648,http://www.vgmapper.com:80/SysSNES/P/PitFighter.html,Pit Fighter maps and media,838,YKBCAU7F4LG6MUVUSK7VR6P7E6MPZYRG
+/SysSNES/P/Plok.html,SysSNES/P/Plok.html,20120907003245,http://vgmapper.com:80/SysSNES/P/Plok.html,Plok maps and media,853,Z6WL3I3XBQRIFDS77CZUMLEJRHLWEHO6
+/SysSNES/P/PockyandRocky.html,SysSNES/P/PockyandRocky.html,20121105081100,http://vgmapper.com:80/SysSNES/P/PockyandRocky.html,Pocky and Rocky maps and media,869,6TUU5XSN6IJGQVPXRD3BX44YJM2U3VVG
+/SysSNES/P/PockyandRocky2.html,SysSNES/P/PockyandRocky2.html,20120907003250,http://vgmapper.com:80/SysSNES/P/PockyandRocky2.html,Pocky and Rocky 2 maps and media,872,QWHGDU7WWNNGGZXQ2YZFRPGOQRRSTAQL
+/SysSNES/P/PopfulMail.html,SysSNES/P/PopfulMail.html,20120907003255,http://vgmapper.com:80/SysSNES/P/PopfulMail.html,Popful Mail maps and media,856,GWKPEGR2UWZPGP5IQHSFBKIGAMGRYMWY
+/SysSNES/P/PrincessMinerva.html,SysSNES/P/PrincessMinerva.html,20120907003300,http://vgmapper.com:80/SysSNES/P/PrincessMinerva.html,Princess Minerva maps and media,866,MJDU2NPQ5PZGJHG6JBQLCBGJFK7CXBXS
+/SysSNES/P/PuttySquad.html,SysSNES/P/PuttySquad.html,20120907003309,http://vgmapper.com:80/SysSNES/P/PuttySquad.html,Putty Squad maps and media,850,FHIEEWU3BHHI6A6T2B6UUC2LUFAFY3OE
+/syssnes/Q/,syssnes/Q/index.html,20120828190750,http://www.vgmapper.com:80/syssnes/Q/,www.vgmapper.com - /syssnes/Q/,470,FIUJRINAI5LP32PEZAKYDXCGKNACM66B
+/SysSNES/Q/,SysSNES/Q/index.html,20101210044735,http://www.vgmapper.com:80/SysSNES/Q/,www.vgmapper.com - /SysSNES/Q/,370,YCMY6FOSHTDRA5TFHPF36OJ7HGPYZYWG
+/SysSNES/Q/QBert3.html,SysSNES/Q/QBert3.html,20120906191809,http://vgmapper.com:80/SysSNES/Q/QBert3.html,Q*Bert 3 maps and media,860,POIRSDB3JJC725OEVY34WL6WGICJUBTV
+/syssnes/R/,syssnes/R/index.html,20120828191130,http://www.vgmapper.com:80/syssnes/R/,www.vgmapper.com - /syssnes/R/,1604,C733XWGYSA5LU7ZOQ6WCNGHWATS5UA4F
+/SysSNES/R/,SysSNES/R/index.html,20101208085740,http://www.vgmapper.com:80/SysSNES/R/,www.vgmapper.com - /SysSNES/R/,1035,PSRSX342BKWEOGUQMTBOEMSAFTVGSGBI
+/SysSNES/R/RadicalDreamers.html,SysSNES/R/RadicalDreamers.html,20120906191825,http://vgmapper.com:80/SysSNES/R/RadicalDreamers.html,Radical Dreamers maps and media,866,KI62XOEV62ARS32L6VFXETLNI3ZETP2O
+/SysSNES/R/RadicalRex.html,SysSNES/R/RadicalRex.html,20120906191830,http://vgmapper.com:80/SysSNES/R/RadicalRex.html,Radical Rex maps and media,859,DJ3WEPPYGRWNWS2COX7YECCYB7U5WCSQ
+/SysSNES/R/ReliefPitcher.html,SysSNES/R/ReliefPitcher.html,20120906191835,http://vgmapper.com:80/SysSNES/R/ReliefPitcher.html,Relief Pitcher maps and media,883,LUOW76L22OLZJPT4GGJLPUYH2NVEVRWM
+/SysSNES/R/RenandStimpyShowVeediots.html,SysSNES/R/RenandStimpyShowVeediots.html,20120906191840,http://vgmapper.com:80/SysSNES/R/RenandStimpyShowVeediots.html,The Ren and Stimpy Show Veediots! maps and media,1077,VIJGSC7CAQ7BGDC52BMS2PQZCURNTXKA
+/SysSNES/R/RHIRollerHockey95.html,SysSNES/R/RHIRollerHockey95.html,20120906191814,http://vgmapper.com:80/SysSNES/R/RHIRollerHockey95.html,RHI Roller Hockey 95 maps and media,861,RE5WRR3JKCROLY3EMYFF55REYEA3F4QV
+/SysSNES/R/Robotrek.html,SysSNES/R/Robotrek.html,20120906191845,http://vgmapper.com:80/SysSNES/R/Robotrek.html,Robotrek maps and media,856,CCEFVGUIIOP2FCDRYULUNZUEUNJXTX4U
+/SysSNES/R/RockmanandForte.html,SysSNES/R/RockmanandForte.html,20120906191850,http://vgmapper.com:80/SysSNES/R/RockmanandForte.html,Rockman and Forte maps and media,912,HFY7DE2Y5CMNIDPECJFZUMK2LBGP3P45
+/SysSNES/R/RomancingSaGa3.html,SysSNES/R/RomancingSaGa3.html,20120906191855,http://vgmapper.com:80/SysSNES/R/RomancingSaGa3.html,Romancing SaGa 3 maps and media,869,MYV6NB4DPVNTENVLNGBURI3ZSKWKWCRM
+/SysSNES/R/RType3.html,SysSNES/R/RType3.html,20120906191820,http://vgmapper.com:80/SysSNES/R/RType3.html,R Type 3 maps and media,856,2WH442FJDWTPBLCKNW45VHDQLXXD6WSG
+/SysSNES/R/RudranoHihou.html,SysSNES/R/RudranoHihou.html,20120906191905,http://vgmapper.com:80/SysSNES/R/RudranoHihou.html,Rudra no Hihou maps and media,949,TN2ZN7FAAZQYKFGP4QA7Q32JTAATSV4N
+/SysSNES/R/RuinArm.html,SysSNES/R/RuinArm.html,20120906191910,http://vgmapper.com:80/SysSNES/R/RuinArm.html,Ruin Arm maps and media,854,NI5CSBS63S34R7M55J4C4KXWQHQ63D6T
+/syssnes/S/,syssnes/S/index.html,20120828190757,http://www.vgmapper.com:80/syssnes/S/,www.vgmapper.com - /syssnes/S/,13324,2SKC3YI25OA5DHJAKGIJQGLPX35AFBJJ
+/SysSNES/S/,SysSNES/S/index.html,20101205191829,http://www.vgmapper.com:80/SysSNES/S/,www.vgmapper.com - /SysSNES/S/,11302,PJXQE3LHHX6MHBX7FVJSKMSRVBI7T2M5
+/SysSNES/S/S.O.S.html,SysSNES/S/S.O.S.html,20121009024243,http://www.vgmapper.com/SysSNES/S/S.O.S.html,S.O.S. maps and media,880,7AP4NFWZCCHXDJLB5ZLSRQSOAM47GFRG
+/syssnes/S/SecretofEvermore.html,syssnes/S/SecretofEvermore.html,20121106101836,http://www.vgmapper.com:80/syssnes/S/SecretofEvermore.html,Secret of Evermore maps and media,1401,2YGOU3LCAEQ6JZ52OSG7ZXJZWUIX7PST
+/SysSNES/S/SecretofEvermore.html,SysSNES/S/SecretofEvermore.html,20121105072729,http://vgmapper.com:80/SysSNES/S/SecretofEvermore.html,Secret of Evermore maps and media,1396,2YGOU3LCAEQ6JZ52OSG7ZXJZWUIX7PST
+/SysSNES/s/secretofmana.html,SysSNES/s/secretofmana.html,20120904154657,http://www.vgmapper.com:80/SysSNES/s/secretofmana.html,Secret of Mana maps and media,2137,TUGLW5CXZ5UWBUDTYV74I3LVK2EJ2DZX
+/SysSNES/S/SecretofMana.html,SysSNES/S/SecretofMana.html,20121105080809,http://vgmapper.com:80/SysSNES/S/SecretofMana.html,Secret of Mana maps and media,2129,TUGLW5CXZ5UWBUDTYV74I3LVK2EJ2DZX
+/SysSNES/S/SecretoftheStars.html,SysSNES/S/SecretoftheStars.html,20120602045631,http://vgmapper.com:80/SysSNES/S/SecretoftheStars.html,Secret of the Stars maps and media,888,72AIHMJA7VNOAROU55PSK4U6IZUA2TIE
+/SysSNES/S/SeikenDensetsu3.html,SysSNES/S/SeikenDensetsu3.html,20120602045636,http://vgmapper.com:80/SysSNES/S/SeikenDensetsu3.html,Seiken Densetsu 3 maps and media,949,V5LTTWBQNQHVVZFUAKXH3ANGOXBEP5PA
+/SysSNES/S/ShinKidouSenshiGundamWingEndlessDuel.html,SysSNES/S/ShinKidouSenshiGundamWingEndlessDuel.html,20120602045332,http://vgmapper.com:80/SysSNES/S/ShinKidouSenshiGundamWingEndlessDuel.html,Shin Kidou Senshi Gundam Wing Endless Duel maps and media,920,UZJLEV3TPHYQ6AV4P4W53J362W547GH5
+/SysSNES/S/ShinseikiGPXCyberFormula.html,SysSNES/S/ShinseikiGPXCyberFormula.html,20120602045641,http://vgmapper.com:80/SysSNES/S/ShinseikiGPXCyberFormula.html,Shinseiki GPX Cyber Formula maps and media,888,WCP4JRZGIYXAAZGXKXSHILLFLR2SNZF5
+/SysSNES/S/ShouninyoTaishiwoIdake.html,SysSNES/S/ShouninyoTaishiwoIdake.html,20120602045646,http://vgmapper.com:80/SysSNES/S/ShouninyoTaishiwoIdake.html,Shounin yo Taishi wo Idake!! maps and media,905,A74DM2NLAG6P4MPQSQ2XD3ZZSY2BRZXU
+/SysSNES/S/SimCity.html,SysSNES/S/SimCity.html,20120801004044,http://vgmapper.com:80/SysSNES/S/SimCity.html,Sim City maps and media,874,IBMOROAYFIA5RBUXYW2XU7NBQLRWBZRT
+/SysSNES/S/Skuljagger.html,SysSNES/S/Skuljagger.html,20120602045652,http://vgmapper.com:80/SysSNES/S/Skuljagger.html,Skuljagger maps and media,861,TMI6JOKLWUUVPSNAP7R7KTFBHR6KVODL
+/SysSNES/S/SkyBlazer.html,SysSNES/S/SkyBlazer.html,20120602045657,http://vgmapper.com:80/SysSNES/S/SkyBlazer.html,Sky Blazer maps and media,901,U4YJWS5R6VNRK2JGS7DG7CJW2SHBYLVC
+/SysSNES/S/SoreyukeEbisumaruKarakuri.html,SysSNES/S/SoreyukeEbisumaruKarakuri.html,20120602045704,http://vgmapper.com:80/SysSNES/S/SoreyukeEbisumaruKarakuri.html,Soreyuke Ebisumaru Karakuri maps and media,883,53F53FTN6QUWTQ4RFLUMNPNS5L7TNXN4
+/SysSNES/S/SoulBlazer.html,SysSNES/S/SoulBlazer.html,20120801003025,http://vgmapper.com:80/SysSNES/S/SoulBlazer.html,Soul Blazer maps and media,1885,IN54OOFYUUZFEP6ICK7F5B45YQOZV4Y6
+/SysSNES/S/SpankysQuest.html,SysSNES/S/SpankysQuest.html,20120602045337,http://vgmapper.com:80/SysSNES/S/SpankysQuest.html,Spanky's Quest maps and media,920,AMGKCWTP56QKSCTYMSJF3WGS4E7PWNWW
+/SysSNES/S/Sparkster.html,SysSNES/S/Sparkster.html,20120602045707,http://vgmapper.com:80/SysSNES/S/Sparkster.html,Sparkstar maps and media,899,QSTRYZ6BULDWYSWVSGYNGBPITDPQLRRR
+/SysSNES/S/SpellCraft.html,SysSNES/S/SpellCraft.html,20120602045713,http://vgmapper.com:80/SysSNES/S/SpellCraft.html,Spell Craft maps and media,988,EHFJMUZ5FBDZUS5ZVYIHVTZVIFKOGYAM
+/SysSNES/S/SpidermanandVenomSeparationAnxiety.html,SysSNES/S/SpidermanandVenomSeparationAnxiety.html,20120602045342,http://vgmapper.com:80/SysSNES/S/SpidermanandVenomSeparationAnxiety.html,Spiderman and Venom Separation Anxiety maps and media,951,Y2SNPQVHKBGMBGKJDYWYDNQBNVDPMPED
+/SysSNES/S/StarGate.html,SysSNES/S/StarGate.html,20120602045717,http://vgmapper.com:80/SysSNES/S/StarGate.html,Stargate maps and media,865,YRGWLH3VEBZMMIETGISVLSMVCTNLNTAB
+/SysSNES/S/StarOcean.html,SysSNES/S/StarOcean.html,20120602045347,http://vgmapper.com:80/SysSNES/S/StarOcean.html,Star Ocean maps and media,909,RJMAJJ6OM4YVTH7RFZO2ECHVDCLBZD25
+/SysSNES/S/SteelTalons.html,SysSNES/S/SteelTalons.html,20120722202836,http://www.vgmapper.com/SysSNES/S/SteelTalons.html,Steel Talons maps and media,1069,VIZQ54QNEGEDJC5KJWCVVHANKTBTFIMU
+/SysSNES/S/StoneProtectors.html,SysSNES/S/StoneProtectors.html,20120602045729,http://vgmapper.com:80/SysSNES/S/StoneProtectors.html,Stone Protectors maps and media,882,4ECXUM5RJ46ZG3MYCDMQP2U3YME2JTBJ
+/SysSNES/S/SugoroQuestDicenics.html,SysSNES/S/SugoroQuestDicenics.html,20120602045352,http://vgmapper.com:80/SysSNES/S/SugoroQuestDicenics.html,Sugoro Quest + + Dicenics maps and media,1013,ODKRPOO5WUM2DL6KOGBBK5VS6LSTTJVZ
+/SysSNES/S/SuperAdventureIsland.html,SysSNES/S/SuperAdventureIsland.html,20120602045733,http://vgmapper.com:80/SysSNES/S/SuperAdventureIsland.html,Super Adventure Island maps and media,886,VQ2NMVXU6I6V5PY2GZNLLOOXP6XFB5Q4
+/SysSNES/S/SuperBomberMan.html,SysSNES/S/SuperBomberMan.html,20120602045737,http://vgmapper.com:80/SysSNES/S/SuperBomberMan.html,Super Bomberman maps and media,924,S5WG47HU4R3YYSBM2H254GU4I6KTYECW
+/SysSNES/S/SuperBomberman2.html,SysSNES/S/SuperBomberman2.html,20120602045751,http://vgmapper.com:80/SysSNES/S/SuperBomberman2.html,Super Bomberman 2 maps and media,886,WCFR4TIASKISOXSMRW537FQQL5KD74KT
+/SysSNES/S/SuperBomberMan3.html,SysSNES/S/SuperBomberMan3.html,20120602045745,http://vgmapper.com:80/SysSNES/S/SuperBomberMan3.html,Super Bomberman 3 maps and media,926,56M4LYT6SUYW3UKJVBBTZZY2HY532RCX
+/SysSNES/S/SuperBomberMan4.html,SysSNES/S/SuperBomberMan4.html,20120602045357,http://vgmapper.com:80/SysSNES/S/SuperBomberMan4.html,Super Bomberman 4 maps and media,928,T6PBPZRGCLATJRFYNMR7XNZ6TO3AABYS
+/SysSNES/S/SuperBomberman5.html,SysSNES/S/SuperBomberman5.html,20120602045403,http://vgmapper.com:80/SysSNES/S/SuperBomberman5.html,Super Bomberman 5 maps and media,886,WFCGS6XDO7TFHBQCHHGBXJQG7SAKATW6
+/SysSNES/S/SuperBonk.html,SysSNES/S/SuperBonk.html,20120602045408,http://vgmapper.com:80/SysSNES/S/SuperBonk.html,Super Bonk maps and media,956,OGNAHS2GPSCEVAUPIX4GJIZ3MY6DJP3N
+/syssnes/S/SuperDany.html,syssnes/S/SuperDany.html,20120324192104,http://www.vgmapper.com/syssnes/S/SuperDany.html,Super Dany maps and media,1351,Q7GDW2WLNJDZ4QCDUAHPSNFI3BBU2ZQQ
+/SysSNES/S/SuperDany.html,SysSNES/S/SuperDany.html,20120602045413,http://vgmapper.com:80/SysSNES/S/SuperDany.html,Super Dany maps and media,1203,Q7GDW2WLNJDZ4QCDUAHPSNFI3BBU2ZQQ
+/SysSNES/S/SuperDoubleDragon.html,SysSNES/S/SuperDoubleDragon.html,20120602045418,http://vgmapper.com:80/SysSNES/S/SuperDoubleDragon.html,Super Double Dragon maps and media,884,QFWSXVXRDNWHJRIHOQ4IWEXV2MHTNOKR
+/SysSNES/S/SuperGhoulsNGhosts.html,SysSNES/S/SuperGhoulsNGhosts.html,20120602045754,http://vgmapper.com:80/SysSNES/S/SuperGhoulsNGhosts.html,Super Ghouls N' Ghosts maps and media,891,Q7LGTELK5ARIGCTPRG5VYD5UWLWVAWQL
+/SysSNES/S/SuperMarioRPG.html,SysSNES/S/SuperMarioRPG.html,20121105075228,http://vgmapper.com:80/SysSNES/S/SuperMarioRPG.html,Super Mario RPG maps and media,2124,YFVBJM5K5AJ37L3LG2E7JH7Z5E5HECV3
+/SysSNES/S/SuperMarioWorld.html,SysSNES/S/SuperMarioWorld.html,20121105080815,http://vgmapper.com:80/SysSNES/S/SuperMarioWorld.html,Super Mario World maps and media,886,XRY7HO3OJPNLUSOWE22QLBANTQYZWFS2
+/SysSNES/S/SuperMarioWorld2YoshisIsland.html,SysSNES/S/SuperMarioWorld2YoshisIsland.html,20121105081105,http://vgmapper.com:80/SysSNES/S/SuperMarioWorld2YoshisIsland.html,Super Mario World Yoshi's Island maps and media,2602,DZUNUNXUSNM7JRP5FRBDQ65NLLAUCTBA
+/SysSNES/S/SuperMetroid.html,SysSNES/S/SuperMetroid.html,20120602045805,http://vgmapper.com:80/SysSNES/S/SuperMetroid.html,Super Metroid maps and media,1095,JUVPVRJUFX7YJFSCMTI4IRLP2UFXMT5D
+/SysSNES/S/SuperNinjaBoy.html,SysSNES/S/SuperNinjaBoy.html,20120602045428,http://vgmapper.com:80/SysSNES/S/SuperNinjaBoy.html,Super Ninja Boy maps and media,930,BHB4YDPUXG4VZEMLDIKCJYB5KLW67KHP
+/SysSNES/S/SuperNoahsArk3D.html,SysSNES/S/SuperNoahsArk3D.html,20120602045810,http://vgmapper.com:80/SysSNES/S/SuperNoahsArk3D.html,Super Noah's Ark 3D maps and media,886,WIX6E6ONTUBQYY7WGKSTXUT3S4VA5IAK
+/SysSNES/S/SuperPachinkoTaisen.html,SysSNES/S/SuperPachinkoTaisen.html,20120602045815,http://vgmapper.com:80/SysSNES/S/SuperPachinkoTaisen.html,Super Pachinko Taisen maps and media,875,XM4IHQXJ2GR4554QTL6URGTVTO37GLYI
+/SysSNES/S/SuperPuyoPuyo.html,SysSNES/S/SuperPuyoPuyo.html,20120602050735,http://vgmapper.com:80/SysSNES/S/SuperPuyoPuyo.html,Super Puyo Puyo maps and media,880,WCGCLMCWFWOFQMHPZAB46FJRWRPLQFAA
+/SysSNES/S/SuperRType.html,SysSNES/S/SuperRType.html,20120602045433,http://vgmapper.com:80/SysSNES/S/SuperRType.html,Super R Type maps and media,880,XPQ25RIKNVEX2DZZVWIIOLTKC3TECGEK
+/SysSNES/S/SuperTekyuFight.html,SysSNES/S/SuperTekyuFight.html,20120602045438,http://vgmapper.com:80/SysSNES/S/SuperTekyuFight.html,Super Tekyu Fight maps and media,872,HPHNAMZUF5FTWR2ROJYZDGSXL4MZ2U5D
+/syssnes/SNESA.php,syssnes/SNESA.php,20120828190800,http://www.vgmapper.com:80/syssnes/SNESA.php,SNES maps and media,1634,ATSWHVKDD5TPXZXJJ6DETMLGRMTOXREZ
+/SysSNES/SNESA.php,SysSNES/SNESA.php,20121202125559,http://vgmapper.com:80/SysSNES/SNESA.php,SNES maps and media,1800,U2XFU45P4FD5XSA2PYVBPQ7TLFWWZTKB
+/syssnes/SNESB.php,syssnes/SNESB.php,20121029022348,http://vgmapper.com:80/syssnes/SNESB.php,SNES maps and media,1860,BMZMF363GMFPKJDQOSBUXJ7ZY7QMW2QA
+/SysSNES/SNESB.php,SysSNES/SNESB.php,20121205215615,http://vgmapper.com:80/SysSNES/SNESB.php,SNES maps and media,2030,BNHQSNZ7V37LT7IOWXHG66SZJ7OOQPSN
+/syssnes/SNESC.php,syssnes/SNESC.php,20120828191137,http://www.vgmapper.com:80/syssnes/SNESC.php,SNES maps and media,1536,O6ZQOKKETIOANWOQPLL4FJLL4CWYKDV5
+/SysSNES/SNESC.php,SysSNES/SNESC.php,20121205215620,http://vgmapper.com:80/SysSNES/SNESC.php,SNES maps and media,1703,BW3HF5OQX2MJSJFJW33O67NZWUNITBVW
+/syssnes/SNESD.php,syssnes/SNESD.php,20120828191142,http://www.vgmapper.com:80/syssnes/SNESD.php,SNES maps and media,1634,SORXJSY3WU7X6FYQG5JQ6XNH5T2RVZ6C
+/SysSNES/SNESD.php,SysSNES/SNESD.php,20121205213611,http://vgmapper.com:80/SysSNES/SNESD.php,SNES maps and media,1799,H2YD44Q4TJL7EUL555Z5QW6F7RPEDNJR
+/syssnes/SNESE.php,syssnes/SNESE.php,20120904155300,http://www.vgmapper.com:80/syssnes/SNESE.php,SNES maps and media,1400,EYIYNIIQNRMX2MTWIRR4CNEIUYI4DGF7
+/SysSNES/SNESE.php,SysSNES/SNESE.php,20121105072734,http://vgmapper.com:80/SysSNES/SNESE.php,SNES maps and media,1431,DYTARET2ZUBWMVXP2BXJGTLAI4IRFZSL
+/syssnes/SNESF.php,syssnes/SNESF.php,20120828190810,http://www.vgmapper.com:80/syssnes/SNESF.php,SNES maps and media,1529,5Z5IRQJ3KY326AZQKTI7V77B2TJYIRQ6
+/SysSNES/SNESF.php,SysSNES/SNESF.php,20121205215237,http://vgmapper.com:80/SysSNES/SNESF.php,SNES maps and media,1698,XWYNUGWUZGW74U4Q6IC3RAQ3URR2NRDZ
+/syssnes/SNESG.php,syssnes/SNESG.php,20120828190821,http://www.vgmapper.com:80/syssnes/SNESG.php,SNES maps and media,1542,AXMJTL3NVUPRZV3QZG6KR6IJUCEFSAFZ
+/SysSNES/SNESG.php,SysSNES/SNESG.php,20121105075321,http://vgmapper.com:80/SysSNES/SNESG.php,SNES maps and media,1541,AXMJTL3NVUPRZV3QZG6KR6IJUCEFSAFZ
+/syssnes/SNESH.php,syssnes/SNESH.php,20120828190826,http://www.vgmapper.com:80/syssnes/SNESH.php,SNES maps and media,1332,FW3VKYUSONDHJ7Q32THE34VLB4OOZJCY
+/SysSNES/SNESH.php,SysSNES/SNESH.php,20121105081111,http://vgmapper.com:80/SysSNES/SNESH.php,SNES maps and media,1332,FW3VKYUSONDHJ7Q32THE34VLB4OOZJCY
+/syssnes/SNESI.php,syssnes/SNESI.php,20120828190831,http://www.vgmapper.com:80/syssnes/SNESI.php,SNES maps and media,1343,YKLDFPU4V76KW4LOFBJ4WEWJNP3O5DCJ
+/SysSNES/SNESI.php,SysSNES/SNESI.php,20121205212110,http://vgmapper.com:80/SysSNES/SNESI.php,SNES maps and media,1507,AMEY7LD4ZLJK3NU75TIDGVRCETZG5FQF
+/syssnes/SNESJ.php,syssnes/SNESJ.php,20120828191147,http://www.vgmapper.com:80/syssnes/SNESJ.php,SNES maps and media,1450,342AT3OUVFD5DD2IBTEK5B75NJGLOGJ5
+/SysSNES/SNESJ.php,SysSNES/SNESJ.php,20121105072745,http://vgmapper.com:80/SysSNES/SNESJ.php,SNES maps and media,1449,342AT3OUVFD5DD2IBTEK5B75NJGLOGJ5
+/syssnes/SNESK.php,syssnes/SNESK.php,20120828190836,http://www.vgmapper.com:80/syssnes/SNESK.php,SNES maps and media,1429,K3ZLBJTOCDLPCTFIEVXZYVB6L5NEGWZM
+/SysSNES/SNESK.php,SysSNES/SNESK.php,20121105075011,http://vgmapper.com:80/SysSNES/SNESK.php,SNES maps and media,1429,K3ZLBJTOCDLPCTFIEVXZYVB6L5NEGWZM
+/SysSNES/SNESL.php,SysSNES/SNESL.php,20121205212240,http://vgmapper.com:80/SysSNES/SNESL.php,SNES maps and media,1695,GJFISMFTTRTKZ5BJW6TWH2BPYLCWAEEZ
+/syssnes/SNESM.php,syssnes/SNESM.php,20120828190841,http://www.vgmapper.com:80/syssnes/SNESM.php,SNES maps and media,1671,XD6E64ZQI3DN6K4TU7WVX5DBJLKZFKWE
+/SysSNES/SNESM.php,SysSNES/SNESM.php,20121205215335,http://vgmapper.com:80/SysSNES/SNESM.php,SNES maps and media,1839,LLC4LMMR424XRK5MJZLUHTLBFGLDAGEE
+/syssnes/SNESN.php,syssnes/SNESN.php,20120828190846,http://www.vgmapper.com:80/syssnes/SNESN.php,SNES maps and media,1288,5CT2IO3EQL3K4GF7ZXXTJ3OTPMHVDQ4B
+/SysSNES/SNESN.php,SysSNES/SNESN.php,20121105080820,http://vgmapper.com:80/SysSNES/SNESN.php,SNES maps and media,1286,5CT2IO3EQL3K4GF7ZXXTJ3OTPMHVDQ4B
+/syssnes/SNESNum.php,syssnes/SNESNum.php,20120828191152,http://www.vgmapper.com:80/syssnes/SNESNum.php,SNES maps and media,1273,S6RCBKLCBGT5J3FWRL7J4GBAGBHXE55U
+/SysSNES/SNESNum.php,SysSNES/SNESNum.php,20121010071051,http://vgmapper.com:80/SysSNES/SNESNum.php,SNES maps and media,1271,S6RCBKLCBGT5J3FWRL7J4GBAGBHXE55U
+/syssnes/SNESO.php,syssnes/SNESO.php,20121125055038,http://www.vgmapper.com:80/syssnes/SNESO.php,SNES maps and media,1521,WNM4YYKMQB5QVOWLPBSOAQURQS4L77RW
+/SysSNES/SNESO.php,SysSNES/SNESO.php,20121127011759,http://vgmapper.com:80/SysSNES/SNESO.php,SNES maps and media,1520,WNM4YYKMQB5QVOWLPBSOAQURQS4L77RW
+/syssnes/SNESP.php,syssnes/SNESP.php,20120828191157,http://www.vgmapper.com:80/syssnes/SNESP.php,SNES maps and media,1561,KH2OEFMS25AKLKQQSGSRZMZJKWCB23XF
+/SysSNES/SNESP.php,SysSNES/SNESP.php,20121208101239,http://vgmapper.com:80/SysSNES/SNESP.php,SNES maps and media,1737,IO5YNMBJQK2IER4FC47GBO7ULKHWVR5S
+/syssnes/SNESQ.php,syssnes/SNESQ.php,20120828191202,http://www.vgmapper.com:80/syssnes/SNESQ.php,SNES maps and media,1265,YS4UIFOC5C53GEKMDIP4MOF3XNJV5X5F
+/SysSNES/SNESQ.php,SysSNES/SNESQ.php,20121105080853,http://vgmapper.com:80/SysSNES/SNESQ.php,SNES maps and media,1264,YS4UIFOC5C53GEKMDIP4MOF3XNJV5X5F
+/syssnes/SNESR.php,syssnes/SNESR.php,20120828190851,http://www.vgmapper.com:80/syssnes/SNESR.php,SNES maps and media,1542,2LZZVQLMQVTFZBUFW6NKII562KPDT5CJ
+/SysSNES/SNESR.php,SysSNES/SNESR.php,20121105072830,http://vgmapper.com:80/SysSNES/SNESR.php,SNES maps and media,1541,2LZZVQLMQVTFZBUFW6NKII562KPDT5CJ
+/syssnes/SNESS.php,syssnes/SNESS.php,20120828190856,http://www.vgmapper.com:80/syssnes/SNESS.php,SNES maps and media,2242,C7SR3YSZKEP33A77BZHTXP46LI67UTKR
+/SysSNES/SNESS.php,SysSNES/SNESS.php,20121202131836,http://vgmapper.com:80/SysSNES/SNESS.php,SNES maps and media,2420,54KBYOBVFVR2LDQZTAEJX4A6CV4FVSHI
+/syssnes/SNESSOM.html,syssnes/SNESSOM.html,20071011211349,http://vgmapper.com:80/syssnes/SNESSOM.html,Untitled Document,804,3CF4DDGLIH2MXTEKOKO3SK53UBUDKCMY
+/syssnes/SNEST.php,syssnes/SNEST.php,20120828190902,http://www.vgmapper.com:80/syssnes/SNEST.php,SNES maps and media,1571,TT3XUUF7RMCBS7OLPYI7DMGRR4TJCJ5S
+/SysSNES/SNEST.php,SysSNES/SNEST.php,20121202132318,http://vgmapper.com:80/SysSNES/SNEST.php,SNES maps and media,1747,PD4IIAJELOH36OC5WG7C2LD45LIT6PLO
+/syssnes/SNESU.php,syssnes/SNESU.php,20120828190907,http://www.vgmapper.com:80/syssnes/SNESU.php,SNES maps and media,1456,Q44MO3DDPDEWIE4S5HORPUFR52F23BFY
+/SysSNES/SNESU.php,SysSNES/SNESU.php,20121105075044,http://vgmapper.com:80/SysSNES/SNESU.php,SNES maps and media,1455,Q44MO3DDPDEWIE4S5HORPUFR52F23BFY
+/syssnes/SNESV.php,syssnes/SNESV.php,20120828191208,http://www.vgmapper.com:80/syssnes/SNESV.php,SNES maps and media,1262,VJQTTDFMXB6PU2WNINAVMUB37OFLIOWX
+/SysSNES/SNESV.php,SysSNES/SNESV.php,20121105080951,http://vgmapper.com:80/SysSNES/SNESV.php,SNES maps and media,1262,VJQTTDFMXB6PU2WNINAVMUB37OFLIOWX
+/syssnes/SNESW.php,syssnes/SNESW.php,20120828191213,http://www.vgmapper.com:80/syssnes/SNESW.php,SNES maps and media,1415,4IG44T6SJKCPV5ZVCP4URM7HLQQPC27H
+/SysSNES/SNESW.php,SysSNES/SNESW.php,20121202131933,http://vgmapper.com:80/SysSNES/SNESW.php,SNES maps and media,1592,PGBTKCBMXT7IC4FF4PEVWE7R2B4QJR3O
+/syssnes/SNESX.php,syssnes/SNESX.php,20120828190912,http://www.vgmapper.com:80/syssnes/SNESX.php,SNES maps and media,1283,UCIQRKETMN3VBI2NM3EVWX6TZFU6H5K3
+/SysSNES/SNESX.php,SysSNES/SNESX.php,20121010071327,http://vgmapper.com:80/SysSNES/SNESX.php,SNES maps and media,1282,UCIQRKETMN3VBI2NM3EVWX6TZFU6H5K3
+/syssnes/SNESY.php,syssnes/SNESY.php,20120828190917,http://www.vgmapper.com:80/syssnes/SNESY.php,SNES maps and media,1445,BISR5NCUIJ5LOSMPUTH5Y6DLUIKTO27M
+/SysSNES/SNESY.php,SysSNES/SNESY.php,20121205215244,http://vgmapper.com:80/SysSNES/SNESY.php,SNES maps and media,1622,KEJRZ3O6ZD5CVTYIR27XKOLIZDRBXP7A
+/syssnes/SNESZ.php,syssnes/SNESZ.php,20120828190922,http://www.vgmapper.com:80/syssnes/SNESZ.php,SNES maps and media,1356,FXWMYAIEEODUCMI4YPURXDVUGNEK6FTV
+/SysSNES/SNESZ.php,SysSNES/SNESZ.php,20121010071358,http://vgmapper.com:80/SysSNES/SNESZ.php,SNES maps and media,1353,FXWMYAIEEODUCMI4YPURXDVUGNEK6FTV
+/syssnes/T/,syssnes/T/index.html,20120828190927,http://www.vgmapper.com:80/syssnes/T/,www.vgmapper.com - /syssnes/T/,2896,XUHDFI2NZP2BMH67CLUMY6PVCSJVTDPC
+/SysSNES/T/,SysSNES/T/index.html,20101203202816,http://www.vgmapper.com:80/SysSNES/T/,www.vgmapper.com - /SysSNES/T/,2106,KWA7ZOVICXCVPYI4URZQAMN7TUPE7MC6
+/SysSNES/T/TalesofPhantasia.html,SysSNES/T/TalesofPhantasia.html,20090618003703,http://www.vgmapper.com:80/SysSNES/T/TalesofPhantasia.html,Tales of Phantasia maps and media,1392,IFJKR5WAEME75J7N2PP2ZZE43MC22GXJ
+/SysSNES/T/Terminator.html,SysSNES/T/Terminator.html,20120722215922,http://www.vgmapper.com/SysSNES/T/Terminator.html,The Terminator maps and media,1159,ZN7NOUQEP67K5OLWY7RNXTY6XXJSJNEN
+/SysSNES/T/Terranigma.html,SysSNES/T/Terranigma.html,20120801003051,http://vgmapper.com:80/SysSNES/T/Terranigma.html,Terranigma maps and media,976,Z5QLIKJYPIYRKRF4QBRIB2OZT5CZLPAC
+/SysSNES/T/TestDrive2theDuel.html,SysSNES/T/TestDrive2theDuel.html,20120602050744,http://vgmapper.com:80/SysSNES/T/TestDrive2theDuel.html,Test Drive 2 the Duel maps and media,930,O6V3HMUCJPDW7EDV23R2DCGSDZ6FMO7K
+/SysSNES/T/TetrisAttack.html,SysSNES/T/TetrisAttack.html,20121105074424,http://vgmapper.com:80/SysSNES/T/TetrisAttack.html,Tetris Attack maps and media,882,LWBDEB5TMYYEZQQ4BTZIR3U226A5D5Z2
+/SysSNES/T/Tick.html,SysSNES/T/Tick.html,20120602050754,http://vgmapper.com:80/SysSNES/T/Tick.html,The Tick maps and media,877,VK5O3HNDTQKDATWVRZGI3ZCXULFAAYDP
+/SysSNES/T/TinyToonAdventures.html,SysSNES/T/TinyToonAdventures.html,20120602050759,http://vgmapper.com:80/SysSNES/T/TinyToonAdventures.html,Tiny Toon Adventures maps and media,877,UEBYUMDP7UMJOOMNR6FFK3JSKO3NDQZO
+/SysSNES/T/TinyToonSports.html,SysSNES/T/TinyToonSports.html,20120602045443,http://vgmapper.com:80/SysSNES/T/TinyToonSports.html,Tiny Toon Sports maps and media,875,3NEHDIQEPPAAIYQOZUMG44NRIQYXUEA5
+/SysSNES/T/Toride.html,SysSNES/T/Toride.html,20120602045448,http://vgmapper.com:80/SysSNES/T/Toride.html,Toride maps and media,907,YJK56BYQ7A64GP22I5JXLSITL2SCSIJN
+/SysSNES/T/TraverseStarlightandPrairie.html,SysSNES/T/TraverseStarlightandPrairie.html,20120602045453,http://vgmapper.com:80/SysSNES/T/TraverseStarlightandPrairie.html,Traverse Starlight and Prairie maps and media,939,42UFAGJR5OM675KDSRYV5HMIN6LX7SXV
+/SysSNES/T/TreasureHunterG.html,SysSNES/T/TreasureHunterG.html,20120602050820,http://vgmapper.com:80/SysSNES/T/TreasureHunterG.html,Treasure Hunter G maps and media,932,QOAOSKHEIZJD52BRD6L6ZDJC7NQZSIMN
+/SysSNES/T/TwistedTalesofSpikeMcFang.html,SysSNES/T/TwistedTalesofSpikeMcFang.html,20121011005151,http://vgmapper.com/SysSNES/T/TwistedTalesofSpikeMcFang.html,The Twisted Tales of Spike McFang maps and media,1277,D4RUU7Q6WQ4GE7RBRYXRJ3KSM56XOMCZ
+/syssnes/U/,syssnes/U/index.html,20120828191218,http://www.vgmapper.com:80/syssnes/U/,www.vgmapper.com - /syssnes/U/,2299,5U6ISXBOVEEHG6FNMXU3DGJSCUWCA6HL
+/SysSNES/U/,SysSNES/U/index.html,20101206033248,http://www.vgmapper.com:80/SysSNES/U/,www.vgmapper.com - /SysSNES/U/,1514,DTLSZR4JDAQZQPYH7EQAUARMWX7DG5U4
+/SysSNES/U/UFOKamenYakisoban.html,SysSNES/U/UFOKamenYakisoban.html,20120906191915,http://vgmapper.com:80/SysSNES/U/UFOKamenYakisoban.html,U.F.O. Kamen Yakisoban maps and media,876,IJFGVX67I6TSD3PXXZ64EVEV42CU2ZHW
+/SysSNES/U/UgokuEAryol.html,SysSNES/U/UgokuEAryol.html,20120906191920,http://vgmapper.com:80/SysSNES/U/UgokuEAryol.html,Ugoku E Aryol maps and media,921,RV5Z3QLQ2X4K6P4V7FBCXM5J6ZK6EGSM
+/SysSNES/U/Ultima6TheFalseProphet.html,SysSNES/U/Ultima6TheFalseProphet.html,20120906191925,http://vgmapper.com:80/SysSNES/U/Ultima6TheFalseProphet.html,Ultima 6 The False Prophet maps and media,1071,RFHBU5EYG6B3MQL2HQ7NRKYFPIKTVVDJ
+/SysSNES/U/Ultima7TheBlackGate.html,SysSNES/U/Ultima7TheBlackGate.html,20120906191948,http://vgmapper.com:80/SysSNES/U/Ultima7TheBlackGate.html,Ultima 7 The Black Gate maps and media,885,V44JHUNW7FH7BUENJCFHYOQBJ73KL4Q2
+/SysSNES/U/UltimaRunesofVirtue2.html,SysSNES/U/UltimaRunesofVirtue2.html,20120906191954,http://vgmapper.com:80/SysSNES/U/UltimaRunesofVirtue2.html,Ultima Runes of Virtue 2 maps and media,1550,V4BTAIQUWH5U3DT6Q54QEBRFSE3KLVOC
+/SysSNES/U/UltimaTheSavageEmpire.html,SysSNES/U/UltimaTheSavageEmpire.html,20120906192004,http://vgmapper.com:80/SysSNES/U/UltimaTheSavageEmpire.html,Ultima the Savage Empire maps and media,960,VT5KA4PGW4PU6M3J3HLNPXA4MWKZPSAC
+/syssnes/V/,syssnes/V/index.html,20120828190932,http://www.vgmapper.com:80/syssnes/V/,www.vgmapper.com - /syssnes/V/,485,Z2W6EBJ6W2KFTHWV3LDDOOVYEOEPWCQH
+/SysSNES/V/,SysSNES/V/index.html,20101208090444,http://www.vgmapper.com:80/SysSNES/V/,www.vgmapper.com - /SysSNES/V/,371,IWLFCSILT4F6GEQSPCKW3DFM4Z3CY3UI
+/SysSNES/V/VsCollection.html,SysSNES/V/VsCollection.html,20120906192021,http://vgmapper.com:80/SysSNES/V/VsCollection.html,Vs. Collection maps and media,874,OQMQRRI3CRVDHJCD3VZIC3TXUEJUOWXV
+/syssnes/W/,syssnes/W/index.html,20120828191229,http://www.vgmapper.com:80/syssnes/W/,www.vgmapper.com - /syssnes/W/,1493,FHOYXBTTZZEDWO7MAUI34AGEQ5ZHS2Y3
+/SysSNES/W/,SysSNES/W/index.html,20101206033307,http://www.vgmapper.com:80/SysSNES/W/,www.vgmapper.com - /SysSNES/W/,938,43X5QIVGEGJTTUNAIQJZ6KJDHJRLIL46
+/SysSNES/W/WallyWoSagase.html,SysSNES/W/WallyWoSagase.html,20120801005314,http://vgmapper.com:80/SysSNES/W/WallyWoSagase.html,Wally Wo Sagase maps and media,865,MFI4KAOL23JHLJS2YOBNCXNITEERWYQZ
+/SysSNES/W/Warlock.html,SysSNES/W/Warlock.html,20121105081116,http://vgmapper.com:80/SysSNES/W/Warlock.html,Warlock maps and media,995,URB6P5JSJLJ375COU52VMDBIH4SFGFJU
+/SysSNES/W/WaynesWorld.html,SysSNES/W/WaynesWorld.html,20120602010323,http://vgmapper.com:80/SysSNES/W/WaynesWorld.html,Wayne's World maps and media,1241,YEXRLRYC4CIKHNGD3CM2M3UDIULM4SG2
+/SysSNES/W/Whirlo.html,SysSNES/W/Whirlo.html,20120602010328,http://vgmapper.com:80/SysSNES/W/Whirlo.html,Whirlo maps and media,898,ZB6AXICR4TL7XPXJNRJ4RYCPQXPR6DAZ
+/SysSNES/W/Whizz.html,SysSNES/W/Whizz.html,20120801003507,http://vgmapper.com:80/SysSNES/W/Whizz.html,Whizz maps and media,858,DYL2ON5HHPXUAY2QIRJOOLIFYOAEDGSD
+/SysSNES/W/WolverineAdamantiumRage.html,SysSNES/W/WolverineAdamantiumRage.html,20120602010333,http://vgmapper.com:80/SysSNES/W/WolverineAdamantiumRage.html,Wolverine Adamantium Rage maps and media,870,KQD6B6UZUHMXRH3QGXWTTJCGZ3NJ7LIJ
+/SysSNES/W/WonderProjectJ.html,SysSNES/W/WonderProjectJ.html,20120602013733,http://vgmapper.com:80/SysSNES/W/WonderProjectJ.html,Wonder Project J maps and media,857,BKG76IPIBXAO6QR4P432BADOAVKMYZ56
+/syssnes/X/,syssnes/X/index.html,20120828190938,http://www.vgmapper.com:80/syssnes/X/,www.vgmapper.com - /syssnes/X/,500,ECTKL6UU2FFDOYAUU5ADXNCXPFIHOILG
+/SysSNES/X/,SysSNES/X/index.html,20101208090450,http://www.vgmapper.com:80/SysSNES/X/,www.vgmapper.com - /SysSNES/X/,499,EA5B45XSEJNGIXGFB6LEOKMQIUCZUAM3
+/SysSNES/X/XMenMutantApocalypse.html,SysSNES/X/XMenMutantApocalypse.html,20100607073830,http://www.vgmapper.com:80/SysSNES/X/XMenMutantApocalypse.html,X Men Mutant Apocalypse maps and media,868,MJHA6ZQX5VLZYU3JC6D3JMYMRDNV5WEN
+/syssnes/Y/,syssnes/Y/index.html,20120828191234,http://www.vgmapper.com:80/syssnes/Y/,www.vgmapper.com - /syssnes/Y/,1207,IZAZKJ4ANGD334ECCK2A52HX2XYFLOQM
+/SysSNES/Y/,SysSNES/Y/index.html,20101206033723,http://www.vgmapper.com:80/SysSNES/Y/,www.vgmapper.com - /SysSNES/Y/,1209,CYK6HLSVICAKGMF7URODU6QPZGPTU7JJ
+/SysSNES/Y/YamYam.html,SysSNES/Y/YamYam.html,20120907003316,http://vgmapper.com:80/SysSNES/Y/YamYam.html,Yam Yam maps and media,839,PPA3OXZQWJSMRMLBF4KXKHOJP2PYRYE5
+/SysSNES/Y/YoungMerlin.html,SysSNES/Y/YoungMerlin.html,20120907003320,http://vgmapper.com:80/SysSNES/Y/YoungMerlin.html,Young Merlin maps and media,911,XH5SEGU4GRJLAQZE3ZUIP5AY3ZQQ222N
+/SysSNES/Y/Ys3WanderersFromYs.html,SysSNES/Y/Ys3WanderersFromYs.html,20121105081121,http://vgmapper.com:80/SysSNES/Y/Ys3WanderersFromYs.html,Ys 3 Wanderers From Ys maps and media,874,YFGXQR2XKTHL5AOD66OT7UAPZF277PC3
+/SysSNES/Y/YumeMeikyuuKigurumiDaibouken.html,SysSNES/Y/YumeMeikyuuKigurumiDaibouken.html,20120907003323,http://vgmapper.com:80/SysSNES/Y/YumeMeikyuuKigurumiDaibouken.html,Yume Meikyuu Kigurumi Daibouken maps and media,987,JOBO2B3RMEMQQ6NS26ZIROVV53CRTBEU
+/SysSNES/Y/YuujinFuriFuriGirls.html,SysSNES/Y/YuujinFuriFuriGirls.html,20120907003330,http://vgmapper.com:80/SysSNES/Y/YuujinFuriFuriGirls.html,Yuujin Furi Furi Girls maps and media,880,QF4ERN5GPVNQ3J3SEGWMUX36ABLXIR5P
+/SysSNES/Y/YuujinJanjuuGakuen2.html,SysSNES/Y/YuujinJanjuuGakuen2.html,20120907003335,http://vgmapper.com:80/SysSNES/Y/YuujinJanjuuGakuen2.html,Yuujin Janjuu Gakuen 2 maps and media,877,FOZJSVCVU6NHWCRFL64TVKK43CH7ZASG
+/syssnes/Z/,syssnes/Z/index.html,20120828191239,http://www.vgmapper.com:80/syssnes/Z/,www.vgmapper.com - /syssnes/Z/,625,ZERXXEIT2LV6GZZFE7PZXUYWDJYNI5NW
+/SysSNES/Z/,SysSNES/Z/index.html,20101203203026,http://www.vgmapper.com:80/SysSNES/Z/,www.vgmapper.com - /SysSNES/Z/,625,V2NCLJYNKOPAA2QYE7RDNNDMKI6CNVU6
+/SysSNES/Z/ZennihonGTSenshuken.html,SysSNES/Z/ZennihonGTSenshuken.html,20101007015816,http://www.vgmapper.com:80/SysSNES/Z/ZennihonGTSenshuken.html,Zennihon GT Senshuken maps and media,860,IQNBMYL7DE7FIQS6FQLPGMEFL2K4GZUZ
+/SysSNES/Z/ZeroTheKamikazeSquirrel.html,SysSNES/Z/ZeroTheKamikazeSquirrel.html,20101026013922,http://www.vgmapper.com:80/SysSNES/Z/ZeroTheKamikazeSquirrel.html,Zero the Kamikaze Squirrel maps and media,883,XCFSIFKV6QEY4PBLUF3VP747ZRXNCFHL
+/SysSNES/Z/ZombiesAteMyNeighbors.html,SysSNES/Z/ZombiesAteMyNeighbors.html,20101007015846,http://www.vgmapper.com:80/SysSNES/Z/ZombiesAteMyNeighbors.html,Zombies Ate My Neighbors maps and media,862,5KAVKVNFXTTBV3Z7OPUQPAOHFIF42EQB
+/SysSSaturn/(GameListSSaturn.php,SysSSaturn/(GameListSSaturn.php,20101225073701,http://vgmapper.com/SysSSaturn/(GameListSSaturn.php,Sega Saturn maps and media,1025,QXISRNXY3ZRY63ER3U7JKTUXMHW5BMGK
+/SysSSaturn/C/ChoroQPark.html,SysSSaturn/C/ChoroQPark.html,20111229005510,http://vgmapper.com/SysSSaturn/C/ChoroQPark.html,Choro Q Park maps and media,1017,U7CDFIZOPBAVDTTHF3D3DEYWP5YSINS5
+/SysSSaturn/L/Langrisser4.html,SysSSaturn/L/Langrisser4.html,20100606171320,http://www.vgmapper.com:80/SysSSaturn/L/Langrisser4.html,Langrisser 4 maps and media,886,TO25MUWYHVESGHKCAPLBVCHPUIETSWY2
+/SysSSaturn/L/LangrisserDramaticEdition.html,SysSSaturn/L/LangrisserDramaticEdition.html,20100825143047,http://www.vgmapper.com:80/SysSSaturn/L/LangrisserDramaticEdition.html,Langrisser Dramatic Edition maps and media,1202,AP3GGAHKVN2ZSPQQSVNPODRBGUCZXJ47
+/SysSSaturn/P/PrikuraDaisakusen.html,SysSSaturn/P/PrikuraDaisakusen.html,20100806213507,http://www.vgmapper.com:80/SysSSaturn/P/PrikuraDaisakusen.html,Prikura Daisakusen maps and media,864,BJMODUDCOVC7LKQHGY2YLQLHGW2NHRV4
+/SysSSaturn/P/PuyoPuyoSun.html,SysSSaturn/P/PuyoPuyoSun.html,20100606171330,http://www.vgmapper.com:80/SysSSaturn/P/PuyoPuyoSun.html,Puyo Puyo Sun maps and media,874,XHHJKKQI6OS3BKZI42OSQJLLSAIIZTHV
+/SysSSaturn/S/SenkutsuKatsuryuTaisenChaosSeed.html,SysSSaturn/S/SenkutsuKatsuryuTaisenChaosSeed.html,20100606172353,http://www.vgmapper.com:80/SysSSaturn/S/SenkutsuKatsuryuTaisenChaosSeed.html,Senkutsu Katsuryu Taisen Chaos Seed maps and media,890,BZYGFH7ZRSX7FUES6EVUY66KIXGGAWVI
+/SysSSaturn/S/ShinreiJusatsushiTaromaru.html,SysSSaturn/S/ShinreiJusatsushiTaromaru.html,20100606172358,http://www.vgmapper.com:80/SysSSaturn/S/ShinreiJusatsushiTaromaru.html,Shinrei Jusatsushi Taromaru maps and media,868,CR3QSA6CUSMDD3PPPRDJ5QZXMQZUI5OL
+/SysSSaturn/SSC.php,SysSSaturn/SSC.php,20120808232153,http://vgmapper.com:80/SysSSaturn/SSC.php,Sega Saturn maps and media,1271,67N3S3MQMCJYCXLMPOP3JSW67R42437T
+/SysSSaturn/SSL.php,SysSSaturn/SSL.php,20111229012127,http://vgmapper.com/SysSSaturn/SSL.php,Sega Saturn maps and media,1442,D5Z7GPYIR7X676UI2BX34Z4OBGNPP4Q3
+/SysSSaturn/SSP.php,SysSSaturn/SSP.php,20111229005234,http://vgmapper.com/SysSSaturn/SSP.php,Sega Saturn maps and media,1443,TLPKCF7I33V7KBXM7RSS25CKMFUITA6W
+/SysSSaturn/SSS.php,SysSSaturn/SSS.php,20111229011140,http://vgmapper.com/SysSSaturn/SSS.php,Sega Saturn maps and media,1476,LMWP43Q4N3VOSR74GRSZRTB7UQTNTDIA
+/SysSX68/G/Granada.html,SysSX68/G/Granada.html,20120414074651,http://vgmapper.com:80/SysSX68/G/Granada.html,Granada maps and media,930,JZML2TGRU5NNHWZWL2VBMPCSJY5XD7UH
+/SysSX68/SX68G.php,SysSX68/SX68G.php,20120414072349,http://vgmapper.com:80/SysSX68/SX68G.php,Sharp X68000 maps and media,1245,Z2D43DBWOUGUQRZUVXMMJCRDXVUM5BUL
+/SysTCD/(GameListTCD.php,SysTCD/(GameListTCD.php,20101225065334,http://vgmapper.com/SysTCD/(GameListTCD.php,Turbo CD maps and media,895,UFSGYY4RIQBQDFCXAVGDJCLCIJGMHBWS
+/SysTCD/D/DragonSlayer.html,SysTCD/D/DragonSlayer.html,20111228133018,http://vgmapper.com/SysTCD/D/DragonSlayer.html,Dragon Slayer maps and media,989,LF57FMQZZLFUIOVMCNCIJCXZUQUF6IIK
+/SysTCD/TCDD.php,SysTCD/TCDD.php,20120808044606,http://vgmapper.com:80/SysTCD/TCDD.php,Turbo CD maps and media,1241,7EEFUAGA7I24TNXOYL7ANOHOLDFQJMFR
+/systemgba.html,systemgba.html,20071018023143,http://www.vgmapper.com:80/systemgba.html,Untitled Document,846,DYHU3Q2WCXDXZL4RG4PBJPNADRKMY5BE
+/SystemList.php,SystemList.php,20121203092732,http://vgmapper.com:80/SystemList.php,Game System Directory,930,66FQOUIIR5NEID2L3WF43J5RQZOIA5OW
+/systemn64.html,systemn64.html,20071018023148,http://www.vgmapper.com:80/systemn64.html,Untitled Document,970,QJPJ6YQ5FMEIO6BYVFDIVMAM7I5JWIZJ
+/systemps1.html,systemps1.html,20071018030853,http://www.vgmapper.com:80/systemps1.html,Untitled Document,866,6GBHFELJA3TUEK4Q42RZZJZUTDYDZBW3
+/SysTG16/B/BloodyWolf.html,SysTG16/B/BloodyWolf.html,20120414074656,http://vgmapper.com:80/SysTG16/B/BloodyWolf.html,Bloody Wolf maps and media,945,4ISOLKPE5GKXV2QISHIKMKPSPIJGJG7R
+/SysTG16/TG16B.php,SysTG16/TG16B.php,20120414072213,http://vgmapper.com:80/SysTG16/TG16B.php,Turbografx 16 maps and media,1240,GGSDDMGX5BGPZL5RHWNARGGIMXQFW5SF
+/SysWii/(GameListWii.php,SysWii/(GameListWii.php,20101225074751,http://vgmapper.com/SysWii/(GameListWii.php,Wii maps and media,987,NTTIF2ND7CBUJAYEIPAKHDOG5TADR76T
+/SysWii/L/LegendofZeldaTwilightPrincess.html,SysWii/L/LegendofZeldaTwilightPrincess.html,20120801003529,http://vgmapper.com:80/SysWii/L/LegendofZeldaTwilightPrincess.html,The Legend of Zelda 11 Twilight Princess maps and media,1094,NTTMRYPBOXL66UVVNDW67V5FEAZXZ2ZC
+/SysWii/M/MetroidPrime3.html,SysWii/M/MetroidPrime3.html,20100806213514,http://www.vgmapper.com:80/SysWii/M/MetroidPrime3.html,Metroid Prime 3 maps and media,1595,FVWCGTBIO5K2FZX4QZVVP7STB6PUOZKA
+/SysWii/M/MetroidPrimeTrilogy.html,SysWii/M/MetroidPrimeTrilogy.html,20100606172403,http://www.vgmapper.com:80/SysWii/M/MetroidPrimeTrilogy.html,Metroid Prime Trilogy maps and media,1087,DJ3ENMAVL4JVL22UDXFJKCO64H7GE4KF
+/SysWii/O/Okami.html,SysWii/O/Okami.html,20100606172408,http://www.vgmapper.com:80/SysWii/O/Okami.html,Okami maps and media,858,DZ6RMFKWHWLJG7ZW5BJLUBMKV3HODFB7
+/SysWii/S/ShirentheWanderer.html,SysWii/S/ShirentheWanderer.html,20100606172414,http://www.vgmapper.com:80/SysWii/S/ShirentheWanderer.html,Shiren the Wanderer maps and media,2707,BO3ECVI6G4X2OW6GWBCPRL2HKNPNH2QM
+/SysWii/S/SuperMarioGalaxy.html,SysWii/S/SuperMarioGalaxy.html,20100606172452,http://www.vgmapper.com:80/SysWii/S/SuperMarioGalaxy.html,Super Mario Galaxy maps and media,866,33MVZGKVV75DC2FLRUIRFHFOUYOCETFD
+/SysWii/WiiL.php,SysWii/WiiL.php,20120831203033,http://vgmapper.com:80/SysWii/WiiL.php,Wii maps and media,1280,IUNIDRTLLNG3J44ENBZMBO3VYOV3WOQK
+/SysWii/WiiM.php,SysWii/WiiM.php,20120605013152,http://vgmapper.com:80/SysWii/WiiM.php,Wii maps and media,1273,ZSCX2YPPEHGY3R7QEXMZQ5PRV46FCYQL
+/SysWii/WiiN.php,SysWii/WiiN.php,20120605013157,http://vgmapper.com:80/SysWii/WiiN.php,Wii maps and media,1268,FW5ODCNOGCM2XLMI5MRGUCXK6J3TMITS
+/SysWii/WiiO.php,SysWii/WiiO.php,20120605013202,http://vgmapper.com:80/SysWii/WiiO.php,Wii maps and media,1247,Y6YFI4ORX73GWKEAVTYHXZFK2FJJTJY5
+/SysWii/WiiS.php,SysWii/WiiS.php,20120605013236,http://vgmapper.com:80/SysWii/WiiS.php,Wii maps and media,1298,HF3CBOBW3MWC2HBFJBFJWUG5JPMSJP2C
+/SysWSC/(GameListWSC.php,SysWSC/(GameListWSC.php,20101225074027,http://vgmapper.com/SysWSC/(GameListWSC.php,Wonder Swan Color maps and media,903,XZ2BSVX7FLZVP4OUJUYCW5PTRHCXJMYD
+/SysWSC/F/FinalFantasy.html,SysWSC/F/FinalFantasy.html,20111229123540,http://vgmapper.com/SysWSC/F/FinalFantasy.html,Final Fantasy maps and media,992,NIVJ3UXN4J2SQIWCGAGWIO6Y3JDQHISD
+/SysWSC/WSCF.php,SysWSC/WSCF.php,20120808232158,http://vgmapper.com:80/SysWSC/WSCF.php,Wonder Swan Color maps and media,1254,DNLOP2NRQF6GQIRKJRK5ET6IQNQ3ALAL
+/TableofContents.php,TableofContents.php,20101225091940,http://vgmapper.com/TableofContents.php,Untitled Document,858,PUHCRHE47WHYZGSIYZFUZTAAXNXAI3J7
+/Tank.php,Tank.php,20111014230612,http://vgmapper.com/Tank.php,Secret Save Tank,1224,INMJXSGNNTITPANMFWDC5MD2V4DL5HEM
+/Tank/99/,Tank/99/index.html,20121011005238,http://vgmapper.com/Tank/99/,vgmapper.com - /Tank/99/,2883,QEFMS4E6TYCTUQZ4YMUHIHXCTZWKY56Y
