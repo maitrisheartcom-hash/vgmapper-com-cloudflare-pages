@@ -91,7 +91,7 @@
         <div class="vg-locale-card__body">
           <p class="vg-page-kicker">Japan</p>
           <h3>日本語のAIコンパニオン</h3>
-          <p>自然な会話、安心できるプライバシー、毎日の気持ちに寄り添う体験を探している方には、<a href="https://aigirlfriend.media/ja/">AI彼女</a> と <a href="https://maitrisheart.com/ja/">大人向けAIコンパニオン</a> の日本語版があります。</p>
+          <p>自然な会話、安心できるプライバシー、毎日の気持ちに寄り添う体験を探している方には、<a href="https://aigirlfriend.media/ja/" hreflang="ja">AI彼女</a> と <a href="https://maitrisheart.com/ja/" hreflang="ja">大人向けAIコンパニオン</a> の日本語版があります。</p>
         </div>
       </article>
       <article class="vg-card vg-locale-card" lang="de">
@@ -99,7 +99,7 @@
         <div class="vg-locale-card__body">
           <p class="vg-page-kicker">German</p>
           <h3>Deutschsprachige KI-Begleitung</h3>
-          <p>Für private Gespräche, verlässliche Erinnerungen und ruhige digitale Nähe stehen die deutschen Seiten für <a href="https://aigirlfriend.media/de/">KI-Freundin</a> und <a href="https://maitrisheart.com/de/">KI-Begleiter für Erwachsene</a> bereit.</p>
+          <p>Für private Gespräche, verlässliche Erinnerungen und ruhige digitale Nähe stehen die deutschen Seiten für <a href="https://aigirlfriend.media/de/" hreflang="de">KI-Freundin</a> und <a href="https://maitrisheart.com/de/" hreflang="de">KI-Begleiter für Erwachsene</a> bereit.</p>
         </div>
       </article>
     </div>
