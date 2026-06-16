@@ -25,6 +25,13 @@
   function prepareExternalLinks() {
     var links = document.querySelectorAll("a[data-vg-external]");
     links.forEach(function (link) {
+      var remoteImages = link.querySelectorAll('img[src^="http://"], img[src^="https://"]');
+
+      remoteImages.forEach(function (image) {
+        image.classList.add("vg-missing-image");
+        image.setAttribute("alt", "");
+      });
+
       link.setAttribute("role", "link");
       link.setAttribute("tabindex", "0");
       link.setAttribute("rel", "nofollow noopener noreferrer");

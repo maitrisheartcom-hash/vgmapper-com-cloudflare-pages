@@ -96,18 +96,6 @@ a[data-vg-external] {
   cursor: pointer;
 }
 
-a[data-vg-external]::after {
-  content: " ext";
-  color: var(--vg-muted);
-  font-size: 0.72em;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
-
-a[data-vg-external]:has(img)::after {
-  content: "";
-}
-
 pre {
   padding: 16px;
   overflow-x: auto;
@@ -131,6 +119,11 @@ body > table:first-of-type:has(img[src*="MainTitle"]) td {
 }
 
 img.vg-missing-image {
+  display: none !important;
+}
+
+a[data-vg-external] img[src^="http://"],
+a[data-vg-external] img[src^="https://"] {
   display: none !important;
 }
 
