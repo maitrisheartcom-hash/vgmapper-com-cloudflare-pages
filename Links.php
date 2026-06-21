@@ -3,11 +3,19 @@
 <head>
 <meta charset="utf-8">
 <title>Mapper Links</title>
+<meta name="description" content="Preserved VGMapper resource link page, kept as historical external references with nofollow JavaScript archive links.">
 <link rel="stylesheet" href="/Assets/site.css">
 <script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
+<section class="vg-page-intro">
+  <p class="vg-page-kicker">External resources</p>
+  <h1>Mapper Links</h1>
+  <p>This is a preserved resource-link page from the original VGMapper archive. The linked sites were relevant to game maps, sprites, music, RPG resources, manuals and ROM hacking at the time of the original site.</p>
+  <p>Because old external domains can change ownership or disappear, these links are JavaScript-only, nofollow archive actions. They should not be read as current endorsements.</p>
+  <p>For actual maps hosted in this static archive, use the <a href="/SystemList.php">system directory</a> and the <a href="/Mappers.php">mapper credits</a>. This page is mainly useful for understanding the older resource neighborhood around VGMapper and comparing old reference routes.</p>
+</section>
 <table width="716" border="0" align="center" bordercolor="#999999" bgcolor="#FFFFFF">
   <tr>
     <td width="234"><a data-vg-external="aHR0cDovL3d3dy5mYW50YXN5YW5pbWUuY29tLw==" rel="nofollow noopener noreferrer" target="_blank" role="link" tabindex="0" class="vg-external-link"><img src="/Images/LinkFantasyAnime.png" width="234" height="60" border="0" /></a></td>

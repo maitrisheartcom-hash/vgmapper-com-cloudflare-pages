@@ -3,11 +3,19 @@
 <head>
 <meta charset="utf-8">
 <title>Game System Directory</title>
+<meta name="description" content="VGMapper system directory for the restored static archive, linking to preserved map sections by platform.">
 <link rel="stylesheet" href="/Assets/site.css">
 <script defer src="/Assets/site.js"></script>
 </head>
 
 <body>
+<section class="vg-page-intro">
+  <p class="vg-page-kicker">Map database</p>
+  <h1>Game System Directory</h1>
+  <p>This page is the main platform entry point for the restored VGMapper archive. It links to preserved system sections such as Arcade, Dreamcast, Game Boy, Game Boy Advance, Nintendo 64, PlayStation, SNES, PC, Wii and others.</p>
+  <p>Some original pages were image-based navigation screens. The restored static archive keeps those links available, but the system buttons below should be treated as archive navigation rather than a current release database.</p>
+  <p>Use this directory when you know the console or platform first. If a legacy page looks sparse, follow the local system and letter pages before relying on old web-archive captures.</p>
+</section>
 <p><a href="/SysArcade/ArcadeB.php"><img src="/Images/ButtonSysArcade.png" width="87" height="32" border="0" /></a><p><a href="/SysDC/DCB.php"><img src="/Images/ButtonSysDC.png" width="125" height="32" border="0" /></a></p>
 <p><a href="/SysGB/GBA.php"><img src="/Images/ButtonSysGB.png" width="120" height="32" border="0" /></a></p>
 <p><a href="/SysGBC/GBCB.php"><img src="/Images/ButtonSysGBC.png" width="178" height="32" border="0" /></a></p>

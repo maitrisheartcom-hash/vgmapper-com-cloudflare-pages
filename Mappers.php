@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Mappers</title>
+<meta name="description" content="VGMapper contributor index with preserved mapper names, roles, IDs and archive links.">
 <meta name="keywords" content="Mappers">
 <style type="text/css">
 <!--
@@ -19,6 +20,12 @@
 </head>
 
 <body>
+<section class="vg-page-intro">
+  <p class="vg-page-kicker">Contributors</p>
+  <h1>VGMapper Mappers</h1>
+  <p>This page preserves the mapper credit grid from the original VGMapper site. Names, roles and IDs are archive data; old personal-site links may no longer be current and are opened as nofollow external archive actions.</p>
+  <p>Contributor map lists remain available where they were restored locally.</p>
+</section>
 <p><img src="/Images/ButtonMappers.png" width="82" height="32" /></p>
 <p><strong><span class="style3">VGMappers</span></strong></p>
 <table width="907" border="0">
